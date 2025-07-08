@@ -1,0 +1,65 @@
+{
+  "id": "community.stremio.autosync",
+  "version": "1.0.0",
+  "name": "AutoSync Stremio Addon",
+  "description": "Auto-updating catalogs for streaming services and genres.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "netflix-movies",
+      "name": "Netflix Movies"
+    },
+    {
+      "type": "series",
+      "id": "netflix-series",
+      "name": "Netflix Series"
+    },
+    {
+      "type": "movie",
+      "id": "disney-movies",
+      "name": "Disney+ Movies"
+    },
+    {
+      "type": "series",
+      "id": "disney-series",
+      "name": "Disney+ Series"
+    },
+    {
+      "type": "movie",
+      "id": "prime-movies",
+      "name": "Prime Movies"
+    },
+    {
+      "type": "series",
+      "id": "prime-series",
+      "name": "Prime Series"
+    },
+    {
+      "type": "movie",
+      "id": "apple-movies",
+      "name": "Apple TV+ Movies"
+    },
+    {
+      "type": "series",
+      "id": "apple-series",
+      "name": "Apple TV+ Series"
+    },
+    {
+      "type": "movie",
+      "id": "popular-movies",
+      "name": "Popular Movies"
+    },
+    {
+      "type": "series",
+      "id": "popular-series",
+      "name": "Popular Series"
+    }
+  ]
+}
