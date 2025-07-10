@@ -1,7 +1,17 @@
 [
   {
+    "title": "Vibe Check",
+    "imdb_id": "tt37039360",
+    "type": "tv"
+  },
+  {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
+    "type": "tv"
+  },
+  {
+    "title": "Team Players",
+    "imdb_id": "tt31936698",
     "type": "tv"
   },
   {
@@ -87,16 +97,6 @@
   {
     "title": "Choir",
     "imdb_id": "tt28080721",
-    "type": "tv"
-  },
-  {
-    "title": "The Voice Brasil",
-    "imdb_id": "tt2162116",
-    "type": "tv"
-  },
-  {
-    "title": "Star Wars: The Clone Wars",
-    "imdb_id": "tt0458290",
     "type": "tv"
   }
 ]

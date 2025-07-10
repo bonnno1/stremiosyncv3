@@ -1,27 +1,12 @@
 [
   {
+    "title": "View-Master",
+    "imdb_id": "tt37532157",
+    "type": "movie"
+  },
+  {
     "title": "Lone Stars",
     "imdb_id": "tt31952931",
-    "type": "movie"
-  },
-  {
-    "title": "We, Brothers",
-    "imdb_id": "tt33363309",
-    "type": "movie"
-  },
-  {
-    "title": "Telefon-saudade",
-    "imdb_id": "tt35805382",
-    "type": "movie"
-  },
-  {
-    "title": "One of Many Suppers",
-    "imdb_id": "tt37171479",
-    "type": "movie"
-  },
-  {
-    "title": "The Rendezvous",
-    "imdb_id": "tt35882867",
     "type": "movie"
   }
 ]
