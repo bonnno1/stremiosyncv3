@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "Law and the City",
+    "imdb_id": "tt37260466",
+    "type": "tv"
+  },
+  {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "\uff1cJUNG KOOK: I AM STILL\uff1e THE ORIGINAL",
     "imdb_id": "tt34506719",
-    "type": "tv"
-  },
-  {
-    "title": "Choir",
-    "imdb_id": "tt28080721",
     "type": "tv"
   }
 ]
