@@ -5,23 +5,8 @@
     "type": "tv"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen",
-    "imdb_id": "tt2057880",
-    "type": "tv"
-  },
-  {
     "title": "Good Mythical Morning",
     "imdb_id": "tt4087032",
-    "type": "tv"
-  },
-  {
-    "title": "Late Night with Seth Meyers",
-    "imdb_id": "tt3513388",
-    "type": "tv"
-  },
-  {
-    "title": "Among Friends",
-    "imdb_id": "tt0175383",
     "type": "tv"
   },
   {
@@ -30,18 +15,18 @@
     "type": "tv"
   },
   {
+    "title": "Watch What Happens Live with Andy Cohen",
+    "imdb_id": "tt2057880",
+    "type": "tv"
+  },
+  {
+    "title": "Among Friends",
+    "imdb_id": "tt0175383",
+    "type": "tv"
+  },
+  {
     "title": "The Late Show with Stephen Colbert",
     "imdb_id": "tt3697842",
-    "type": "tv"
-  },
-  {
-    "title": "Doraemon",
-    "imdb_id": "tt4083422",
-    "type": "tv"
-  },
-  {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -50,13 +35,13 @@
     "type": "tv"
   },
   {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
+    "title": "Doraemon",
+    "imdb_id": "tt4083422",
     "type": "tv"
   },
   {
-    "title": "The Daily Show",
-    "imdb_id": "tt0115147",
+    "title": "Late Night with Seth Meyers",
+    "imdb_id": "tt3513388",
     "type": "tv"
   },
   {
@@ -65,8 +50,23 @@
     "type": "tv"
   },
   {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
+    "type": "tv"
+  },
+  {
     "title": "Men on a Mission",
     "imdb_id": "tt5247622",
+    "type": "tv"
+  },
+  {
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
@@ -75,18 +75,13 @@
     "type": "tv"
   },
   {
+    "title": "The Daily Show",
+    "imdb_id": "tt0115147",
+    "type": "tv"
+  },
+  {
     "title": "The Colbert Report",
     "imdb_id": "tt0458254",
-    "type": "tv"
-  },
-  {
-    "title": "Rooster Teeth Animated Adventures",
-    "imdb_id": "tt21740392",
-    "type": "tv"
-  },
-  {
-    "title": "Last Man Standing",
-    "imdb_id": "tt1828327",
     "type": "tv"
   },
   {
@@ -95,8 +90,13 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "Last Man Standing",
+    "imdb_id": "tt1828327",
+    "type": "tv"
+  },
+  {
+    "title": "Big Brother",
+    "imdb_id": "tt0257295",
     "type": "tv"
   }
 ]
