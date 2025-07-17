@@ -15,6 +15,11 @@
     "type": "tv"
   },
   {
+    "title": "Low Life",
+    "imdb_id": "tt32122656",
+    "type": "tv"
+  },
+  {
     "title": "NCT 127: The Lost Boys",
     "imdb_id": "tt28306746",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "\uff1cJUNG KOOK: I AM STILL\uff1e THE ORIGINAL",
     "imdb_id": "tt34506719",
-    "type": "tv"
-  },
-  {
-    "title": "Choir",
-    "imdb_id": "tt28080721",
     "type": "tv"
   }
 ]
