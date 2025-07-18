@@ -30,6 +30,11 @@
     "type": "tv"
   },
   {
+    "title": "Bullet Bullet",
+    "imdb_id": "tt34710683",
+    "type": "tv"
+  },
+  {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
     "type": "tv"
@@ -65,6 +70,11 @@
     "type": "tv"
   },
   {
+    "title": "The Voice Brasil",
+    "imdb_id": "tt2162116",
+    "type": "tv"
+  },
+  {
     "title": "BTS Monuments: Beyond the Star",
     "imdb_id": "tt23871680",
     "type": "tv"
@@ -87,16 +97,6 @@
   {
     "title": "Ed Sheeran: The Sum of It All",
     "imdb_id": "tt27192366",
-    "type": "tv"
-  },
-  {
-    "title": "X-Men '97",
-    "imdb_id": "tt16026746",
-    "type": "tv"
-  },
-  {
-    "title": "\uff1cJUNG KOOK: I AM STILL\uff1e THE ORIGINAL",
-    "imdb_id": "tt34506719",
     "type": "tv"
   }
 ]
