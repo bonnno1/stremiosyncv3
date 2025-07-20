@@ -85,11 +85,6 @@
     "type": "tv"
   },
   {
-    "title": "Camp Snoopy",
-    "imdb_id": "tt32490790",
-    "type": "tv"
-  },
-  {
     "title": "Black Bird",
     "imdb_id": "tt4301160",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "See",
     "imdb_id": "tt7949218",
+    "type": "tv"
+  },
+  {
+    "title": "Yo Gabba GabbaLand!",
+    "imdb_id": "tt32082949",
     "type": "tv"
   }
 ]
