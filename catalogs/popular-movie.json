@@ -25,13 +25,18 @@
     "type": "movie"
   },
   {
-    "title": "Man with No Past",
-    "imdb_id": "tt31974129",
+    "title": "Happy Gilmore 2",
+    "imdb_id": "tt31868189",
     "type": "movie"
   },
   {
     "title": "Bride Hard",
     "imdb_id": "tt21317634",
+    "type": "movie"
+  },
+  {
+    "title": "Man with No Past",
+    "imdb_id": "tt31974129",
     "type": "movie"
   },
   {
@@ -47,11 +52,6 @@
   {
     "title": "Ice Road: Vengeance",
     "imdb_id": "tt27621210",
-    "type": "movie"
-  },
-  {
-    "title": "Happy Gilmore 2",
-    "imdb_id": "tt31868189",
     "type": "movie"
   },
   {
@@ -75,13 +75,13 @@
     "type": "movie"
   },
   {
-    "title": "Almost Cops",
-    "imdb_id": "tt27675583",
+    "title": "Thunderbolts*",
+    "imdb_id": "tt20969586",
     "type": "movie"
   },
   {
-    "title": "Thunderbolts*",
-    "imdb_id": "tt20969586",
+    "title": "Almost Cops",
+    "imdb_id": "tt27675583",
     "type": "movie"
   },
   {
@@ -90,13 +90,13 @@
     "type": "movie"
   },
   {
-    "title": "The Old Guard 2",
-    "imdb_id": "tt14961624",
+    "title": "Dangerous Animals",
+    "imdb_id": "tt32299316",
     "type": "movie"
   },
   {
-    "title": "Heads of State",
-    "imdb_id": "tt13357520",
+    "title": "The Old Guard 2",
+    "imdb_id": "tt14961624",
     "type": "movie"
   }
 ]
