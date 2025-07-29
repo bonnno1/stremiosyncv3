@@ -75,11 +75,6 @@
     "type": "tv"
   },
   {
-    "title": "Real Madrid: Until the End",
-    "imdb_id": "tt26924816",
-    "type": "tv"
-  },
-  {
     "title": "Silo",
     "imdb_id": "tt14688458",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Earth at Night in Colour",
     "imdb_id": "tt13008036",
+    "type": "tv"
+  },
+  {
+    "title": "Real Madrid: Until the End",
+    "imdb_id": "tt26924816",
     "type": "tv"
   }
 ]
