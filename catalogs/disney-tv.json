@@ -30,18 +30,13 @@
     "type": "tv"
   },
   {
-    "title": "Bullet Bullet",
-    "imdb_id": "tt34710683",
-    "type": "tv"
-  },
-  {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
     "type": "tv"
   },
   {
-    "title": "Low Life",
-    "imdb_id": "tt32122656",
+    "title": "Bullet Bullet",
+    "imdb_id": "tt34710683",
     "type": "tv"
   },
   {
@@ -97,6 +92,11 @@
   {
     "title": "Boris",
     "imdb_id": "tt1020116",
+    "type": "tv"
+  },
+  {
+    "title": "X-Men '97",
+    "imdb_id": "tt16026746",
     "type": "tv"
   }
 ]

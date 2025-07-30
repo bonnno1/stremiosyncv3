@@ -50,18 +50,13 @@
     "type": "tv"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen",
-    "imdb_id": "tt2057880",
-    "type": "tv"
-  },
-  {
-    "title": "The Tonight Show Starring Jimmy Fallon",
-    "imdb_id": "tt3444938",
-    "type": "tv"
-  },
-  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "Watch What Happens Live with Andy Cohen",
+    "imdb_id": "tt2057880",
     "type": "tv"
   },
   {
@@ -75,8 +70,8 @@
     "type": "tv"
   },
   {
-    "title": "Horizon",
-    "imdb_id": "tt0318224",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "imdb_id": "tt3444938",
     "type": "tv"
   },
   {
@@ -85,13 +80,18 @@
     "type": "tv"
   },
   {
-    "title": "Ninja Hattori-kun",
-    "imdb_id": "tt2787558",
+    "title": "Horizon",
+    "imdb_id": "tt0318224",
     "type": "tv"
   },
   {
     "title": "The Daily Show",
     "imdb_id": "tt0115147",
+    "type": "tv"
+  },
+  {
+    "title": "Ninja Hattori-kun",
+    "imdb_id": "tt2787558",
     "type": "tv"
   },
   {
