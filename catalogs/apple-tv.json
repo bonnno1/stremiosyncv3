@@ -1,10 +1,5 @@
 [
   {
-    "title": "Chief of War",
-    "imdb_id": "tt19381692",
-    "type": "tv"
-  },
-  {
     "title": "Puppy Place",
     "imdb_id": "tt15389998",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Real Madrid: Until the End",
     "imdb_id": "tt26924816",
+    "type": "tv"
+  },
+  {
+    "title": "Yo Gabba GabbaLand!",
+    "imdb_id": "tt32082949",
     "type": "tv"
   }
 ]
