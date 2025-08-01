@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "Mr. & Mrs. Murder",
-    "imdb_id": "tt37376921",
-    "type": "tv"
-  },
-  {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
     "type": "tv"
@@ -32,11 +27,6 @@
   {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
-    "type": "tv"
-  },
-  {
-    "title": "Bullet Bullet",
-    "imdb_id": "tt34710683",
     "type": "tv"
   },
   {
@@ -97,6 +87,16 @@
   {
     "title": "X-Men '97",
     "imdb_id": "tt16026746",
+    "type": "tv"
+  },
+  {
+    "title": "Choir",
+    "imdb_id": "tt28080721",
+    "type": "tv"
+  },
+  {
+    "title": "Moving",
+    "imdb_id": "tt24640580",
     "type": "tv"
   }
 ]
