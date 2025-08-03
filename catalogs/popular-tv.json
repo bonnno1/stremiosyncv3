@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "Men on a Mission",
-    "imdb_id": "tt5247622",
-    "type": "tv"
-  },
-  {
     "title": "Horizon",
     "imdb_id": "tt0318224",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Infinite Challenge",
     "imdb_id": "tt4546568",
+    "type": "tv"
+  },
+  {
+    "title": "60 Minutes",
+    "imdb_id": "tt0123338",
     "type": "tv"
   }
 ]
