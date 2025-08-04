@@ -15,11 +15,6 @@
     "type": "tv"
   },
   {
-    "title": "WWE Superstar Profiles",
-    "imdb_id": "tt35288922",
-    "type": "tv"
-  },
-  {
     "title": "Love Never Lies: South Africa",
     "imdb_id": "tt34724701",
     "type": "tv"
@@ -45,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "Glass Heart",
-    "imdb_id": "tt31501513",
-    "type": "tv"
-  },
-  {
     "title": "Baby Gorilla Cam",
     "imdb_id": "tt29040715",
     "type": "tv"
@@ -67,6 +57,11 @@
   {
     "title": "Return of the Wild: The Bearman of Buncrana",
     "imdb_id": "tt26930840",
+    "type": "tv"
+  },
+  {
+    "title": "Tunnel",
+    "imdb_id": "tt12020952",
     "type": "tv"
   }
 ]
