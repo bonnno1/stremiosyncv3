@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "Nukitashi the Animation",
-    "imdb_id": "tt37205655",
-    "type": "tv"
-  },
-  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
     "type": "tv"
@@ -20,13 +15,8 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
+    "title": "The Summer I Turned Pretty",
+    "imdb_id": "tt14016500",
     "type": "tv"
   },
   {
@@ -35,13 +25,28 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "imdb_id": "tt37205655",
+    "type": "tv"
+  },
+  {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -50,23 +55,8 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "The Summer I Turned Pretty",
-    "imdb_id": "tt14016500",
-    "type": "tv"
-  },
-  {
-    "title": "The Amazing Race",
-    "imdb_id": "tt0285335",
-    "type": "tv"
-  },
-  {
-    "title": "Rooster Teeth Animated Adventures",
-    "imdb_id": "tt21740392",
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
@@ -75,18 +65,18 @@
     "type": "tv"
   },
   {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
+    "title": "The Last American Gay Bar",
+    "imdb_id": "tt29258581",
     "type": "tv"
   },
   {
-    "title": "Horizon",
-    "imdb_id": "tt0318224",
+    "title": "Chespirito: Not Really on Purpose",
+    "imdb_id": "tt34755671",
     "type": "tv"
   },
   {
-    "title": "Doraemon",
-    "imdb_id": "tt4083422",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
@@ -97,6 +87,16 @@
   {
     "title": "Prison Break",
     "imdb_id": "tt0455275",
+    "type": "tv"
+  },
+  {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
     "type": "tv"
   }
 ]
