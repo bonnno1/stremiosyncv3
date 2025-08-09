@@ -40,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "Nukitashi the Animation",
-    "imdb_id": "tt37205655",
-    "type": "tv"
-  },
-  {
     "title": "NCIS",
     "imdb_id": "tt0364845",
     "type": "tv"
@@ -52,6 +47,11 @@
   {
     "title": "Dexter",
     "imdb_id": "tt0773262",
+    "type": "tv"
+  },
+  {
+    "title": "Nukitashi the Animation",
+    "imdb_id": "tt37205655",
     "type": "tv"
   },
   {
