@@ -5,18 +5,23 @@
     "type": "tv"
   },
   {
-    "title": "Divas Hit the Road",
-    "imdb_id": "tt4721732",
-    "type": "tv"
-  },
-  {
     "title": "Alien: Earth",
     "imdb_id": "tt13623632",
     "type": "tv"
   },
   {
+    "title": "Divas Hit the Road",
+    "imdb_id": "tt4721732",
+    "type": "tv"
+  },
+  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "The Summer I Turned Pretty",
+    "imdb_id": "tt14016500",
     "type": "tv"
   },
   {
@@ -35,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "The Summer I Turned Pretty",
-    "imdb_id": "tt14016500",
-    "type": "tv"
-  },
-  {
     "title": "Dexter",
     "imdb_id": "tt0773262",
     "type": "tv"
@@ -50,13 +50,13 @@
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
+    "title": "The Last American Gay Bar",
+    "imdb_id": "tt29258581",
     "type": "tv"
   },
   {
-    "title": "The Last American Gay Bar",
-    "imdb_id": "tt29258581",
+    "title": "Butterfly",
+    "imdb_id": "tt26672404",
     "type": "tv"
   },
   {
@@ -70,33 +70,33 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
-    "type": "tv"
-  },
-  {
     "title": "Prison Break",
     "imdb_id": "tt0455275",
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
+    "title": "Revenged Love",
+    "imdb_id": "tt37370861",
+    "type": "tv"
+  },
+  {
+    "title": "Outlander: Blood of My Blood",
+    "imdb_id": "tt18332852",
     "type": "tv"
   },
   {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
     "type": "tv"
   }
 ]
