@@ -20,18 +20,13 @@
     "type": "tv"
   },
   {
-    "title": "Divas Hit the Road",
-    "imdb_id": "tt4721732",
-    "type": "tv"
-  },
-  {
     "title": "The Summer I Turned Pretty",
     "imdb_id": "tt14016500",
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "Butterfly",
+    "imdb_id": "tt26672404",
     "type": "tv"
   },
   {
@@ -40,13 +35,18 @@
     "type": "tv"
   },
   {
-    "title": "Dexter",
-    "imdb_id": "tt0773262",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
-    "title": "Butterfly",
-    "imdb_id": "tt26672404",
+    "title": "Divas Hit the Road",
+    "imdb_id": "tt4721732",
+    "type": "tv"
+  },
+  {
+    "title": "Dexter",
+    "imdb_id": "tt0773262",
     "type": "tv"
   },
   {
@@ -75,13 +75,13 @@
     "type": "tv"
   },
   {
-    "title": "Prison Break",
-    "imdb_id": "tt0455275",
+    "title": "Chief of War",
+    "imdb_id": "tt19381692",
     "type": "tv"
   },
   {
-    "title": "Chief of War",
-    "imdb_id": "tt19381692",
+    "title": "Prison Break",
+    "imdb_id": "tt0455275",
     "type": "tv"
   },
   {
@@ -92,11 +92,6 @@
   {
     "title": "Family Guy",
     "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
     "type": "tv"
   }
 ]
