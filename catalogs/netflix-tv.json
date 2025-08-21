@@ -35,6 +35,11 @@
     "type": "tv"
   },
   {
+    "title": "Hostage",
+    "imdb_id": "tt31806048",
+    "type": "tv"
+  },
+  {
     "title": "Baby Farm",
     "imdb_id": "tt31593845",
     "type": "tv"
@@ -60,8 +65,8 @@
     "type": "tv"
   },
   {
-    "title": "Tunnel",
-    "imdb_id": "tt12020952",
+    "title": "Trailer Park Boys: Park After Dark",
+    "imdb_id": "tt12107408",
     "type": "tv"
   }
 ]
