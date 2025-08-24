@@ -15,6 +15,11 @@
     "type": "tv"
   },
   {
+    "title": "Capoeiras",
+    "imdb_id": "tt33100986",
+    "type": "tv"
+  },
+  {
     "title": "Team Players",
     "imdb_id": "tt31936698",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Choir",
     "imdb_id": "tt28080721",
-    "type": "tv"
-  },
-  {
-    "title": "Moving",
-    "imdb_id": "tt24640580",
     "type": "tv"
   }
 ]
