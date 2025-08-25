@@ -35,11 +35,6 @@
     "type": "tv"
   },
   {
-    "title": "In Vogue: The 90s",
-    "imdb_id": "tt28338483",
-    "type": "tv"
-  },
-  {
     "title": "Are You Sure?!",
     "imdb_id": "tt32828209",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "The Voice Brasil",
     "imdb_id": "tt2162116",
+    "type": "tv"
+  },
+  {
+    "title": "In Vogue: The 90s",
+    "imdb_id": "tt28338483",
     "type": "tv"
   },
   {
