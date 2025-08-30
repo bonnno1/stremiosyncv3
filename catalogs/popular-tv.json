@@ -1,10 +1,5 @@
 [
   {
-    "title": "Alien: Earth",
-    "imdb_id": "tt13623632",
-    "type": "tv"
-  },
-  {
     "title": "Wednesday",
     "imdb_id": "tt13443470",
     "type": "tv"
@@ -15,23 +10,8 @@
     "type": "tv"
   },
   {
-    "title": "Peacemaker",
-    "imdb_id": "tt13146488",
-    "type": "tv"
-  },
-  {
-    "title": "Nukitashi the Animation",
-    "imdb_id": "tt37205655",
-    "type": "tv"
-  },
-  {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
-    "type": "tv"
-  },
-  {
-    "title": "Chief of War",
-    "imdb_id": "tt19381692",
+    "title": "Alien: Earth",
+    "imdb_id": "tt13623632",
     "type": "tv"
   },
   {
@@ -40,13 +20,8 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
@@ -55,8 +30,33 @@
     "type": "tv"
   },
   {
+    "title": "DC Super Hero Girls",
+    "imdb_id": "tt5582302",
+    "type": "tv"
+  },
+  {
     "title": "Dexter",
     "imdb_id": "tt0773262",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
+    "type": "tv"
+  },
+  {
+    "title": "Peacemaker",
+    "imdb_id": "tt13146488",
+    "type": "tv"
+  },
+  {
+    "title": "Squid Game",
+    "imdb_id": "tt10919420",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -70,18 +70,13 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "Chief of War",
+    "imdb_id": "tt19381692",
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "Nukitashi the Animation",
+    "imdb_id": "tt37205655",
     "type": "tv"
   },
   {
@@ -90,13 +85,18 @@
     "type": "tv"
   },
   {
-    "title": "In the Mud",
-    "imdb_id": "tt32874331",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
-    "title": "The Terminal List: Dark Wolf",
-    "imdb_id": "tt26576161",
+    "title": "Shameless",
+    "imdb_id": "tt1586680",
+    "type": "tv"
+  },
+  {
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   }
 ]
