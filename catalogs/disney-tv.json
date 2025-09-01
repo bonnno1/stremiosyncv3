@@ -75,6 +75,11 @@
     "type": "tv"
   },
   {
+    "title": "Lambert vs. Lambert: Over His Dead Body",
+    "imdb_id": "tt27720255",
+    "type": "tv"
+  },
+  {
     "title": "Love, Victor",
     "imdb_id": "tt10166602",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "X-Men '97",
     "imdb_id": "tt16026746",
-    "type": "tv"
-  },
-  {
-    "title": "Choir",
-    "imdb_id": "tt28080721",
     "type": "tv"
   }
 ]

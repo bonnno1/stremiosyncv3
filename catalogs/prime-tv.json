@@ -40,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "Jonathan & Jesus",
-    "imdb_id": "tt30787627",
-    "type": "tv"
-  },
-  {
     "title": "LOL: Last One Laughing Denmark",
     "imdb_id": "tt30323971",
     "type": "tv"
@@ -57,6 +52,11 @@
   {
     "title": "Victoria Avenging Psychologist",
     "imdb_id": "tt15331666",
+    "type": "tv"
+  },
+  {
+    "title": "If We Had Super Powers",
+    "imdb_id": "tt10801384",
     "type": "tv"
   }
 ]
