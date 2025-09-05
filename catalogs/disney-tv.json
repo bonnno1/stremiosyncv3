@@ -30,6 +30,11 @@
     "type": "tv"
   },
   {
+    "title": "Tempest",
+    "imdb_id": "tt27368147",
+    "type": "tv"
+  },
+  {
     "title": "Camale\u00f3n: El pasado no cambia",
     "imdb_id": "tt27763255",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Boris",
     "imdb_id": "tt1020116",
-    "type": "tv"
-  },
-  {
-    "title": "X-Men '97",
-    "imdb_id": "tt16026746",
     "type": "tv"
   }
 ]
