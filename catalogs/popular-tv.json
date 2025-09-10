@@ -10,6 +10,11 @@
     "type": "tv"
   },
   {
+    "title": "Dexter",
+    "imdb_id": "tt0773262",
+    "type": "tv"
+  },
+  {
     "title": "The Summer I Turned Pretty",
     "imdb_id": "tt14016500",
     "type": "tv"
@@ -20,13 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "Dexter",
-    "imdb_id": "tt0773262",
-    "type": "tv"
-  },
-  {
-    "title": "The Terminal List: Dark Wolf",
-    "imdb_id": "tt26576161",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -35,8 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "The Walking Dead: Daryl Dixon",
+    "imdb_id": "tt13062500",
     "type": "tv"
   },
   {
@@ -45,8 +45,18 @@
     "type": "tv"
   },
   {
+    "title": "The Terminal List: Dark Wolf",
+    "imdb_id": "tt26576161",
+    "type": "tv"
+  },
+  {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -60,18 +70,8 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
-    "type": "tv"
-  },
-  {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "Dexter: Resurrection",
-    "imdb_id": "tt33043892",
     "type": "tv"
   },
   {
@@ -85,18 +85,18 @@
     "type": "tv"
   },
   {
-    "title": "Kaiju No. 8",
-    "imdb_id": "tt21975436",
+    "title": "Dexter: Resurrection",
+    "imdb_id": "tt33043892",
     "type": "tv"
   },
   {
-    "title": "Squid Game",
-    "imdb_id": "tt10919420",
+    "title": "Task",
+    "imdb_id": "tt28013708",
     "type": "tv"
   },
   {
-    "title": "House",
-    "imdb_id": "tt0412142",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   }
 ]
