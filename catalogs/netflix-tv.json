@@ -1,5 +1,10 @@
 [
   {
+    "title": "Beauty and the Bester",
+    "imdb_id": "tt37970537",
+    "type": "tv"
+  },
+  {
     "title": "Story Time Book: Read-Along",
     "imdb_id": "tt21971750",
     "type": "tv"
@@ -12,6 +17,11 @@
   {
     "title": "Pop the Balloon LIVE",
     "imdb_id": "tt36353565",
+    "type": "tv"
+  },
+  {
+    "title": "Ratu Ratu Queens: The Series",
+    "imdb_id": "tt35671099",
     "type": "tv"
   },
   {
@@ -62,6 +72,11 @@
   {
     "title": "Return of the Wild: The Bearman of Buncrana",
     "imdb_id": "tt26930840",
+    "type": "tv"
+  },
+  {
+    "title": "You and Everything Else",
+    "imdb_id": "tt31014107",
     "type": "tv"
   },
   {
