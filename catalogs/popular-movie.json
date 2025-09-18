@@ -80,6 +80,11 @@
     "type": "movie"
   },
   {
+    "title": "Humane",
+    "imdb_id": "tt16280912",
+    "type": "movie"
+  },
+  {
     "title": "Together",
     "imdb_id": "tt31184028",
     "type": "movie"
@@ -92,11 +97,6 @@
   {
     "title": "The Bad Guys 2",
     "imdb_id": "tt30017619",
-    "type": "movie"
-  },
-  {
-    "title": "The Wrong Paris",
-    "imdb_id": "tt33039440",
     "type": "movie"
   }
 ]

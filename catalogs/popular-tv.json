@@ -75,6 +75,11 @@
     "type": "tv"
   },
   {
+    "title": "Gen V",
+    "imdb_id": "tt13159924",
+    "type": "tv"
+  },
+  {
     "title": "Prison Break",
     "imdb_id": "tt0455275",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Breaking Bad",
     "imdb_id": "tt0903747",
-    "type": "tv"
-  },
-  {
-    "title": "House",
-    "imdb_id": "tt0412142",
     "type": "tv"
   }
 ]
