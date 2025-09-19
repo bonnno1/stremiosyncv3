@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "The Summer I Turned Pretty",
+    "imdb_id": "tt14016500",
+    "type": "tv"
+  },
+  {
     "title": "Alien: Earth",
     "imdb_id": "tt13623632",
     "type": "tv"
@@ -22,11 +27,6 @@
   {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
-    "type": "tv"
-  },
-  {
-    "title": "The Summer I Turned Pretty",
-    "imdb_id": "tt14016500",
     "type": "tv"
   },
   {
@@ -55,6 +55,11 @@
     "type": "tv"
   },
   {
+    "title": "The Terminal List: Dark Wolf",
+    "imdb_id": "tt26576161",
+    "type": "tv"
+  },
+  {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
     "type": "tv"
@@ -65,18 +70,18 @@
     "type": "tv"
   },
   {
-    "title": "The Walking Dead: Daryl Dixon",
-    "imdb_id": "tt13062500",
-    "type": "tv"
-  },
-  {
-    "title": "The Terminal List: Dark Wolf",
-    "imdb_id": "tt26576161",
-    "type": "tv"
-  },
-  {
     "title": "Gen V",
     "imdb_id": "tt13159924",
+    "type": "tv"
+  },
+  {
+    "title": "Breaking Bad",
+    "imdb_id": "tt0903747",
+    "type": "tv"
+  },
+  {
+    "title": "The Walking Dead: Daryl Dixon",
+    "imdb_id": "tt13062500",
     "type": "tv"
   },
   {
@@ -92,11 +97,6 @@
   {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
     "type": "tv"
   }
 ]

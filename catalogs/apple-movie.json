@@ -1,12 +1,22 @@
 [
   {
+    "title": "Les patates sont cuites !",
+    "imdb_id": "tt36828428",
+    "type": "movie"
+  },
+  {
     "title": "Orgueil",
     "imdb_id": "tt38353623",
     "type": "movie"
   },
   {
-    "title": "Retratos para mi Amada",
+    "title": "Retratos para mi amada",
     "imdb_id": "tt37432630",
+    "type": "movie"
+  },
+  {
+    "title": "B:ARE!",
+    "imdb_id": "tt29519257",
     "type": "movie"
   },
   {
@@ -17,11 +27,6 @@
   {
     "title": "Diary of a Wimpy Kid: Freshman Year",
     "imdb_id": "tt16732024",
-    "type": "movie"
-  },
-  {
-    "title": "The Last Temptation",
-    "imdb_id": "tt31369263",
     "type": "movie"
   }
 ]
