@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "Do You Wanna Partner",
-    "imdb_id": "tt31925787",
-    "type": "tv"
-  },
-  {
     "title": "LOL: Last One Laughing Denmark",
     "imdb_id": "tt30323971",
     "type": "tv"
@@ -57,6 +52,11 @@
   {
     "title": "Fit Check: Confessions of an Ukay Queen",
     "imdb_id": "tt28089200",
+    "type": "tv"
+  },
+  {
+    "title": "Victoria Avenging Psychologist",
+    "imdb_id": "tt15331666",
     "type": "tv"
   }
 ]
