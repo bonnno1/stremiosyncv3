@@ -60,11 +60,6 @@
     "type": "tv"
   },
   {
-    "title": "The Breslau Murders",
-    "imdb_id": "tt32360916",
-    "type": "tv"
-  },
-  {
     "title": "Beyond the Clouds",
     "imdb_id": "tt13496456",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Boris",
     "imdb_id": "tt1020116",
+    "type": "tv"
+  },
+  {
+    "title": "X-Men '97",
+    "imdb_id": "tt16026746",
     "type": "tv"
   }
 ]
