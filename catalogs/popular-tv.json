@@ -25,13 +25,13 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
-    "type": "tv"
-  },
-  {
     "title": "Gen V",
     "imdb_id": "tt13159924",
     "type": "tv"
@@ -60,13 +55,18 @@
     "type": "tv"
   },
   {
-    "title": "Peacemaker",
-    "imdb_id": "tt13146488",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
     "title": "Shameless",
     "imdb_id": "tt1586680",
+    "type": "tv"
+  },
+  {
+    "title": "Peacemaker",
+    "imdb_id": "tt13146488",
     "type": "tv"
   },
   {
@@ -85,13 +85,13 @@
     "type": "tv"
   },
   {
-    "title": "The Terminal List: Dark Wolf",
-    "imdb_id": "tt26576161",
+    "title": "Black Rabbit",
+    "imdb_id": "tt23055142",
     "type": "tv"
   },
   {
-    "title": "Black Rabbit",
-    "imdb_id": "tt23055142",
+    "title": "The Terminal List: Dark Wolf",
+    "imdb_id": "tt26576161",
     "type": "tv"
   },
   {
