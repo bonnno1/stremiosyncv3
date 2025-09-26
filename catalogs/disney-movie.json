@@ -1,27 +1,12 @@
 [
   {
+    "title": "Once More, with Feeling",
+    "imdb_id": "tt0533466",
+    "type": "movie"
+  },
+  {
     "title": "Broken Chord",
     "imdb_id": "tt38354575",
-    "type": "movie"
-  },
-  {
-    "title": "Guardi\u00f5es da Cobra Grande",
-    "imdb_id": "tt36215697",
-    "type": "movie"
-  },
-  {
-    "title": "Warren Harding - Recollections of the Wall of the Early Morning Light",
-    "imdb_id": "tt38456899",
-    "type": "movie"
-  },
-  {
-    "title": "Warren Harding - Recollections of the First Ascent of El Capitan in Yosemity Valley",
-    "imdb_id": "tt38455753",
-    "type": "movie"
-  },
-  {
-    "title": "D\u00e9j\u00e0 Vu: The Conundrum of Cassie",
-    "imdb_id": "tt28760475",
     "type": "movie"
   }
 ]
