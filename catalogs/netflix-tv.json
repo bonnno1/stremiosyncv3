@@ -25,6 +25,11 @@
     "type": "tv"
   },
   {
+    "title": "Winx Club: The Magic is Back",
+    "imdb_id": "tt36582176",
+    "type": "tv"
+  },
+  {
     "title": "Garnachas: Glorious Street Food!",
     "imdb_id": "tt36150990",
     "type": "tv"
@@ -77,11 +82,6 @@
   {
     "title": "Return of the Wild: The Bearman of Buncrana",
     "imdb_id": "tt26930840",
-    "type": "tv"
-  },
-  {
-    "title": "Trailer Park Boys: Park After Dark",
-    "imdb_id": "tt12107408",
     "type": "tv"
   }
 ]
