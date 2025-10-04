@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "Marvel Zombies",
-    "imdb_id": "tt16027014",
-    "type": "tv"
-  },
-  {
     "title": "Peacemaker",
     "imdb_id": "tt13146488",
     "type": "tv"
@@ -20,13 +15,18 @@
     "type": "tv"
   },
   {
-    "title": "Wednesday",
-    "imdb_id": "tt13443470",
+    "title": "Marvel Zombies",
+    "imdb_id": "tt16027014",
     "type": "tv"
   },
   {
-    "title": "Alien: Earth",
-    "imdb_id": "tt13623632",
+    "title": "Dexter",
+    "imdb_id": "tt0773262",
+    "type": "tv"
+  },
+  {
+    "title": "Wednesday",
+    "imdb_id": "tt13443470",
     "type": "tv"
   },
   {
@@ -35,8 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "Dexter",
-    "imdb_id": "tt0773262",
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
     "type": "tv"
   },
   {
@@ -50,18 +50,18 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
-    "type": "tv"
-  },
-  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
-    "title": "Bon App\u00e9tit, Your Majesty",
-    "imdb_id": "tt37600136",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
+    "type": "tv"
+  },
+  {
+    "title": "Alien: Earth",
+    "imdb_id": "tt13623632",
     "type": "tv"
   },
   {
@@ -70,18 +70,8 @@
     "type": "tv"
   },
   {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "Gen V",
-    "imdb_id": "tt13159924",
-    "type": "tv"
-  },
-  {
-    "title": "Kaiju No. 8",
-    "imdb_id": "tt21975436",
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
@@ -95,8 +85,18 @@
     "type": "tv"
   },
   {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
+    "title": "Love Me",
+    "imdb_id": "tt15233564",
+    "type": "tv"
+  },
+  {
+    "title": "Gen V",
+    "imdb_id": "tt13159924",
+    "type": "tv"
+  },
+  {
+    "title": "Bon App\u00e9tit, Your Majesty",
+    "imdb_id": "tt37600136",
     "type": "tv"
   }
 ]

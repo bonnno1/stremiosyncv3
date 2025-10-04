@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Game: You Never Play Alone",
+    "imdb_id": "tt38126232",
+    "type": "tv"
+  },
+  {
     "title": "Crime Scene Zero",
     "imdb_id": "tt36600638",
     "type": "tv"
@@ -77,11 +82,6 @@
   {
     "title": "7 Bears",
     "imdb_id": "tt20917852",
-    "type": "tv"
-  },
-  {
-    "title": "Return of the Wild: The Bearman of Buncrana",
-    "imdb_id": "tt26930840",
     "type": "tv"
   }
 ]
