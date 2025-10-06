@@ -20,11 +20,6 @@
     "type": "tv"
   },
   {
-    "title": "The Last Frontier",
-    "imdb_id": "tt26862142",
-    "type": "tv"
-  },
-  {
     "title": "Wolfboy and the Everything Factory",
     "imdb_id": "tt15389676",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Long Way Home",
     "imdb_id": "tt33096033",
+    "type": "tv"
+  },
+  {
+    "title": "Real Madrid: Until the End",
+    "imdb_id": "tt26924816",
     "type": "tv"
   }
 ]
