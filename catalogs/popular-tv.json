@@ -5,13 +5,13 @@
     "type": "tv"
   },
   {
-    "title": "Peacemaker",
-    "imdb_id": "tt13146488",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "Peacemaker",
+    "imdb_id": "tt13146488",
     "type": "tv"
   },
   {
@@ -55,8 +55,8 @@
     "type": "tv"
   },
   {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
+    "title": "Shameless",
+    "imdb_id": "tt1586680",
     "type": "tv"
   },
   {
@@ -65,23 +65,18 @@
     "type": "tv"
   },
   {
-    "title": "Shameless",
-    "imdb_id": "tt1586680",
-    "type": "tv"
-  },
-  {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
-    "title": "Alien: Earth",
-    "imdb_id": "tt13623632",
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
-    "title": "Marvel Zombies",
-    "imdb_id": "tt16027014",
+    "title": "Alien: Earth",
+    "imdb_id": "tt13623632",
     "type": "tv"
   },
   {
@@ -92,6 +87,11 @@
   {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
+    "type": "tv"
+  },
+  {
+    "title": "Marvel Zombies",
+    "imdb_id": "tt16027014",
     "type": "tv"
   }
 ]
