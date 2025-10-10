@@ -1,27 +1,22 @@
 [
   {
+    "title": "\"The Bit\"",
+    "imdb_id": "tt38267258",
+    "type": "movie"
+  },
+  {
+    "title": "Charlie",
+    "imdb_id": "tt33293129",
+    "type": "movie"
+  },
+  {
+    "title": "The Moth",
+    "imdb_id": "tt35589358",
+    "type": "movie"
+  },
+  {
     "title": "Queimem a Bruxa",
     "imdb_id": "tt37347338",
-    "type": "movie"
-  },
-  {
-    "title": "Chasing The Past",
-    "imdb_id": "tt38483588",
-    "type": "movie"
-  },
-  {
-    "title": "Steiners Skyggeside",
-    "imdb_id": "tt38589489",
-    "type": "movie"
-  },
-  {
-    "title": "Into the Unknown: My Cancer Story",
-    "imdb_id": "tt32205832",
-    "type": "movie"
-  },
-  {
-    "title": "Suits",
-    "imdb_id": "tt1632701",
     "type": "movie"
   }
 ]
