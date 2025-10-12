@@ -10,13 +10,18 @@
     "type": "movie"
   },
   {
+    "title": "The Cobra Kai Movie",
+    "imdb_id": "tt34867022",
+    "type": "movie"
+  },
+  {
     "title": "Charlie",
     "imdb_id": "tt33293129",
     "type": "movie"
   },
   {
-    "title": "The Moth",
-    "imdb_id": "tt35589358",
+    "title": "You Gotta Have Faith",
+    "imdb_id": "tt37674478",
     "type": "movie"
   }
 ]
