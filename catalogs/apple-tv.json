@@ -75,11 +75,6 @@
     "type": "tv"
   },
   {
-    "title": "The Last Frontier",
-    "imdb_id": "tt26862142",
-    "type": "tv"
-  },
-  {
     "title": "See",
     "imdb_id": "tt7949218",
     "type": "tv"
@@ -92,6 +87,11 @@
   {
     "title": "Earth at Night in Colour",
     "imdb_id": "tt13008036",
+    "type": "tv"
+  },
+  {
+    "title": "Long Way Home",
+    "imdb_id": "tt33096033",
     "type": "tv"
   }
 ]
