@@ -1,5 +1,20 @@
 [
   {
+    "title": "Cheap Thrill",
+    "imdb_id": "tt12420908",
+    "type": "movie"
+  },
+  {
+    "title": "LANDEaD",
+    "imdb_id": "tt9090140",
+    "type": "movie"
+  },
+  {
+    "title": "BRINK",
+    "imdb_id": "tt16899900",
+    "type": "movie"
+  },
+  {
     "title": "Girls Never Die",
     "imdb_id": "tt32561745",
     "type": "movie"
@@ -10,18 +25,8 @@
     "type": "movie"
   },
   {
-    "title": "Remix Tape Volume 1",
-    "imdb_id": "tt38652580",
-    "type": "movie"
-  },
-  {
     "title": "LUCKYBOY",
     "imdb_id": "tt14354234",
-    "type": "movie"
-  },
-  {
-    "title": "\"The Bit\"",
-    "imdb_id": "tt38267258",
     "type": "movie"
   }
 ]

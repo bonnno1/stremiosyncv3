@@ -10,6 +10,11 @@
     "type": "tv"
   },
   {
+    "title": "To Cook a Bear",
+    "imdb_id": "tt23772966",
+    "type": "tv"
+  },
+  {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "X-Men '97",
     "imdb_id": "tt16026746",
-    "type": "tv"
-  },
-  {
-    "title": "Moving",
-    "imdb_id": "tt24640580",
     "type": "tv"
   }
 ]
