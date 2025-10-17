@@ -10,11 +10,6 @@
     "type": "tv"
   },
   {
-    "title": "To Cook a Bear",
-    "imdb_id": "tt23772966",
-    "type": "tv"
-  },
-  {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
     "type": "tv"
@@ -67,6 +62,11 @@
   {
     "title": "Beyond the Clouds",
     "imdb_id": "tt13496456",
+    "type": "tv"
+  },
+  {
+    "title": "To Cook a Bear",
+    "imdb_id": "tt23772966",
     "type": "tv"
   },
   {
