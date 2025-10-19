@@ -1,7 +1,27 @@
 [
   {
+    "title": "To A Stranger",
+    "imdb_id": "tt7127046",
+    "type": "movie"
+  },
+  {
+    "title": "The Debate",
+    "imdb_id": "tt33549024",
+    "type": "movie"
+  },
+  {
     "title": "Of\u00e9lia na Praia, vers\u00e3o estendida",
     "imdb_id": "tt34201626",
+    "type": "movie"
+  },
+  {
+    "title": "Of\u00e9lia na Praia, 2a Vers\u00e3o",
+    "imdb_id": "tt38711784",
+    "type": "movie"
+  },
+  {
+    "title": "Tears of Daphne",
+    "imdb_id": "tt38709005",
     "type": "movie"
   },
   {
@@ -10,13 +30,13 @@
     "type": "movie"
   },
   {
-    "title": "LEGEND: The Complete Story of Larry Bird",
-    "imdb_id": "tt38686634",
+    "title": "Alfa & Bravo",
+    "imdb_id": "tt37718218",
     "type": "movie"
   },
   {
-    "title": "'\uae68\uc5b4' Are you alive?",
-    "imdb_id": "tt36980568",
+    "title": "LEGEND: The Complete Story of Larry Bird",
+    "imdb_id": "tt38686634",
     "type": "movie"
   }
 ]
