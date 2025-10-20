@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "The Last Frontier",
-    "imdb_id": "tt26862142",
-    "type": "tv"
-  },
-  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
@@ -20,8 +15,18 @@
     "type": "tv"
   },
   {
+    "title": "Tulsa King",
+    "imdb_id": "tt16358384",
+    "type": "tv"
+  },
+  {
     "title": "One-Punch Man",
     "imdb_id": "tt4508902",
+    "type": "tv"
+  },
+  {
+    "title": "The Last Frontier",
+    "imdb_id": "tt26862142",
     "type": "tv"
   },
   {
@@ -30,28 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "Tulsa King",
-    "imdb_id": "tt16358384",
-    "type": "tv"
-  },
-  {
-    "title": "Peacemaker",
-    "imdb_id": "tt13146488",
-    "type": "tv"
-  },
-  {
-    "title": "Secret Lives",
-    "imdb_id": "tt0185819",
-    "type": "tv"
-  },
-  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "Dinast\u00eda Casillas",
-    "imdb_id": "tt38629881",
     "type": "tv"
   },
   {
@@ -60,18 +45,8 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
-    "type": "tv"
-  },
-  {
-    "title": "Ninja Boy Rantaro",
-    "imdb_id": "tt0306365",
-    "type": "tv"
-  },
-  {
-    "title": "Wednesday",
-    "imdb_id": "tt13443470",
+    "title": "Secret Lives",
+    "imdb_id": "tt0185819",
     "type": "tv"
   },
   {
@@ -80,8 +55,33 @@
     "type": "tv"
   },
   {
+    "title": "Tagesschau",
+    "imdb_id": "tt0246393",
+    "type": "tv"
+  },
+  {
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
     "title": "Shameless",
     "imdb_id": "tt1586680",
+    "type": "tv"
+  },
+  {
+    "title": "Stranger Things",
+    "imdb_id": "tt4574334",
+    "type": "tv"
+  },
+  {
+    "title": "Wednesday",
+    "imdb_id": "tt13443470",
+    "type": "tv"
+  },
+  {
+    "title": "Ninja Boy Rantaro",
+    "imdb_id": "tt0306365",
     "type": "tv"
   }
 ]
