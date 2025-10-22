@@ -30,6 +30,11 @@
     "type": "tv"
   },
   {
+    "title": "Krass Klassenfahrt - Die neue Generation",
+    "imdb_id": "tt38026556",
+    "type": "tv"
+  },
+  {
     "title": "Saving Grace",
     "imdb_id": "tt32962604",
     "type": "tv"
@@ -52,11 +57,6 @@
   {
     "title": "Victoria Avenging Psychologist",
     "imdb_id": "tt15331666",
-    "type": "tv"
-  },
-  {
-    "title": "If We Had Super Powers",
-    "imdb_id": "tt10801384",
     "type": "tv"
   }
 ]
