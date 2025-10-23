@@ -15,18 +15,8 @@
     "type": "tv"
   },
   {
-    "title": "Tulsa King",
-    "imdb_id": "tt16358384",
-    "type": "tv"
-  },
-  {
     "title": "Dexter",
     "imdb_id": "tt0773262",
-    "type": "tv"
-  },
-  {
-    "title": "One-Punch Man",
-    "imdb_id": "tt4508902",
     "type": "tv"
   },
   {
@@ -35,8 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "Tagesschau",
-    "imdb_id": "tt0246393",
+    "title": "Tulsa King",
+    "imdb_id": "tt16358384",
     "type": "tv"
   },
   {
@@ -45,18 +35,13 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "The Last Frontier",
-    "imdb_id": "tt26862142",
-    "type": "tv"
-  },
-  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -65,23 +50,43 @@
     "type": "tv"
   },
   {
-    "title": "Shameless",
-    "imdb_id": "tt1586680",
-    "type": "tv"
-  },
-  {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "The Last Frontier",
+    "imdb_id": "tt26862142",
+    "type": "tv"
+  },
+  {
+    "title": "Shameless",
+    "imdb_id": "tt1586680",
+    "type": "tv"
+  },
+  {
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
+    "type": "tv"
+  },
+  {
+    "title": "Stranger Things",
+    "imdb_id": "tt4574334",
     "type": "tv"
   },
   {
     "title": "The Tonight Show Starring Johnny Carson",
     "imdb_id": "tt0055708",
+    "type": "tv"
+  },
+  {
+    "title": "One-Punch Man",
+    "imdb_id": "tt4508902",
+    "type": "tv"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   }
 ]
