@@ -65,6 +65,16 @@
     "type": "tv"
   },
   {
+    "title": "To Cook a Bear",
+    "imdb_id": "tt23772966",
+    "type": "tv"
+  },
+  {
+    "title": "Sneaker Wars: Adidas V. Puma",
+    "imdb_id": "tt11382826",
+    "type": "tv"
+  },
+  {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
     "type": "tv"
@@ -72,11 +82,6 @@
   {
     "title": "Lambert vs. Lambert: Over His Dead Body",
     "imdb_id": "tt27720255",
-    "type": "tv"
-  },
-  {
-    "title": "To Cook a Bear",
-    "imdb_id": "tt23772966",
     "type": "tv"
   },
   {
@@ -92,11 +97,6 @@
   {
     "title": "Boris",
     "imdb_id": "tt1020116",
-    "type": "tv"
-  },
-  {
-    "title": "X-Men '97",
-    "imdb_id": "tt16026746",
     "type": "tv"
   }
 ]
