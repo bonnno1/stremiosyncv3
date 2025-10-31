@@ -35,18 +35,13 @@
     "type": "movie"
   },
   {
-    "title": "A House of Dynamite",
-    "imdb_id": "tt32376165",
-    "type": "movie"
-  },
-  {
-    "title": "The Long Walk",
-    "imdb_id": "tt10374610",
-    "type": "movie"
-  },
-  {
     "title": "Stolen Girl",
     "imdb_id": "tt4682810",
+    "type": "movie"
+  },
+  {
+    "title": "A House of Dynamite",
+    "imdb_id": "tt32376165",
     "type": "movie"
   },
   {
@@ -55,23 +50,28 @@
     "type": "movie"
   },
   {
-    "title": "Chainsaw Man - The Movie: Reze Arc",
-    "imdb_id": "tt30472557",
-    "type": "movie"
-  },
-  {
-    "title": "The Conjuring: Last Rites",
-    "imdb_id": "tt22898462",
-    "type": "movie"
-  },
-  {
     "title": "The Jester 2",
     "imdb_id": "tt37334010",
     "type": "movie"
   },
   {
+    "title": "The Long Walk",
+    "imdb_id": "tt10374610",
+    "type": "movie"
+  },
+  {
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "imdb_id": "tt30472557",
+    "type": "movie"
+  },
+  {
     "title": "Inside Furioza",
     "imdb_id": "tt36265413",
+    "type": "movie"
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "imdb_id": "tt22898462",
     "type": "movie"
   },
   {
@@ -90,8 +90,13 @@
     "type": "movie"
   },
   {
-    "title": "My Fault",
-    "imdb_id": "tt21909764",
+    "title": "KPop Demon Hunters",
+    "imdb_id": "tt14205554",
+    "type": "movie"
+  },
+  {
+    "title": "The Fantastic 4: First Steps",
+    "imdb_id": "tt10676052",
     "type": "movie"
   }
 ]
