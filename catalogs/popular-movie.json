@@ -20,11 +20,6 @@
     "type": "movie"
   },
   {
-    "title": "The Elixir",
-    "imdb_id": "tt32643830",
-    "type": "movie"
-  },
-  {
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "imdb_id": "tt32820897",
     "type": "movie"
@@ -35,13 +30,18 @@
     "type": "movie"
   },
   {
+    "title": "A House of Dynamite",
+    "imdb_id": "tt32376165",
+    "type": "movie"
+  },
+  {
     "title": "Stolen Girl",
     "imdb_id": "tt4682810",
     "type": "movie"
   },
   {
-    "title": "A House of Dynamite",
-    "imdb_id": "tt32376165",
+    "title": "The Elixir",
+    "imdb_id": "tt32643830",
     "type": "movie"
   },
   {
@@ -55,23 +55,8 @@
     "type": "movie"
   },
   {
-    "title": "The Long Walk",
-    "imdb_id": "tt10374610",
-    "type": "movie"
-  },
-  {
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "imdb_id": "tt30472557",
-    "type": "movie"
-  },
-  {
-    "title": "Inside Furioza",
-    "imdb_id": "tt36265413",
-    "type": "movie"
-  },
-  {
-    "title": "The Conjuring: Last Rites",
-    "imdb_id": "tt22898462",
     "type": "movie"
   },
   {
@@ -80,8 +65,18 @@
     "type": "movie"
   },
   {
-    "title": "Black Phone 2",
-    "imdb_id": "tt29644189",
+    "title": "The Conjuring: Last Rites",
+    "imdb_id": "tt22898462",
+    "type": "movie"
+  },
+  {
+    "title": "The Long Walk",
+    "imdb_id": "tt10374610",
+    "type": "movie"
+  },
+  {
+    "title": "Inside Furioza",
+    "imdb_id": "tt36265413",
     "type": "movie"
   },
   {
@@ -90,13 +85,18 @@
     "type": "movie"
   },
   {
+    "title": "Black Phone 2",
+    "imdb_id": "tt29644189",
+    "type": "movie"
+  },
+  {
     "title": "KPop Demon Hunters",
     "imdb_id": "tt14205554",
     "type": "movie"
   },
   {
-    "title": "The Fantastic 4: First Steps",
-    "imdb_id": "tt10676052",
+    "title": "The Toxic Avenger Unrated",
+    "imdb_id": "tt1633359",
     "type": "movie"
   }
 ]
