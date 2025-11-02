@@ -50,11 +50,6 @@
     "type": "tv"
   },
   {
-    "title": "Juan Gabriel: I Must, I Can, I Will",
-    "imdb_id": "tt28235034",
-    "type": "tv"
-  },
-  {
     "title": "Love Never Lies: South Africa",
     "imdb_id": "tt34724701",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "Baby Farm",
     "imdb_id": "tt31593845",
+    "type": "tv"
+  },
+  {
+    "title": "Baby Gorilla Cam",
+    "imdb_id": "tt29040715",
     "type": "tv"
   }
 ]

@@ -80,6 +80,11 @@
     "type": "tv"
   },
   {
+    "title": "PJ Masks: Power Heroes",
+    "imdb_id": "tt24017294",
+    "type": "tv"
+  },
+  {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
     "type": "tv"
@@ -87,16 +92,6 @@
   {
     "title": "Lambert vs. Lambert: Over His Dead Body",
     "imdb_id": "tt27720255",
-    "type": "tv"
-  },
-  {
-    "title": "Love, Victor",
-    "imdb_id": "tt10166602",
-    "type": "tv"
-  },
-  {
-    "title": "Ed Sheeran: The Sum of It All",
-    "imdb_id": "tt27192366",
     "type": "tv"
   }
 ]
