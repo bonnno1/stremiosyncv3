@@ -15,11 +15,6 @@
     "type": "tv"
   },
   {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
@@ -27,6 +22,11 @@
   {
     "title": "Tulsa King",
     "imdb_id": "tt16358384",
+    "type": "tv"
+  },
+  {
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
     "type": "tv"
   },
   {
