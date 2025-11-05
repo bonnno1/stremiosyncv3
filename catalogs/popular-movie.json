@@ -1,5 +1,10 @@
 [
   {
+    "title": "Abyss",
+    "imdb_id": "tt29610108",
+    "type": "movie"
+  },
+  {
     "title": "Afterburn",
     "imdb_id": "tt1210027",
     "type": "movie"
@@ -10,28 +15,18 @@
     "type": "movie"
   },
   {
+    "title": "Black Phone 2",
+    "imdb_id": "tt29644189",
+    "type": "movie"
+  },
+  {
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "imdb_id": "tt30472557",
     "type": "movie"
   },
   {
-    "title": "Hunting Grounds",
-    "imdb_id": "tt28293853",
-    "type": "movie"
-  },
-  {
-    "title": "Our Fault",
-    "imdb_id": "tt33311244",
-    "type": "movie"
-  },
-  {
     "title": "Martin",
     "imdb_id": "tt15334030",
-    "type": "movie"
-  },
-  {
-    "title": "Abyss",
-    "imdb_id": "tt29610108",
     "type": "movie"
   },
   {
@@ -45,6 +40,11 @@
     "type": "movie"
   },
   {
+    "title": "Hunting Grounds",
+    "imdb_id": "tt28293853",
+    "type": "movie"
+  },
+  {
     "title": "The Ugly Stepsister",
     "imdb_id": "tt29344903",
     "type": "movie"
@@ -55,8 +55,8 @@
     "type": "movie"
   },
   {
-    "title": "The Conjuring: Last Rites",
-    "imdb_id": "tt22898462",
+    "title": "Our Fault",
+    "imdb_id": "tt33311244",
     "type": "movie"
   },
   {
@@ -65,18 +65,13 @@
     "type": "movie"
   },
   {
+    "title": "The Conjuring: Last Rites",
+    "imdb_id": "tt22898462",
+    "type": "movie"
+  },
+  {
     "title": "The Jester 2",
     "imdb_id": "tt37334010",
-    "type": "movie"
-  },
-  {
-    "title": "A House of Dynamite",
-    "imdb_id": "tt32376165",
-    "type": "movie"
-  },
-  {
-    "title": "Inside Furioza",
-    "imdb_id": "tt36265413",
     "type": "movie"
   },
   {
@@ -85,18 +80,23 @@
     "type": "movie"
   },
   {
-    "title": "The Long Walk",
-    "imdb_id": "tt10374610",
-    "type": "movie"
-  },
-  {
-    "title": "Black Phone 2",
-    "imdb_id": "tt29644189",
+    "title": "Inside Furioza",
+    "imdb_id": "tt36265413",
     "type": "movie"
   },
   {
     "title": "xXx",
     "imdb_id": "tt0295701",
+    "type": "movie"
+  },
+  {
+    "title": "A House of Dynamite",
+    "imdb_id": "tt32376165",
+    "type": "movie"
+  },
+  {
+    "title": "The Toxic Avenger Unrated",
+    "imdb_id": "tt1633359",
     "type": "movie"
   }
 ]

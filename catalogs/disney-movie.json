@@ -1,7 +1,22 @@
 [
   {
+    "title": "Chinese Angel",
+    "imdb_id": "tt7487044",
+    "type": "movie"
+  },
+  {
+    "title": "S\u00e3o Jorge contra o Drag\u00e3o",
+    "imdb_id": "tt34203573",
+    "type": "movie"
+  },
+  {
     "title": "Alone Apart",
     "imdb_id": "tt12135492",
+    "type": "movie"
+  },
+  {
+    "title": "The Bag",
+    "imdb_id": "tt7038158",
     "type": "movie"
   },
   {
@@ -27,6 +42,11 @@
   {
     "title": "Groove",
     "imdb_id": "tt15082084",
+    "type": "movie"
+  },
+  {
+    "title": "Let Go Letting Go",
+    "imdb_id": "tt11973806",
     "type": "movie"
   }
 ]
