@@ -15,6 +15,11 @@
     "type": "tv"
   },
   {
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
+    "type": "tv"
+  },
+  {
     "title": "The Sisters Grimm",
     "imdb_id": "tt14348758",
     "type": "tv"
@@ -60,13 +65,13 @@
     "type": "tv"
   },
   {
-    "title": "Defending Jacob",
-    "imdb_id": "tt2304589",
+    "title": "Lessons in Chemistry",
+    "imdb_id": "tt13911628",
     "type": "tv"
   },
   {
-    "title": "Lessons in Chemistry",
-    "imdb_id": "tt13911628",
+    "title": "Defending Jacob",
+    "imdb_id": "tt2304589",
     "type": "tv"
   },
   {
@@ -92,11 +97,6 @@
   {
     "title": "Earth at Night in Colour",
     "imdb_id": "tt13008036",
-    "type": "tv"
-  },
-  {
-    "title": "Real Madrid: Until the End",
-    "imdb_id": "tt26924816",
     "type": "tv"
   }
 ]

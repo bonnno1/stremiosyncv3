@@ -25,11 +25,6 @@
     "type": "tv"
   },
   {
-    "title": "The Party",
-    "imdb_id": "tt30441845",
-    "type": "tv"
-  },
-  {
     "title": "Pop the Balloon LIVE",
     "imdb_id": "tt36353565",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "Chicken Soup for the Soul's Being Dad",
     "imdb_id": "tt8908110",
+    "type": "tv"
+  },
+  {
+    "title": "7 Bears",
+    "imdb_id": "tt20917852",
     "type": "tv"
   }
 ]
