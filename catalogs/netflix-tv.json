@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "Bad Influencer",
+    "imdb_id": "tt38624867",
+    "type": "tv"
+  },
+  {
     "title": "1 in 7641",
     "imdb_id": "tt37749208",
     "type": "tv"
@@ -15,7 +20,7 @@
     "type": "tv"
   },
   {
-    "title": "\uc637\uc7a5\uc804\uc7c1",
+    "title": "Closet Battle",
     "imdb_id": "tt37800569",
     "type": "tv"
   },
@@ -67,11 +72,6 @@
   {
     "title": "Chicken Soup for the Soul's Being Dad",
     "imdb_id": "tt8908110",
-    "type": "tv"
-  },
-  {
-    "title": "7 Bears",
-    "imdb_id": "tt20917852",
     "type": "tv"
   }
 ]

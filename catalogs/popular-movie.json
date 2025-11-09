@@ -5,18 +5,13 @@
     "type": "movie"
   },
   {
-    "title": "Abyss",
-    "imdb_id": "tt29610108",
-    "type": "movie"
-  },
-  {
     "title": "Black Phone 2",
     "imdb_id": "tt29644189",
     "type": "movie"
   },
   {
-    "title": "Chainsaw Man - The Movie: Reze Arc",
-    "imdb_id": "tt30472557",
+    "title": "Abyss",
+    "imdb_id": "tt29610108",
     "type": "movie"
   },
   {
@@ -25,8 +20,8 @@
     "type": "movie"
   },
   {
-    "title": "Afterburn",
-    "imdb_id": "tt1210027",
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "imdb_id": "tt30472557",
     "type": "movie"
   },
   {
@@ -40,6 +35,11 @@
     "type": "movie"
   },
   {
+    "title": "Afterburn",
+    "imdb_id": "tt1210027",
+    "type": "movie"
+  },
+  {
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "imdb_id": "tt32820897",
     "type": "movie"
@@ -50,23 +50,8 @@
     "type": "movie"
   },
   {
-    "title": "Martin",
-    "imdb_id": "tt15334030",
-    "type": "movie"
-  },
-  {
     "title": "Hunting Grounds",
     "imdb_id": "tt28293853",
-    "type": "movie"
-  },
-  {
-    "title": "Stolen Girl",
-    "imdb_id": "tt4682810",
-    "type": "movie"
-  },
-  {
-    "title": "The Ugly Stepsister",
-    "imdb_id": "tt29344903",
     "type": "movie"
   },
   {
@@ -75,13 +60,18 @@
     "type": "movie"
   },
   {
-    "title": "Our Fault",
-    "imdb_id": "tt33311244",
+    "title": "Martin",
+    "imdb_id": "tt15334030",
     "type": "movie"
   },
   {
-    "title": "The Rats: A Witcher Tale",
-    "imdb_id": "tt28283547",
+    "title": "Code 3",
+    "imdb_id": "tt26394837",
+    "type": "movie"
+  },
+  {
+    "title": "Stolen Girl",
+    "imdb_id": "tt4682810",
     "type": "movie"
   },
   {
@@ -90,13 +80,23 @@
     "type": "movie"
   },
   {
+    "title": "The Ugly Stepsister",
+    "imdb_id": "tt29344903",
+    "type": "movie"
+  },
+  {
     "title": "KPop Demon Hunters",
     "imdb_id": "tt14205554",
     "type": "movie"
   },
   {
-    "title": "Coco",
-    "imdb_id": "tt2380307",
+    "title": "Our Fault",
+    "imdb_id": "tt33311244",
+    "type": "movie"
+  },
+  {
+    "title": "They Were Witches",
+    "imdb_id": "tt33621293",
     "type": "movie"
   }
 ]
