@@ -40,6 +40,11 @@
     "type": "tv"
   },
   {
+    "title": "Caroline Flack: Search for the Truth",
+    "imdb_id": "tt38784236",
+    "type": "tv"
+  },
+  {
     "title": "The Manipulated",
     "imdb_id": "tt36188448",
     "type": "tv"
@@ -75,8 +80,8 @@
     "type": "tv"
   },
   {
-    "title": "To Cook a Bear",
-    "imdb_id": "tt23772966",
+    "title": "PJ Masks: Power Heroes",
+    "imdb_id": "tt24017294",
     "type": "tv"
   },
   {
@@ -85,18 +90,8 @@
     "type": "tv"
   },
   {
-    "title": "PJ Masks: Power Heroes",
-    "imdb_id": "tt24017294",
-    "type": "tv"
-  },
-  {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
-    "type": "tv"
-  },
-  {
-    "title": "Lambert vs. Lambert: Over His Dead Body",
-    "imdb_id": "tt27720255",
     "type": "tv"
   }
 ]
