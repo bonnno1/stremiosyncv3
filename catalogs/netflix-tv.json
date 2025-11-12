@@ -30,6 +30,11 @@
     "type": "tv"
   },
   {
+    "title": "Cheat: Unfinished Business",
+    "imdb_id": "tt32249973",
+    "type": "tv"
+  },
+  {
     "title": "Pop the Balloon LIVE",
     "imdb_id": "tt36353565",
     "type": "tv"
@@ -67,11 +72,6 @@
   {
     "title": "Baby Gorilla Cam",
     "imdb_id": "tt29040715",
-    "type": "tv"
-  },
-  {
-    "title": "Chicken Soup for the Soul's Being Dad",
-    "imdb_id": "tt8908110",
     "type": "tv"
   }
 ]
