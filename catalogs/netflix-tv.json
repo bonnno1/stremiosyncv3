@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "Bad Influencer",
-    "imdb_id": "tt38624867",
-    "type": "tv"
-  },
-  {
     "title": "1 in 7641",
     "imdb_id": "tt37749208",
     "type": "tv"
@@ -45,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "K-foodie meets J-foodie",
-    "imdb_id": "tt37135774",
-    "type": "tv"
-  },
-  {
     "title": "Love Never Lies: South Africa",
     "imdb_id": "tt34724701",
     "type": "tv"
@@ -57,11 +47,6 @@
   {
     "title": "Sneaky Links: Dating After Dark",
     "imdb_id": "tt33028674",
-    "type": "tv"
-  },
-  {
-    "title": "The Beast in Me",
-    "imdb_id": "tt31974367",
     "type": "tv"
   },
   {
@@ -75,8 +60,18 @@
     "type": "tv"
   },
   {
-    "title": "Had I Not Seen the Sun",
-    "imdb_id": "tt35671636",
+    "title": "Baby Gorilla Cam",
+    "imdb_id": "tt29040715",
+    "type": "tv"
+  },
+  {
+    "title": "Chicken Soup for the Soul's Being Dad",
+    "imdb_id": "tt8908110",
+    "type": "tv"
+  },
+  {
+    "title": "7 Bears",
+    "imdb_id": "tt20917852",
     "type": "tv"
   }
 ]
