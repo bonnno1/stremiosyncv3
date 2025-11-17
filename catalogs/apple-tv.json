@@ -20,11 +20,6 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
-    "type": "tv"
-  },
-  {
     "title": "Wolfboy and the Everything Factory",
     "imdb_id": "tt15389676",
     "type": "tv"
@@ -37,6 +32,11 @@
   {
     "title": "Frog and Toad",
     "imdb_id": "tt2197822",
+    "type": "tv"
+  },
+  {
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
