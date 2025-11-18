@@ -35,11 +35,6 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
-    "type": "tv"
-  },
-  {
     "title": "Severance",
     "imdb_id": "tt11280740",
     "type": "tv"
@@ -47,6 +42,11 @@
   {
     "title": "Ted Lasso",
     "imdb_id": "tt10986410",
+    "type": "tv"
+  },
+  {
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
