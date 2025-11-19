@@ -20,8 +20,8 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
+    "title": "Last Samurai Standing",
+    "imdb_id": "tt32237534",
     "type": "tv"
   },
   {
@@ -30,33 +30,8 @@
     "type": "tv"
   },
   {
-    "title": "Mahsun J",
-    "imdb_id": "tt31027788",
-    "type": "tv"
-  },
-  {
     "title": "Grey's Anatomy",
     "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
-    "type": "tv"
-  },
-  {
-    "title": "Last Samurai Standing",
-    "imdb_id": "tt32237534",
-    "type": "tv"
-  },
-  {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
-    "type": "tv"
-  },
-  {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -65,13 +40,38 @@
     "type": "tv"
   },
   {
-    "title": "Hazbin Hotel",
-    "imdb_id": "tt7216636",
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
+    "type": "tv"
+  },
+  {
+    "title": "Breaking Bad",
+    "imdb_id": "tt0903747",
+    "type": "tv"
+  },
+  {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "Mahsun J",
+    "imdb_id": "tt31027788",
+    "type": "tv"
+  },
+  {
+    "title": "Hazbin Hotel",
+    "imdb_id": "tt7216636",
     "type": "tv"
   },
   {
