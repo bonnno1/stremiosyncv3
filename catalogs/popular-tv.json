@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "The Return of Superman",
-    "imdb_id": "tt5129382",
-    "type": "tv"
-  },
-  {
     "title": "Stranger Things",
     "imdb_id": "tt4574334",
     "type": "tv"
@@ -20,28 +15,13 @@
     "type": "tv"
   },
   {
+    "title": "The Return of Superman",
+    "imdb_id": "tt5129382",
+    "type": "tv"
+  },
+  {
     "title": "Hazbin Hotel",
     "imdb_id": "tt7216636",
-    "type": "tv"
-  },
-  {
-    "title": "Last Samurai Standing",
-    "imdb_id": "tt32237534",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
-    "type": "tv"
-  },
-  {
-    "title": "The Witcher",
-    "imdb_id": "tt5180504",
     "type": "tv"
   },
   {
@@ -50,18 +30,28 @@
     "type": "tv"
   },
   {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
+    "type": "tv"
+  },
+  {
+    "title": "The Witcher",
+    "imdb_id": "tt5180504",
+    "type": "tv"
+  },
+  {
+    "title": "Breaking Bad",
+    "imdb_id": "tt0903747",
+    "type": "tv"
+  },
+  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
-    "type": "tv"
-  },
-  {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
+    "title": "Last Samurai Standing",
+    "imdb_id": "tt32237534",
     "type": "tv"
   },
   {
@@ -70,23 +60,13 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
-    "title": "Mahsun J",
-    "imdb_id": "tt31027788",
-    "type": "tv"
-  },
-  {
-    "title": "Shameless",
-    "imdb_id": "tt1586680",
-    "type": "tv"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -95,8 +75,28 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
+    "type": "tv"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
+    "type": "tv"
+  },
+  {
+    "title": "Shameless",
+    "imdb_id": "tt1586680",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
+    "type": "tv"
+  },
+  {
+    "title": "Mahsun J",
+    "imdb_id": "tt31027788",
     "type": "tv"
   }
 ]

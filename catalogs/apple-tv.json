@@ -50,11 +50,6 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
-    "type": "tv"
-  },
-  {
     "title": "The Oprah Conversation",
     "imdb_id": "tt10171532",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Prehistoric Planet",
     "imdb_id": "tt10324164",
+    "type": "tv"
+  },
+  {
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
