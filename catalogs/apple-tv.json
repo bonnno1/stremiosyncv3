@@ -60,11 +60,6 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
-    "type": "tv"
-  },
-  {
     "title": "Defending Jacob",
     "imdb_id": "tt2304589",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "Lessons in Chemistry",
     "imdb_id": "tt13911628",
+    "type": "tv"
+  },
+  {
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
