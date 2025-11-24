@@ -1,17 +1,12 @@
 [
   {
-    "title": "IT: Welcome to Derry",
-    "imdb_id": "tt19244304",
-    "type": "tv"
-  },
-  {
     "title": "Stranger Things",
     "imdb_id": "tt4574334",
     "type": "tv"
   },
   {
-    "title": "Vikings",
-    "imdb_id": "tt2306299",
+    "title": "IT: Welcome to Derry",
+    "imdb_id": "tt19244304",
     "type": "tv"
   },
   {
@@ -25,6 +20,11 @@
     "type": "tv"
   },
   {
+    "title": "Vikings",
+    "imdb_id": "tt2306299",
+    "type": "tv"
+  },
+  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
@@ -35,18 +35,13 @@
     "type": "tv"
   },
   {
+    "title": "Tulsa King",
+    "imdb_id": "tt16358384",
+    "type": "tv"
+  },
+  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "The Witcher",
-    "imdb_id": "tt5180504",
-    "type": "tv"
-  },
-  {
-    "title": "Last Samurai Standing",
-    "imdb_id": "tt32237534",
     "type": "tv"
   },
   {
@@ -55,8 +50,8 @@
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
+    "title": "The Witcher",
+    "imdb_id": "tt5180504",
     "type": "tv"
   },
   {
@@ -65,18 +60,13 @@
     "type": "tv"
   },
   {
-    "title": "Tulsa King",
-    "imdb_id": "tt16358384",
-    "type": "tv"
-  },
-  {
     "title": "Dexter",
     "imdb_id": "tt0773262",
     "type": "tv"
   },
   {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
@@ -85,8 +75,8 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "Last Samurai Standing",
+    "imdb_id": "tt32237534",
     "type": "tv"
   },
   {
@@ -97,6 +87,16 @@
   {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
+    "type": "tv"
+  },
+  {
+    "title": "The Blacklist",
+    "imdb_id": "tt2741602",
     "type": "tv"
   }
 ]
