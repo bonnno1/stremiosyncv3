@@ -1,12 +1,12 @@
 [
   {
-    "title": "Stranger Things",
-    "imdb_id": "tt4574334",
+    "title": "IT: Welcome to Derry",
+    "imdb_id": "tt19244304",
     "type": "tv"
   },
   {
-    "title": "IT: Welcome to Derry",
-    "imdb_id": "tt19244304",
+    "title": "Stranger Things",
+    "imdb_id": "tt4574334",
     "type": "tv"
   },
   {
@@ -25,6 +25,11 @@
     "type": "tv"
   },
   {
+    "title": "Tulsa King",
+    "imdb_id": "tt16358384",
+    "type": "tv"
+  },
+  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
@@ -32,11 +37,6 @@
   {
     "title": "Grey's Anatomy",
     "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "Tulsa King",
-    "imdb_id": "tt16358384",
     "type": "tv"
   },
   {
@@ -50,18 +50,23 @@
     "type": "tv"
   },
   {
-    "title": "The Witcher",
-    "imdb_id": "tt5180504",
-    "type": "tv"
-  },
-  {
     "title": "NCIS",
     "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
+    "title": "The Witcher",
+    "imdb_id": "tt5180504",
+    "type": "tv"
+  },
+  {
     "title": "Dexter",
     "imdb_id": "tt0773262",
+    "type": "tv"
+  },
+  {
+    "title": "Shameless",
+    "imdb_id": "tt1586680",
     "type": "tv"
   },
   {
@@ -77,11 +82,6 @@
   {
     "title": "Last Samurai Standing",
     "imdb_id": "tt32237534",
-    "type": "tv"
-  },
-  {
-    "title": "Shameless",
-    "imdb_id": "tt1586680",
     "type": "tv"
   },
   {
