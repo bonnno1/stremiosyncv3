@@ -5,6 +5,11 @@
     "type": "movie"
   },
   {
+    "title": "Zootopia 2",
+    "imdb_id": "tt26443597",
+    "type": "movie"
+  },
+  {
     "title": "The Shadow's Edge",
     "imdb_id": "tt34610311",
     "type": "movie"
@@ -15,23 +20,18 @@
     "type": "movie"
   },
   {
-    "title": "Zootopia 2",
-    "imdb_id": "tt26443597",
-    "type": "movie"
-  },
-  {
     "title": "Altered",
     "imdb_id": "tt32123395",
     "type": "movie"
   },
   {
-    "title": "Frankenstein",
-    "imdb_id": "tt1312221",
+    "title": "Wicked: For Good",
+    "imdb_id": "tt19847976",
     "type": "movie"
   },
   {
-    "title": "Wicked: For Good",
-    "imdb_id": "tt19847976",
+    "title": "Frankenstein",
+    "imdb_id": "tt1312221",
     "type": "movie"
   },
   {
@@ -47,11 +47,6 @@
   {
     "title": "A Legend",
     "imdb_id": "tt27589902",
-    "type": "movie"
-  },
-  {
-    "title": "The Gentleman",
-    "imdb_id": "tt32140922",
     "type": "movie"
   },
   {
@@ -80,8 +75,18 @@
     "type": "movie"
   },
   {
-    "title": "Nahual",
-    "imdb_id": "tt32293642",
+    "title": "The Gentleman",
+    "imdb_id": "tt32140922",
+    "type": "movie"
+  },
+  {
+    "title": "High School of the Dead: Drifters of the Dead",
+    "imdb_id": "tt5799076",
+    "type": "movie"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "imdb_id": "tt32820897",
     "type": "movie"
   },
   {
@@ -90,13 +95,8 @@
     "type": "movie"
   },
   {
-    "title": "Playdate",
-    "imdb_id": "tt31425731",
-    "type": "movie"
-  },
-  {
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "imdb_id": "tt32820897",
+    "title": "Bugonia",
+    "imdb_id": "tt12300742",
     "type": "movie"
   }
 ]
