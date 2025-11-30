@@ -10,18 +10,13 @@
     "type": "tv"
   },
   {
-    "title": "Tulsa King",
-    "imdb_id": "tt16358384",
-    "type": "tv"
-  },
-  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "Tulsa King",
+    "imdb_id": "tt16358384",
     "type": "tv"
   },
   {
@@ -30,8 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -45,18 +40,13 @@
     "type": "tv"
   },
   {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
     "title": "Dexter",
     "imdb_id": "tt0773262",
-    "type": "tv"
-  },
-  {
-    "title": "The Witcher",
-    "imdb_id": "tt5180504",
-    "type": "tv"
-  },
-  {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
@@ -65,8 +55,8 @@
     "type": "tv"
   },
   {
-    "title": "Shameless",
-    "imdb_id": "tt1586680",
+    "title": "The Witcher",
+    "imdb_id": "tt5180504",
     "type": "tv"
   },
   {
@@ -75,18 +65,18 @@
     "type": "tv"
   },
   {
+    "title": "Shameless",
+    "imdb_id": "tt1586680",
+    "type": "tv"
+  },
+  {
     "title": "The Blacklist",
     "imdb_id": "tt2741602",
     "type": "tv"
   },
   {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
@@ -95,8 +85,18 @@
     "type": "tv"
   },
   {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
     "title": "Breaking Bad",
     "imdb_id": "tt0903747",
+    "type": "tv"
+  },
+  {
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   }
 ]
