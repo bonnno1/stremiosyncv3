@@ -80,6 +80,11 @@
     "type": "tv"
   },
   {
+    "title": "Playback: Together We Are One",
+    "imdb_id": "tt32151286",
+    "type": "tv"
+  },
+  {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
     "type": "tv"
@@ -87,11 +92,6 @@
   {
     "title": "Lambert vs. Lambert: Over His Dead Body",
     "imdb_id": "tt27720255",
-    "type": "tv"
-  },
-  {
-    "title": "Love, Victor",
-    "imdb_id": "tt10166602",
     "type": "tv"
   }
 ]

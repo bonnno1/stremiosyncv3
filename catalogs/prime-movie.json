@@ -1,5 +1,10 @@
 [
   {
+    "title": "Ashes Never Rest",
+    "imdb_id": "tt37478893",
+    "type": "movie"
+  },
+  {
     "title": "Mark Chalifoux's Christmas Special",
     "imdb_id": "tt31024212",
     "type": "movie"
@@ -22,16 +27,6 @@
   {
     "title": "Phil Pointer: Sweat it Out",
     "imdb_id": "tt26598520",
-    "type": "movie"
-  },
-  {
-    "title": "The Cake is a Lie!",
-    "imdb_id": "tt7033436",
-    "type": "movie"
-  },
-  {
-    "title": "Undercover Wrestler",
-    "imdb_id": "tt28510300",
     "type": "movie"
   }
 ]
