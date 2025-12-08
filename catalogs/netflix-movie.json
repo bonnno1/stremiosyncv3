@@ -1,7 +1,12 @@
 [
   {
-    "title": "Stranger Things 5: The Crawl",
-    "imdb_id": "tt18268644",
+    "title": "A Mother's Confession",
+    "imdb_id": "tt37171439",
+    "type": "movie"
+  },
+  {
+    "title": "Home Movie: A Diary for my American-Born Son",
+    "imdb_id": "tt39099090",
     "type": "movie"
   },
   {
@@ -12,6 +17,16 @@
   {
     "title": "Monsieur Badin",
     "imdb_id": "tt0235602",
+    "type": "movie"
+  },
+  {
+    "title": "A Short Film for Lida",
+    "imdb_id": "tt39049314",
+    "type": "movie"
+  },
+  {
+    "title": "Afraid",
+    "imdb_id": "tt35103909",
     "type": "movie"
   }
 ]
