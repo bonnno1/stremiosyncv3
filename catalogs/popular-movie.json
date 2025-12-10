@@ -35,11 +35,6 @@
     "type": "movie"
   },
   {
-    "title": "The Shadow's Edge",
-    "imdb_id": "tt34610311",
-    "type": "movie"
-  },
-  {
     "title": "Wildcat",
     "imdb_id": "tt36153493",
     "type": "movie"
@@ -55,6 +50,16 @@
     "type": "movie"
   },
   {
+    "title": "The Shadow's Edge",
+    "imdb_id": "tt34610311",
+    "type": "movie"
+  },
+  {
+    "title": "Chainsaw Man - The Movie: Reze Arc",
+    "imdb_id": "tt30472557",
+    "type": "movie"
+  },
+  {
     "title": "High Forces",
     "imdb_id": "tt17501870",
     "type": "movie"
@@ -65,28 +70,8 @@
     "type": "movie"
   },
   {
-    "title": "Altered",
-    "imdb_id": "tt32123395",
-    "type": "movie"
-  },
-  {
-    "title": "Zootopia",
-    "imdb_id": "tt2948356",
-    "type": "movie"
-  },
-  {
     "title": "Frankenstein",
     "imdb_id": "tt1312221",
-    "type": "movie"
-  },
-  {
-    "title": "Wicked: For Good",
-    "imdb_id": "tt19847976",
-    "type": "movie"
-  },
-  {
-    "title": "The Family Plan 2",
-    "imdb_id": "tt34276058",
     "type": "movie"
   },
   {
@@ -95,8 +80,23 @@
     "type": "movie"
   },
   {
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "imdb_id": "tt32820897",
+    "title": "The Family Plan 2",
+    "imdb_id": "tt34276058",
+    "type": "movie"
+  },
+  {
+    "title": "Zootopia",
+    "imdb_id": "tt2948356",
+    "type": "movie"
+  },
+  {
+    "title": "Wicked: For Good",
+    "imdb_id": "tt19847976",
+    "type": "movie"
+  },
+  {
+    "title": "Altered",
+    "imdb_id": "tt32123395",
     "type": "movie"
   }
 ]
