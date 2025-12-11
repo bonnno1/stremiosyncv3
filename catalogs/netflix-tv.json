@@ -15,11 +15,6 @@
     "type": "tv"
   },
   {
-    "title": "Fugue State 1986",
-    "imdb_id": "tt37762533",
-    "type": "tv"
-  },
-  {
     "title": "Closet Battle",
     "imdb_id": "tt37800569",
     "type": "tv"
@@ -77,6 +72,11 @@
   {
     "title": "Return of the Wild: The Bearman of Buncrana",
     "imdb_id": "tt26930840",
+    "type": "tv"
+  },
+  {
+    "title": "Trailer Park Boys: Park After Dark",
+    "imdb_id": "tt12107408",
     "type": "tv"
   }
 ]
