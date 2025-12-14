@@ -15,8 +15,8 @@
     "type": "tv"
   },
   {
-    "title": "The Boys from Brazil: Rise of the Bolsonaros",
-    "imdb_id": "tt0841010",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -25,8 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -35,18 +35,13 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
-    "type": "tv"
-  },
-  {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
+    "title": "The Boys from Brazil: Rise of the Bolsonaros",
+    "imdb_id": "tt0841010",
     "type": "tv"
   },
   {
@@ -55,8 +50,18 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
+    "title": "Record of Ragnarok",
+    "imdb_id": "tt13676344",
     "type": "tv"
   },
   {
@@ -65,8 +70,8 @@
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
@@ -75,13 +80,13 @@
     "type": "tv"
   },
   {
-    "title": "House",
-    "imdb_id": "tt0412142",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
@@ -90,13 +95,8 @@
     "type": "tv"
   },
   {
-    "title": "The Blacklist",
-    "imdb_id": "tt2741602",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "House",
+    "imdb_id": "tt0412142",
     "type": "tv"
   }
 ]

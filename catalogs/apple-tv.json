@@ -25,6 +25,11 @@
     "type": "tv"
   },
   {
+    "title": "Yo Gabba GabbaLand!",
+    "imdb_id": "tt32082949",
+    "type": "tv"
+  },
+  {
     "title": "Wolfboy and the Everything Factory",
     "imdb_id": "tt15389676",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Mr. Scorsese",
     "imdb_id": "tt36998986",
-    "type": "tv"
-  },
-  {
-    "title": "Earth at Night in Colour",
-    "imdb_id": "tt13008036",
     "type": "tv"
   }
 ]
