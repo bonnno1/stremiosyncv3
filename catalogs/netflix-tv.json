@@ -25,6 +25,11 @@
     "type": "tv"
   },
   {
+    "title": "Single Papa",
+    "imdb_id": "tt37062070",
+    "type": "tv"
+  },
+  {
     "title": "Cheat: Unfinished Business",
     "imdb_id": "tt32249973",
     "type": "tv"
@@ -72,11 +77,6 @@
   {
     "title": "Return of the Wild: The Bearman of Buncrana",
     "imdb_id": "tt26930840",
-    "type": "tv"
-  },
-  {
-    "title": "Trailer Park Boys: Park After Dark",
-    "imdb_id": "tt12107408",
     "type": "tv"
   }
 ]
