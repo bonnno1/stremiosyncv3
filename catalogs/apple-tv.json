@@ -80,6 +80,11 @@
     "type": "tv"
   },
   {
+    "title": "Mr. Scorsese",
+    "imdb_id": "tt36998986",
+    "type": "tv"
+  },
+  {
     "title": "Silo",
     "imdb_id": "tt14688458",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Black Bird",
     "imdb_id": "tt4301160",
-    "type": "tv"
-  },
-  {
-    "title": "Mr. Scorsese",
-    "imdb_id": "tt36998986",
     "type": "tv"
   }
 ]
