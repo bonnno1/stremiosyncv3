@@ -55,13 +55,18 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
+    "title": "Pluribus",
+    "imdb_id": "tt22202452",
     "type": "tv"
   },
   {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -92,11 +97,6 @@
   {
     "title": "House",
     "imdb_id": "tt0412142",
-    "type": "tv"
-  },
-  {
-    "title": "Pluribus",
-    "imdb_id": "tt22202452",
     "type": "tv"
   }
 ]
