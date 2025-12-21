@@ -5,23 +5,28 @@
     "type": "movie"
   },
   {
-    "title": "Sisu: Road to Revenge",
-    "imdb_id": "tt31844586",
-    "type": "movie"
-  },
-  {
     "title": "Avatar: Fire and Ash",
     "imdb_id": "tt1757678",
     "type": "movie"
   },
   {
-    "title": "The Running Man",
-    "imdb_id": "tt14107334",
+    "title": "The Great Flood",
+    "imdb_id": "tt29927663",
+    "type": "movie"
+  },
+  {
+    "title": "Sisu: Road to Revenge",
+    "imdb_id": "tt31844586",
     "type": "movie"
   },
   {
     "title": "Zootopia 2",
     "imdb_id": "tt26443597",
+    "type": "movie"
+  },
+  {
+    "title": "The Running Man",
+    "imdb_id": "tt14107334",
     "type": "movie"
   },
   {
@@ -35,11 +40,6 @@
     "type": "movie"
   },
   {
-    "title": "The Great Flood",
-    "imdb_id": "tt29927663",
-    "type": "movie"
-  },
-  {
     "title": "London Calling",
     "imdb_id": "tt30425872",
     "type": "movie"
@@ -50,23 +50,18 @@
     "type": "movie"
   },
   {
-    "title": "TRON: Ares",
-    "imdb_id": "tt6604188",
-    "type": "movie"
-  },
-  {
     "title": "Five Nights at Freddy's 2",
     "imdb_id": "tt30274401",
     "type": "movie"
   },
   {
-    "title": "High Rollers",
-    "imdb_id": "tt27829510",
+    "title": "Bang",
+    "imdb_id": "tt29538620",
     "type": "movie"
   },
   {
-    "title": "Troll 2",
-    "imdb_id": "tt29232158",
+    "title": "TRON: Ares",
+    "imdb_id": "tt6604188",
     "type": "movie"
   },
   {
@@ -75,8 +70,18 @@
     "type": "movie"
   },
   {
+    "title": "Troll 2",
+    "imdb_id": "tt29232158",
+    "type": "movie"
+  },
+  {
     "title": "Chainsaw Man - The Movie: Reze Arc",
     "imdb_id": "tt30472557",
+    "type": "movie"
+  },
+  {
+    "title": "High Rollers",
+    "imdb_id": "tt27829510",
     "type": "movie"
   },
   {
@@ -85,18 +90,13 @@
     "type": "movie"
   },
   {
-    "title": "Kantara - A Legend: Chapter 1",
-    "imdb_id": "tt26439764",
-    "type": "movie"
-  },
-  {
     "title": "Predator: Badlands",
     "imdb_id": "tt31227572",
     "type": "movie"
   },
   {
-    "title": "Tell Me Softly",
-    "imdb_id": "tt34434461",
+    "title": "The Other",
+    "imdb_id": "tt28498159",
     "type": "movie"
   }
 ]
