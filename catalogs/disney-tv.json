@@ -65,6 +65,16 @@
     "type": "tv"
   },
   {
+    "title": "The End of an Era",
+    "imdb_id": "tt38673133",
+    "type": "tv"
+  },
+  {
+    "title": "The Eighth Family",
+    "imdb_id": "tt38781098",
+    "type": "tv"
+  },
+  {
     "title": "Sneaker Wars: Adidas V. Puma",
     "imdb_id": "tt11382826",
     "type": "tv"
@@ -82,16 +92,6 @@
   {
     "title": "Lambert vs. Lambert: Over His Dead Body",
     "imdb_id": "tt27720255",
-    "type": "tv"
-  },
-  {
-    "title": "Ed Sheeran: The Sum of It All",
-    "imdb_id": "tt27192366",
-    "type": "tv"
-  },
-  {
-    "title": "Love, Victor",
-    "imdb_id": "tt10166602",
     "type": "tv"
   }
 ]
