@@ -10,13 +10,18 @@
     "type": "tv"
   },
   {
-    "title": "Fallout",
-    "imdb_id": "tt12637874",
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "Fallout",
+    "imdb_id": "tt12637874",
     "type": "tv"
   },
   {
@@ -37,11 +42,6 @@
   {
     "title": "Breaking Bad",
     "imdb_id": "tt0903747",
-    "type": "tv"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
