@@ -25,11 +25,6 @@
     "type": "tv"
   },
   {
-    "title": "The Sisters Grimm",
-    "imdb_id": "tt14348758",
-    "type": "tv"
-  },
-  {
     "title": "Yo Gabba GabbaLand!",
     "imdb_id": "tt32082949",
     "type": "tv"
@@ -42,6 +37,11 @@
   {
     "title": "Dickinson",
     "imdb_id": "tt8518136",
+    "type": "tv"
+  },
+  {
+    "title": "The Sisters Grimm",
+    "imdb_id": "tt14348758",
     "type": "tv"
   },
   {
