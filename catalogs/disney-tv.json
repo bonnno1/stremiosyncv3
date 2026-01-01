@@ -75,11 +75,6 @@
     "type": "tv"
   },
   {
-    "title": "Sneaker Wars: Adidas V. Puma",
-    "imdb_id": "tt11382826",
-    "type": "tv"
-  },
-  {
     "title": "Playback: Together We Are One",
     "imdb_id": "tt32151286",
     "type": "tv"
@@ -92,6 +87,11 @@
   {
     "title": "Lambert vs. Lambert: Over His Dead Body",
     "imdb_id": "tt27720255",
+    "type": "tv"
+  },
+  {
+    "title": "Love, Victor",
+    "imdb_id": "tt10166602",
     "type": "tv"
   }
 ]
