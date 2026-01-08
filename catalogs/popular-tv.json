@@ -10,13 +10,13 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -45,8 +45,8 @@
     "type": "tv"
   },
   {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
+    "title": "Fallout",
+    "imdb_id": "tt12637874",
     "type": "tv"
   },
   {
@@ -62,11 +62,6 @@
   {
     "title": "The Good Doctor",
     "imdb_id": "tt6470478",
-    "type": "tv"
-  },
-  {
-    "title": "Fallout",
-    "imdb_id": "tt12637874",
     "type": "tv"
   },
   {
@@ -97,6 +92,11 @@
   {
     "title": "The Blacklist",
     "imdb_id": "tt2741602",
+    "type": "tv"
+  },
+  {
+    "title": "Breaking Bad",
+    "imdb_id": "tt0903747",
     "type": "tv"
   }
 ]
