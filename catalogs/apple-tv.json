@@ -55,11 +55,6 @@
     "type": "tv"
   },
   {
-    "title": "The Dynasty: New England Patriots",
-    "imdb_id": "tt18257378",
-    "type": "tv"
-  },
-  {
     "title": "The Oprah Conversation",
     "imdb_id": "tt10171532",
     "type": "tv"
@@ -80,13 +75,18 @@
     "type": "tv"
   },
   {
-    "title": "Mr. Scorsese",
-    "imdb_id": "tt36998986",
+    "title": "The Dynasty: New England Patriots",
+    "imdb_id": "tt18257378",
     "type": "tv"
   },
   {
     "title": "The Sisters Grimm",
     "imdb_id": "tt14348758",
+    "type": "tv"
+  },
+  {
+    "title": "Mr. Scorsese",
+    "imdb_id": "tt36998986",
     "type": "tv"
   },
   {
