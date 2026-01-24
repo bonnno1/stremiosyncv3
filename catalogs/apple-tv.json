@@ -10,11 +10,6 @@
     "type": "tv"
   },
   {
-    "title": "Born to Be Wild",
-    "imdb_id": "tt28445317",
-    "type": "tv"
-  },
-  {
     "title": "Goldie",
     "imdb_id": "tt35511175",
     "type": "tv"
@@ -37,6 +32,11 @@
   {
     "title": "Dickinson",
     "imdb_id": "tt8518136",
+    "type": "tv"
+  },
+  {
+    "title": "Born to Be Wild",
+    "imdb_id": "tt28445317",
     "type": "tv"
   },
   {
@@ -65,13 +65,13 @@
     "type": "tv"
   },
   {
-    "title": "Defending Jacob",
-    "imdb_id": "tt2304589",
+    "title": "Lessons in Chemistry",
+    "imdb_id": "tt13911628",
     "type": "tv"
   },
   {
-    "title": "Lessons in Chemistry",
-    "imdb_id": "tt13911628",
+    "title": "Defending Jacob",
+    "imdb_id": "tt2304589",
     "type": "tv"
   },
   {
@@ -80,13 +80,13 @@
     "type": "tv"
   },
   {
-    "title": "Mr. Scorsese",
-    "imdb_id": "tt36998986",
+    "title": "The Sisters Grimm",
+    "imdb_id": "tt14348758",
     "type": "tv"
   },
   {
-    "title": "The Sisters Grimm",
-    "imdb_id": "tt14348758",
+    "title": "Mr. Scorsese",
+    "imdb_id": "tt36998986",
     "type": "tv"
   },
   {
