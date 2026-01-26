@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
     "title": "JUJUTSU KAISEN",
     "imdb_id": "tt12343534",
     "type": "tv"
@@ -42,6 +37,11 @@
   {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -70,18 +70,18 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
-    "type": "tv"
-  },
-  {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
     "title": "The Good Doctor",
     "imdb_id": "tt6470478",
+    "type": "tv"
+  },
+  {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
@@ -90,8 +90,8 @@
     "type": "tv"
   },
   {
-    "title": "The Blacklist",
-    "imdb_id": "tt2741602",
+    "title": "Frieren: Beyond Journey's End",
+    "imdb_id": "tt22248376",
     "type": "tv"
   }
 ]
