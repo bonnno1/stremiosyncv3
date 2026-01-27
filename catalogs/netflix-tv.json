@@ -45,6 +45,11 @@
     "type": "tv"
   },
   {
+    "title": "Take That",
+    "imdb_id": "tt39049745",
+    "type": "tv"
+  },
+  {
     "title": "Bad Dinosaurs",
     "imdb_id": "tt20917538",
     "type": "tv"
@@ -72,11 +77,6 @@
   {
     "title": "Return of the Wild: The Bearman of Buncrana",
     "imdb_id": "tt26930840",
-    "type": "tv"
-  },
-  {
-    "title": "Trailer Park Boys: Park After Dark",
-    "imdb_id": "tt12107408",
     "type": "tv"
   }
 ]
