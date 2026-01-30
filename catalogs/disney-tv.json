@@ -55,6 +55,11 @@
     "type": "tv"
   },
   {
+    "title": "Haunted House Secrets",
+    "imdb_id": "tt39295414",
+    "type": "tv"
+  },
+  {
     "title": "Beyond the Clouds",
     "imdb_id": "tt13496456",
     "type": "tv"
@@ -85,8 +90,8 @@
     "type": "tv"
   },
   {
-    "title": "Spartans: A True Story",
-    "imdb_id": "tt15664022",
+    "title": "Boris",
+    "imdb_id": "tt1020116",
     "type": "tv"
   }
 ]

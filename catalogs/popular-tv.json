@@ -10,13 +10,13 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -35,6 +35,11 @@
     "type": "tv"
   },
   {
+    "title": "JUJUTSU KAISEN",
+    "imdb_id": "tt12343534",
+    "type": "tv"
+  },
+  {
     "title": "The Pendragon Cycle: Rise of the Merlin",
     "imdb_id": "tt23734948",
     "type": "tv"
@@ -45,8 +50,13 @@
     "type": "tv"
   },
   {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
+    "title": "Wonder Man",
+    "imdb_id": "tt21066182",
+    "type": "tv"
+  },
+  {
+    "title": "Fallout",
+    "imdb_id": "tt12637874",
     "type": "tv"
   },
   {
@@ -70,11 +80,6 @@
     "type": "tv"
   },
   {
-    "title": "Fallout",
-    "imdb_id": "tt12637874",
-    "type": "tv"
-  },
-  {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
     "type": "tv"
@@ -82,11 +87,6 @@
   {
     "title": "Smallville",
     "imdb_id": "tt0279600",
-    "type": "tv"
-  },
-  {
-    "title": "The Good Doctor",
-    "imdb_id": "tt6470478",
     "type": "tv"
   },
   {

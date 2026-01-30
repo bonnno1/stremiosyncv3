@@ -20,11 +20,6 @@
     "type": "tv"
   },
   {
-    "title": "Yo Gabba GabbaLand!",
-    "imdb_id": "tt32082949",
-    "type": "tv"
-  },
-  {
     "title": "Wolfboy and the Everything Factory",
     "imdb_id": "tt15389676",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "See",
     "imdb_id": "tt7949218",
+    "type": "tv"
+  },
+  {
+    "title": "Black Bird",
+    "imdb_id": "tt4301160",
     "type": "tv"
   }
 ]
