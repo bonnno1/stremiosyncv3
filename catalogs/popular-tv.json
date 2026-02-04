@@ -5,13 +5,13 @@
     "type": "tv"
   },
   {
-    "title": "A Knight of the Seven Kingdoms",
-    "imdb_id": "tt27497448",
+    "title": "Bridgerton",
+    "imdb_id": "tt8740790",
     "type": "tv"
   },
   {
-    "title": "Bridgerton",
-    "imdb_id": "tt8740790",
+    "title": "A Knight of the Seven Kingdoms",
+    "imdb_id": "tt27497448",
     "type": "tv"
   },
   {
@@ -35,11 +35,6 @@
     "type": "tv"
   },
   {
-    "title": "Wonder Man",
-    "imdb_id": "tt21066182",
-    "type": "tv"
-  },
-  {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
     "type": "tv"
@@ -52,6 +47,11 @@
   {
     "title": "NCIS",
     "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
+    "title": "Wonder Man",
+    "imdb_id": "tt21066182",
     "type": "tv"
   },
   {
