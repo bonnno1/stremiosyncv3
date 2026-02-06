@@ -1,5 +1,10 @@
 [
   {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
+    "type": "tv"
+  },
+  {
     "title": "Stranger Things",
     "imdb_id": "tt4574334",
     "type": "tv"
@@ -10,33 +15,8 @@
     "type": "tv"
   },
   {
-    "title": "A Knight of the Seven Kingdoms",
-    "imdb_id": "tt27497448",
-    "type": "tv"
-  },
-  {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
-    "type": "tv"
-  },
-  {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
     "type": "tv"
   },
   {
@@ -45,13 +25,33 @@
     "type": "tv"
   },
   {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
-    "title": "The Pendragon Cycle: Rise of the Merlin",
-    "imdb_id": "tt23734948",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "imdb_id": "tt27497448",
+    "type": "tv"
+  },
+  {
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
+    "type": "tv"
+  },
+  {
+    "title": "Fallout",
+    "imdb_id": "tt12637874",
+    "type": "tv"
+  },
+  {
+    "title": "JUJUTSU KAISEN",
+    "imdb_id": "tt12343534",
     "type": "tv"
   },
   {
@@ -60,13 +60,13 @@
     "type": "tv"
   },
   {
-    "title": "Midsomer Murders",
-    "imdb_id": "tt0118401",
+    "title": "The Pendragon Cycle: Rise of the Merlin",
+    "imdb_id": "tt23734948",
     "type": "tv"
   },
   {
-    "title": "Fallout",
-    "imdb_id": "tt12637874",
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
@@ -80,8 +80,8 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "Bones",
+    "imdb_id": "tt0460627",
     "type": "tv"
   },
   {
@@ -90,8 +90,8 @@
     "type": "tv"
   },
   {
-    "title": "Smallville",
-    "imdb_id": "tt0279600",
+    "title": "Midsomer Murders",
+    "imdb_id": "tt0118401",
     "type": "tv"
   }
 ]
