@@ -5,13 +5,13 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -25,8 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
@@ -35,18 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
-    "type": "tv"
-  },
-  {
-    "title": "Bridgerton",
-    "imdb_id": "tt8740790",
-    "type": "tv"
-  },
-  {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
@@ -55,8 +45,18 @@
     "type": "tv"
   },
   {
+    "title": "JUJUTSU KAISEN",
+    "imdb_id": "tt12343534",
+    "type": "tv"
+  },
+  {
     "title": "Fallout",
     "imdb_id": "tt12637874",
+    "type": "tv"
+  },
+  {
+    "title": "Bridgerton",
+    "imdb_id": "tt8740790",
     "type": "tv"
   },
   {
@@ -75,11 +75,6 @@
     "type": "tv"
   },
   {
-    "title": "Spartacus: House of Ashur",
-    "imdb_id": "tt29921437",
-    "type": "tv"
-  },
-  {
     "title": "Bones",
     "imdb_id": "tt0460627",
     "type": "tv"
@@ -90,8 +85,18 @@
     "type": "tv"
   },
   {
+    "title": "Spartacus: House of Ashur",
+    "imdb_id": "tt29921437",
+    "type": "tv"
+  },
+  {
     "title": "Midsomer Murders",
     "imdb_id": "tt0118401",
+    "type": "tv"
+  },
+  {
+    "title": "CSI: Crime Scene Investigation",
+    "imdb_id": "tt0247082",
     "type": "tv"
   }
 ]
