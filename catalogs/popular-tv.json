@@ -10,11 +10,6 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
     "type": "tv"
@@ -25,18 +20,13 @@
     "type": "tv"
   },
   {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
+    "type": "tv"
+  },
+  {
     "title": "Stranger Things",
     "imdb_id": "tt4574334",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
@@ -45,13 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "House",
-    "imdb_id": "tt0412142",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
@@ -60,13 +45,23 @@
     "type": "tv"
   },
   {
+    "title": "House",
+    "imdb_id": "tt0412142",
+    "type": "tv"
+  },
+  {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
-    "title": "Smallville",
-    "imdb_id": "tt0279600",
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
@@ -75,23 +70,28 @@
     "type": "tv"
   },
   {
+    "title": "Smallville",
+    "imdb_id": "tt0279600",
+    "type": "tv"
+  },
+  {
     "title": "The Blacklist",
     "imdb_id": "tt2741602",
     "type": "tv"
   },
   {
-    "title": "The Flash",
-    "imdb_id": "tt3107288",
-    "type": "tv"
-  },
-  {
-    "title": "CSI: Crime Scene Investigation",
-    "imdb_id": "tt0247082",
-    "type": "tv"
-  },
-  {
     "title": "Friends",
     "imdb_id": "tt0108778",
+    "type": "tv"
+  },
+  {
+    "title": "Dexter",
+    "imdb_id": "tt0773262",
+    "type": "tv"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   }
 ]
