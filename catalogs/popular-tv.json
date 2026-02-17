@@ -1,5 +1,10 @@
 [
   {
+    "title": "A Knight of the Seven Kingdoms",
+    "imdb_id": "tt27497448",
+    "type": "tv"
+  },
+  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
     "type": "tv"
@@ -30,18 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "A Knight of the Seven Kingdoms",
-    "imdb_id": "tt27497448",
-    "type": "tv"
-  },
-  {
     "title": "Family Guy",
     "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
     "type": "tv"
   },
   {
@@ -67,6 +62,11 @@
   {
     "title": "Breaking Bad",
     "imdb_id": "tt0903747",
+    "type": "tv"
+  },
+  {
+    "title": "JUJUTSU KAISEN",
+    "imdb_id": "tt12343534",
     "type": "tv"
   },
   {
