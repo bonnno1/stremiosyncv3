@@ -40,6 +40,11 @@
     "type": "tv"
   },
   {
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
     "title": "JUJUTSU KAISEN",
     "imdb_id": "tt12343534",
     "type": "tv"
@@ -50,18 +55,13 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "House",
+    "imdb_id": "tt0412142",
     "type": "tv"
   },
   {
     "title": "NCIS",
     "imdb_id": "tt0364845",
-    "type": "tv"
-  },
-  {
-    "title": "House",
-    "imdb_id": "tt0412142",
     "type": "tv"
   },
   {
@@ -72,6 +72,11 @@
   {
     "title": "Raw",
     "imdb_id": "tt0185103",
+    "type": "tv"
+  },
+  {
+    "title": "The X-Files",
+    "imdb_id": "tt0106179",
     "type": "tv"
   },
   {
@@ -87,11 +92,6 @@
   {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "Friends",
-    "imdb_id": "tt0108778",
     "type": "tv"
   }
 ]
