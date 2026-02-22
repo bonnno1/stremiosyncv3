@@ -1,5 +1,10 @@
 [
   {
+    "title": "Famous Last Words: Eric Dane",
+    "imdb_id": "tt40035852",
+    "type": "movie"
+  },
+  {
     "title": "Ilha Da Madeira",
     "imdb_id": "tt1346578",
     "type": "movie"
@@ -7,6 +12,11 @@
   {
     "title": "Living Dead Girl (Behind the Screams)",
     "imdb_id": "tt39091623",
+    "type": "movie"
+  },
+  {
+    "title": "The Night of Life: Before You Think About It",
+    "imdb_id": "tt39846631",
     "type": "movie"
   },
   {

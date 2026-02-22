@@ -50,6 +50,11 @@
     "type": "tv"
   },
   {
+    "title": "Born to Be Wild",
+    "imdb_id": "tt28445317",
+    "type": "tv"
+  },
+  {
     "title": "Lessons in Chemistry",
     "imdb_id": "tt13911628",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Earth at Night in Colour",
     "imdb_id": "tt13008036",
-    "type": "tv"
-  },
-  {
-    "title": "Vietnam: The War That Changed America",
-    "imdb_id": "tt35407689",
     "type": "tv"
   }
 ]
