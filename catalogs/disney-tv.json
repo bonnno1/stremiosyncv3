@@ -55,6 +55,11 @@
     "type": "tv"
   },
   {
+    "title": "The Worst Trip Around the World",
+    "imdb_id": "tt38776685",
+    "type": "tv"
+  },
+  {
     "title": "Caroline Flack: Search for the Truth",
     "imdb_id": "tt38784236",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Boris",
     "imdb_id": "tt1020116",
-    "type": "tv"
-  },
-  {
-    "title": "Spartans: A True Story",
-    "imdb_id": "tt15664022",
     "type": "tv"
   }
 ]
