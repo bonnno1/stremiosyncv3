@@ -1,7 +1,17 @@
 [
   {
+    "title": "Slice 2",
+    "imdb_id": "tt37031479",
+    "type": "movie"
+  },
+  {
     "title": "Little Bird",
     "imdb_id": "tt40160504",
+    "type": "movie"
+  },
+  {
+    "title": "No Exit",
+    "imdb_id": "tt40110420",
     "type": "movie"
   },
   {
