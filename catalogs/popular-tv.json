@@ -80,11 +80,6 @@
     "type": "tv"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen",
-    "imdb_id": "tt2057880",
-    "type": "tv"
-  },
-  {
     "title": "House",
     "imdb_id": "tt0412142",
     "type": "tv"
@@ -92,6 +87,11 @@
   {
     "title": "CSI: Crime Scene Investigation",
     "imdb_id": "tt0247082",
+    "type": "tv"
+  },
+  {
+    "title": "The Daily Show",
+    "imdb_id": "tt0115147",
     "type": "tv"
   }
 ]
