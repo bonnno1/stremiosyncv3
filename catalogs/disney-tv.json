@@ -85,6 +85,11 @@
     "type": "tv"
   },
   {
+    "title": "Lambert vs. Lambert: Over His Dead Body",
+    "imdb_id": "tt27720255",
+    "type": "tv"
+  },
+  {
     "title": "Once",
     "imdb_id": "tt6922826",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Love, Victor",
     "imdb_id": "tt10166602",
-    "type": "tv"
-  },
-  {
-    "title": "Boris",
-    "imdb_id": "tt1020116",
     "type": "tv"
   }
 ]
