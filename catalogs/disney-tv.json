@@ -10,6 +10,11 @@
     "type": "tv"
   },
   {
+    "title": "Vit\u00f3ria",
+    "imdb_id": "tt36272837",
+    "type": "tv"
+  },
+  {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Once",
     "imdb_id": "tt6922826",
-    "type": "tv"
-  },
-  {
-    "title": "Love, Victor",
-    "imdb_id": "tt10166602",
     "type": "tv"
   }
 ]
