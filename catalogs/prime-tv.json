@@ -10,6 +10,16 @@
     "type": "tv"
   },
   {
+    "title": "MrBeast: Inspiring Stories!",
+    "imdb_id": "tt39374011",
+    "type": "tv"
+  },
+  {
+    "title": "MrBeast: Insane Competitions!",
+    "imdb_id": "tt39366539",
+    "type": "tv"
+  },
+  {
     "title": "MrBeast: Extreme Survival!",
     "imdb_id": "tt39373808",
     "type": "tv"
@@ -57,11 +67,6 @@
   {
     "title": "Saving Grace",
     "imdb_id": "tt32962604",
-    "type": "tv"
-  },
-  {
-    "title": "Ingebrigtsen: Born to Run",
-    "imdb_id": "tt33498743",
     "type": "tv"
   }
 ]
