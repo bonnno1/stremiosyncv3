@@ -5,13 +5,18 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "imdb_id": "tt2057880",
     "type": "tv"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen",
-    "imdb_id": "tt2057880",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -22,11 +27,6 @@
   {
     "title": "Grey's Anatomy",
     "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
