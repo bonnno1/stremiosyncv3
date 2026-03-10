@@ -10,6 +10,11 @@
     "type": "tv"
   },
   {
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
+    "type": "tv"
+  },
+  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
     "type": "tv"
@@ -20,28 +25,13 @@
     "type": "tv"
   },
   {
+    "title": "The Daily Show",
+    "imdb_id": "tt0115147",
+    "type": "tv"
+  },
+  {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
-    "type": "tv"
-  },
-  {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Bridgerton",
-    "imdb_id": "tt8740790",
-    "type": "tv"
-  },
-  {
-    "title": "Young Sherlock",
-    "imdb_id": "tt8599532",
     "type": "tv"
   },
   {
@@ -50,38 +40,18 @@
     "type": "tv"
   },
   {
-    "title": "Young Hearts",
-    "imdb_id": "tt0144724",
-    "type": "tv"
-  },
-  {
     "title": "Kamen Rider",
     "imdb_id": "tt0156214",
     "type": "tv"
   },
   {
-    "title": "The Daily Show",
-    "imdb_id": "tt0115147",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
-    "title": "The Tonight Show Starring Johnny Carson",
-    "imdb_id": "tt0055708",
-    "type": "tv"
-  },
-  {
-    "title": "Doraemon",
-    "imdb_id": "tt4083422",
-    "type": "tv"
-  },
-  {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "imdb_id": "tt3444938",
     "type": "tv"
   },
   {
@@ -90,8 +60,38 @@
     "type": "tv"
   },
   {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
+    "title": "Young Hearts",
+    "imdb_id": "tt0144724",
+    "type": "tv"
+  },
+  {
+    "title": "Young Sherlock",
+    "imdb_id": "tt8599532",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
+    "type": "tv"
+  },
+  {
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
+    "title": "CSI: Crime Scene Investigation",
+    "imdb_id": "tt0247082",
+    "type": "tv"
+  },
+  {
+    "title": "The Tonight Show Starring Johnny Carson",
+    "imdb_id": "tt0055708",
+    "type": "tv"
+  },
+  {
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
     "type": "tv"
   }
 ]
