@@ -75,6 +75,11 @@
     "type": "tv"
   },
   {
+    "title": "Pretzel and the Puppies",
+    "imdb_id": "tt17524490",
+    "type": "tv"
+  },
+  {
     "title": "The Sisters Grimm",
     "imdb_id": "tt14348758",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "See",
     "imdb_id": "tt7949218",
-    "type": "tv"
-  },
-  {
-    "title": "Black Bird",
-    "imdb_id": "tt4301160",
     "type": "tv"
   }
 ]
