@@ -75,6 +75,11 @@
     "type": "tv"
   },
   {
+    "title": "The Zoo",
+    "imdb_id": "tt39378786",
+    "type": "tv"
+  },
+  {
     "title": "Beyond the Clouds",
     "imdb_id": "tt13496456",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "In Vogue: The 90s",
     "imdb_id": "tt28338483",
-    "type": "tv"
-  },
-  {
-    "title": "Lambert vs. Lambert: Over His Dead Body",
-    "imdb_id": "tt27720255",
     "type": "tv"
   }
 ]
