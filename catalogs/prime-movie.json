@@ -1,7 +1,22 @@
 [
   {
+    "title": "This Is Joe (\u00c9ste Es Joe)",
+    "imdb_id": "tt3575008",
+    "type": "movie"
+  },
+  {
+    "title": "The Last Battle",
+    "imdb_id": "tt31350768",
+    "type": "movie"
+  },
+  {
     "title": "The Way of the Spur",
     "imdb_id": "tt1754484",
+    "type": "movie"
+  },
+  {
+    "title": "Foil and Doo: A Tale of Two Jokers",
+    "imdb_id": "tt39110215",
     "type": "movie"
   },
   {
@@ -17,6 +32,16 @@
   {
     "title": "Eiger",
     "imdb_id": "tt41195678",
+    "type": "movie"
+  },
+  {
+    "title": "Remember the Time",
+    "imdb_id": "tt3329648",
+    "type": "movie"
+  },
+  {
+    "title": "Black or White",
+    "imdb_id": "tt0255006",
     "type": "movie"
   },
   {
