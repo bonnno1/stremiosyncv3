@@ -30,6 +30,11 @@
     "type": "tv"
   },
   {
+    "title": "JUJUTSU KAISEN",
+    "imdb_id": "tt12343534",
+    "type": "tv"
+  },
+  {
     "title": "Bones",
     "imdb_id": "tt0460627",
     "type": "tv"
@@ -40,8 +45,8 @@
     "type": "tv"
   },
   {
-    "title": "Watch What Happens Live with Andy Cohen",
-    "imdb_id": "tt2057880",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
@@ -55,18 +60,13 @@
     "type": "tv"
   },
   {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
     "title": "Peaky Blinders",
     "imdb_id": "tt2442560",
+    "type": "tv"
+  },
+  {
+    "title": "House",
+    "imdb_id": "tt0412142",
     "type": "tv"
   },
   {
@@ -80,8 +80,8 @@
     "type": "tv"
   },
   {
-    "title": "House",
-    "imdb_id": "tt0412142",
+    "title": "Watch What Happens Live with Andy Cohen",
+    "imdb_id": "tt2057880",
     "type": "tv"
   },
   {
