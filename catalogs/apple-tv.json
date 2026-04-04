@@ -25,6 +25,11 @@
     "type": "tv"
   },
   {
+    "title": "Vietnam: The War That Changed America",
+    "imdb_id": "tt35407689",
+    "type": "tv"
+  },
+  {
     "title": "Frog and Toad",
     "imdb_id": "tt2197822",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "See",
     "imdb_id": "tt7949218",
-    "type": "tv"
-  },
-  {
-    "title": "Long Way Home",
-    "imdb_id": "tt33096033",
     "type": "tv"
   }
 ]
