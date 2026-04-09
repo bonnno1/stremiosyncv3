@@ -60,11 +60,6 @@
     "type": "tv"
   },
   {
-    "title": "Born to Be Wild",
-    "imdb_id": "tt28445317",
-    "type": "tv"
-  },
-  {
     "title": "Lessons in Chemistry",
     "imdb_id": "tt13911628",
     "type": "tv"
@@ -92,6 +87,11 @@
   {
     "title": "Mr. Scorsese",
     "imdb_id": "tt36998986",
+    "type": "tv"
+  },
+  {
+    "title": "Born to Be Wild",
+    "imdb_id": "tt28445317",
     "type": "tv"
   },
   {
