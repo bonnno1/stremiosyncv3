@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "Euphoria",
+    "imdb_id": "tt8772296",
+    "type": "tv"
+  },
+  {
     "title": "3000 Leagues in Search of Mother",
     "imdb_id": "tt0074002",
     "type": "tv"
@@ -12,6 +17,16 @@
   {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "Malcolm in the Middle: Life's Still Unfair",
+    "imdb_id": "tt35466672",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -25,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "Malcolm in the Middle: Life's Still Unfair",
-    "imdb_id": "tt35466672",
-    "type": "tv"
-  },
-  {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
     "type": "tv"
@@ -37,11 +47,6 @@
   {
     "title": "Bloodhounds",
     "imdb_id": "tt26315487",
-    "type": "tv"
-  },
-  {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -55,13 +60,8 @@
     "type": "tv"
   },
   {
-    "title": "House",
-    "imdb_id": "tt0412142",
-    "type": "tv"
-  },
-  {
-    "title": "JUJUTSU KAISEN",
-    "imdb_id": "tt12343534",
+    "title": "Perfect Crown",
+    "imdb_id": "tt39333617",
     "type": "tv"
   },
   {
@@ -70,28 +70,23 @@
     "type": "tv"
   },
   {
+    "title": "House",
+    "imdb_id": "tt0412142",
+    "type": "tv"
+  },
+  {
+    "title": "De Fabeltjeskrant",
+    "imdb_id": "tt0294075",
+    "type": "tv"
+  },
+  {
     "title": "Peaky Blinders",
     "imdb_id": "tt2442560",
     "type": "tv"
   },
   {
-    "title": "PopPixie",
-    "imdb_id": "tt1976263",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Bones",
-    "imdb_id": "tt0460627",
-    "type": "tv"
-  },
-  {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "JUJUTSU KAISEN",
+    "imdb_id": "tt12343534",
     "type": "tv"
   }
 ]
