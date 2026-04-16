@@ -20,18 +20,13 @@
     "type": "tv"
   },
   {
+    "title": "INVINCIBLE",
+    "imdb_id": "tt6741278",
+    "type": "tv"
+  },
+  {
     "title": "Grey's Anatomy",
     "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
@@ -40,8 +35,8 @@
     "type": "tv"
   },
   {
-    "title": "Invincible",
-    "imdb_id": "tt6741278",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -50,13 +45,18 @@
     "type": "tv"
   },
   {
+    "title": "Bloodhounds",
+    "imdb_id": "tt26315487",
+    "type": "tv"
+  },
+  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
-    "title": "Bloodhounds",
-    "imdb_id": "tt26315487",
+    "title": "FROM",
+    "imdb_id": "tt9813792",
     "type": "tv"
   },
   {
@@ -70,23 +70,28 @@
     "type": "tv"
   },
   {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
+    "type": "tv"
+  },
+  {
+    "title": "Peaky Blinders",
+    "imdb_id": "tt2442560",
+    "type": "tv"
+  },
+  {
     "title": "House",
     "imdb_id": "tt0412142",
     "type": "tv"
   },
   {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
     "title": "JUJUTSU KAISEN",
     "imdb_id": "tt12343534",
-    "type": "tv"
-  },
-  {
-    "title": "FROM",
-    "imdb_id": "tt9813792",
-    "type": "tv"
-  },
-  {
-    "title": "Bones",
-    "imdb_id": "tt0460627",
     "type": "tv"
   }
 ]
