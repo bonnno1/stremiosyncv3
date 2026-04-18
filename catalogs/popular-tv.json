@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
-    "type": "tv"
-  },
-  {
     "title": "FROM",
     "imdb_id": "tt9813792",
     "type": "tv"
@@ -77,6 +72,11 @@
   {
     "title": "Peaky Blinders",
     "imdb_id": "tt2442560",
+    "type": "tv"
+  },
+  {
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
