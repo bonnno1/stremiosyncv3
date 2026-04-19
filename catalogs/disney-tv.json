@@ -70,11 +70,6 @@
     "type": "tv"
   },
   {
-    "title": "Agent P Under C",
-    "imdb_id": "tt39205293",
-    "type": "tv"
-  },
-  {
     "title": "The Worst Trip Around the World",
     "imdb_id": "tt38776685",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Wizards Beyond Waverly Place",
     "imdb_id": "tt31867798",
+    "type": "tv"
+  },
+  {
+    "title": "Takopi's Original Sin",
+    "imdb_id": "tt36988358",
     "type": "tv"
   }
 ]
