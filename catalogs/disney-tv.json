@@ -85,11 +85,6 @@
     "type": "tv"
   },
   {
-    "title": "Dear Killer Nannies",
-    "imdb_id": "tt32125946",
-    "type": "tv"
-  },
-  {
     "title": "Takopi's Original Sin",
     "imdb_id": "tt36988358",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "The End of an Era",
     "imdb_id": "tt38673133",
+    "type": "tv"
+  },
+  {
+    "title": "Dear Killer Nannies",
+    "imdb_id": "tt32125946",
     "type": "tv"
   }
 ]
