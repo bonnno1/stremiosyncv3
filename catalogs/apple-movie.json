@@ -1,7 +1,12 @@
 [
   {
-    "title": "LISTERS: A Glimpse Into Extreme Birdwatching",
-    "imdb_id": "tt38023177",
+    "title": "Game of Thrones: The Rains of Castamere",
+    "imdb_id": "tt2178784",
+    "type": "movie"
+  },
+  {
+    "title": "A House Built on Lies",
+    "imdb_id": "tt41267219",
     "type": "movie"
   }
 ]
