@@ -80,6 +80,11 @@
     "type": "tv"
   },
   {
+    "title": "Gold Land",
+    "imdb_id": "tt37253311",
+    "type": "tv"
+  },
+  {
     "title": "Beyond the Clouds",
     "imdb_id": "tt13496456",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "The End of an Era",
     "imdb_id": "tt38673133",
-    "type": "tv"
-  },
-  {
-    "title": "In Vogue: The 90s",
-    "imdb_id": "tt28338483",
     "type": "tv"
   }
 ]
