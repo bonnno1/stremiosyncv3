@@ -1,12 +1,32 @@
 [
   {
-    "title": "Humanitas",
-    "imdb_id": "tt34960239",
+    "title": "Lawyered Up",
+    "imdb_id": "tt35472756",
     "type": "movie"
   },
   {
-    "title": "Les Ghostfacers",
-    "imdb_id": "tt38783227",
+    "title": "Avenca",
+    "imdb_id": "tt37890736",
+    "type": "movie"
+  },
+  {
+    "title": "A Menina e o Piano",
+    "imdb_id": "tt42350933",
+    "type": "movie"
+  },
+  {
+    "title": "Never to Return",
+    "imdb_id": "tt40797817",
+    "type": "movie"
+  },
+  {
+    "title": "The Frog",
+    "imdb_id": "tt42371810",
+    "type": "movie"
+  },
+  {
+    "title": "Humanitas",
+    "imdb_id": "tt34960239",
     "type": "movie"
   }
 ]
