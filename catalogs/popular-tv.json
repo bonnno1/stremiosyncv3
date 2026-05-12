@@ -15,13 +15,18 @@
     "type": "tv"
   },
   {
+    "title": "Euphoria",
+    "imdb_id": "tt8772296",
+    "type": "tv"
+  },
+  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
-    "title": "Euphoria",
-    "imdb_id": "tt8772296",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -35,18 +40,8 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
     "title": "The Mentalist",
     "imdb_id": "tt1196946",
-    "type": "tv"
-  },
-  {
-    "title": "Overflow",
-    "imdb_id": "tt14962432",
     "type": "tv"
   },
   {
@@ -55,13 +50,8 @@
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "Overflow",
+    "imdb_id": "tt14962432",
     "type": "tv"
   },
   {
@@ -70,23 +60,18 @@
     "type": "tv"
   },
   {
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
     "title": "The Simpsons",
     "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "Stranger Things",
-    "imdb_id": "tt4574334",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
@@ -95,8 +80,23 @@
     "type": "tv"
   },
   {
-    "title": "Perfect Crown",
-    "imdb_id": "tt39333617",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "Stranger Things",
+    "imdb_id": "tt4574334",
+    "type": "tv"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
+    "type": "tv"
+  },
+  {
+    "title": "Bones",
+    "imdb_id": "tt0460627",
     "type": "tv"
   }
 ]
