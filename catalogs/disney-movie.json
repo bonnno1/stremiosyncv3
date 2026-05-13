@@ -1,22 +1,32 @@
 [
   {
+    "title": "Sticks & Shelter",
+    "imdb_id": "tt37673661",
+    "type": "movie"
+  },
+  {
+    "title": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+    "imdb_id": "tt42615436",
+    "type": "movie"
+  },
+  {
+    "title": "Like a Prayer",
+    "imdb_id": "tt3241792",
+    "type": "movie"
+  },
+  {
     "title": "OAS, Un pass\u00e9 tr\u00e8s pr\u00e9sent",
     "imdb_id": "tt1262142",
     "type": "movie"
   },
   {
+    "title": "Dom P\u00e9rignon x Lady Gaga: The Labor of Creation (Director's Cut)",
+    "imdb_id": "tt30835262",
+    "type": "movie"
+  },
+  {
     "title": "The Contract",
     "imdb_id": "tt36018603",
-    "type": "movie"
-  },
-  {
-    "title": "You're Doing it Wrong",
-    "imdb_id": "tt39375861",
-    "type": "movie"
-  },
-  {
-    "title": "Shrek 5: The Contract",
-    "imdb_id": "tt32655777",
     "type": "movie"
   }
 ]
