@@ -85,6 +85,11 @@
     "type": "tv"
   },
   {
+    "title": "La nena",
+    "imdb_id": "tt41057629",
+    "type": "tv"
+  },
+  {
     "title": "Takopi's Original Sin",
     "imdb_id": "tt36988358",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Spartans: A True Story",
     "imdb_id": "tt15664022",
-    "type": "tv"
-  },
-  {
-    "title": "The End of an Era",
-    "imdb_id": "tt38673133",
     "type": "tv"
   }
 ]
