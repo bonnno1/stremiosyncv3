@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Roast of Kevin Hart",
+    "imdb_id": "tt40898187",
+    "type": "tv"
+  },
+  {
     "title": "Shut Up Evan",
     "imdb_id": "tt33500663",
     "type": "tv"
@@ -67,16 +72,6 @@
   {
     "title": "Chicken Soup for the Soul's Being Dad",
     "imdb_id": "tt8908110",
-    "type": "tv"
-  },
-  {
-    "title": "7 Bears",
-    "imdb_id": "tt20917852",
-    "type": "tv"
-  },
-  {
-    "title": "Return of the Wild: The Bearman of Buncrana",
-    "imdb_id": "tt26930840",
     "type": "tv"
   }
 ]
