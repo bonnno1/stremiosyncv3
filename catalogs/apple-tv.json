@@ -65,6 +65,11 @@
     "type": "tv"
   },
   {
+    "title": "Maximum Pleasure Guaranteed",
+    "imdb_id": "tt35946742",
+    "type": "tv"
+  },
+  {
     "title": "Defending Jacob",
     "imdb_id": "tt2304589",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Born to Be Wild",
     "imdb_id": "tt28445317",
-    "type": "tv"
-  },
-  {
-    "title": "Mr. Scorsese",
-    "imdb_id": "tt36998986",
     "type": "tv"
   }
 ]
