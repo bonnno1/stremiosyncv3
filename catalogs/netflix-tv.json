@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "Kylie",
-    "imdb_id": "tt41993588",
-    "type": "tv"
-  },
-  {
     "title": "The Trials of Winnie Mandela",
     "imdb_id": "tt42051192",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "7 Bears",
     "imdb_id": "tt20917852",
+    "type": "tv"
+  },
+  {
+    "title": "Return of the Wild: The Bearman of Buncrana",
+    "imdb_id": "tt26930840",
     "type": "tv"
   }
 ]
