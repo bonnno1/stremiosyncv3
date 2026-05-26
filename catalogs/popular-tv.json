@@ -15,6 +15,11 @@
     "type": "tv"
   },
   {
+    "title": "Euphoria",
+    "imdb_id": "tt8772296",
+    "type": "tv"
+  },
+  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
@@ -22,11 +27,6 @@
   {
     "title": "Berlin and the Lady with an Ermine",
     "imdb_id": "tt42178219",
-    "type": "tv"
-  },
-  {
-    "title": "The Apothecary Diaries",
-    "imdb_id": "tt26743760",
     "type": "tv"
   },
   {
@@ -50,8 +50,8 @@
     "type": "tv"
   },
   {
-    "title": "Euphoria",
-    "imdb_id": "tt8772296",
+    "title": "The Apothecary Diaries",
+    "imdb_id": "tt26743760",
     "type": "tv"
   },
   {
@@ -80,13 +80,18 @@
     "type": "tv"
   },
   {
+    "title": "Running Man",
+    "imdb_id": "tt2185037",
+    "type": "tv"
+  },
+  {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
-    "title": "Running Man",
-    "imdb_id": "tt2185037",
+    "title": "Yellowstone",
+    "imdb_id": "tt4236770",
     "type": "tv"
   },
   {
