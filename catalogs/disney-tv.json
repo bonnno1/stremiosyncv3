@@ -20,11 +20,6 @@
     "type": "tv"
   },
   {
-    "title": "Team Players",
-    "imdb_id": "tt31936698",
-    "type": "tv"
-  },
-  {
     "title": "NCT 127: The Lost Boys",
     "imdb_id": "tt28306746",
     "type": "tv"
@@ -92,6 +87,11 @@
   {
     "title": "La nena",
     "imdb_id": "tt41057629",
+    "type": "tv"
+  },
+  {
+    "title": "Team Players",
+    "imdb_id": "tt31936698",
     "type": "tv"
   },
   {
