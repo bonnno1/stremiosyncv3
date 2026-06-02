@@ -65,11 +65,6 @@
     "type": "tv"
   },
   {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
     "title": "The Tonight Show Starring Johnny Carson",
     "imdb_id": "tt0055708",
     "type": "tv"
@@ -77,6 +72,11 @@
   {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
