@@ -1,5 +1,10 @@
 [
   {
+    "title": "Michael Jackson: The Verdict",
+    "imdb_id": "tt42873612",
+    "type": "tv"
+  },
+  {
     "title": "The Trials of Winnie Mandela",
     "imdb_id": "tt42051192",
     "type": "tv"
@@ -35,6 +40,11 @@
     "type": "tv"
   },
   {
+    "title": "The Witness",
+    "imdb_id": "tt31631015",
+    "type": "tv"
+  },
+  {
     "title": "Teach You a Lesson",
     "imdb_id": "tt34809853",
     "type": "tv"
@@ -62,16 +72,6 @@
   {
     "title": "Chicken Soup for the Soul's Being Dad",
     "imdb_id": "tt8908110",
-    "type": "tv"
-  },
-  {
-    "title": "7 Bears",
-    "imdb_id": "tt20917852",
-    "type": "tv"
-  },
-  {
-    "title": "Return of the Wild: The Bearman of Buncrana",
-    "imdb_id": "tt26930840",
     "type": "tv"
   }
 ]

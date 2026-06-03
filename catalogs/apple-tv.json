@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "Cape Fear",
+    "imdb_id": "tt34675596",
+    "type": "tv"
+  },
+  {
     "title": "Puppy Place",
     "imdb_id": "tt15389998",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Margo's Got Money Troubles",
     "imdb_id": "tt31137273",
-    "type": "tv"
-  },
-  {
-    "title": "Silo",
-    "imdb_id": "tt14688458",
     "type": "tv"
   }
 ]
