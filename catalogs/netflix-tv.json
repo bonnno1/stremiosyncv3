@@ -1,10 +1,5 @@
 [
   {
-    "title": "Michael Jackson: The Verdict",
-    "imdb_id": "tt42873612",
-    "type": "tv"
-  },
-  {
     "title": "The Trials of Winnie Mandela",
     "imdb_id": "tt42051192",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "Chicken Soup for the Soul's Being Dad",
     "imdb_id": "tt8908110",
+    "type": "tv"
+  },
+  {
+    "title": "7 Bears",
+    "imdb_id": "tt20917852",
     "type": "tv"
   }
 ]

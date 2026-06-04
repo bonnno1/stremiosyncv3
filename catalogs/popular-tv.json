@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "Home and Away",
-    "imdb_id": "tt0094481",
-    "type": "tv"
-  },
-  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
     "type": "tv"
@@ -50,6 +45,11 @@
     "type": "tv"
   },
   {
+    "title": "Home and Away",
+    "imdb_id": "tt0094481",
+    "type": "tv"
+  },
+  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
     "type": "tv"
@@ -60,13 +60,13 @@
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
+    "title": "Game of Thrones",
+    "imdb_id": "tt0944947",
     "type": "tv"
   },
   {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
+    "title": "NCIS",
+    "imdb_id": "tt0364845",
     "type": "tv"
   },
   {
