@@ -75,11 +75,6 @@
     "type": "tv"
   },
   {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
-    "type": "tv"
-  },
-  {
     "title": "The Mentalist",
     "imdb_id": "tt1196946",
     "type": "tv"
@@ -87,6 +82,11 @@
   {
     "title": "The Tonight Show Starring Johnny Carson",
     "imdb_id": "tt0055708",
+    "type": "tv"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
     "type": "tv"
   },
   {
