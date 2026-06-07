@@ -20,6 +20,11 @@
     "type": "tv"
   },
   {
+    "title": "Chronicles of the Sun",
+    "imdb_id": "tt8883922",
+    "type": "tv"
+  },
+  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
     "type": "tv"
@@ -55,11 +60,6 @@
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
     "title": "NCIS",
     "imdb_id": "tt0364845",
     "type": "tv"
@@ -85,13 +85,13 @@
     "type": "tv"
   },
   {
-    "title": "Tagesschau",
-    "imdb_id": "tt0246393",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
-    "title": "Chronicles of the Sun",
-    "imdb_id": "tt8883922",
+    "title": "Tagesschau",
+    "imdb_id": "tt0246393",
     "type": "tv"
   },
   {
