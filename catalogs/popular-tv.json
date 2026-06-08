@@ -10,23 +10,23 @@
     "type": "tv"
   },
   {
-    "title": "Spider-Noir",
-    "imdb_id": "tt30460310",
-    "type": "tv"
-  },
-  {
     "title": "The Boys",
     "imdb_id": "tt1190634",
     "type": "tv"
   },
   {
-    "title": "Chronicles of the Sun",
-    "imdb_id": "tt8883922",
+    "title": "Spider-Noir",
+    "imdb_id": "tt30460310",
     "type": "tv"
   },
   {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
+    "type": "tv"
+  },
+  {
+    "title": "Chronicles of the Sun",
+    "imdb_id": "tt8883922",
     "type": "tv"
   },
   {
@@ -50,6 +50,11 @@
     "type": "tv"
   },
   {
+    "title": "Teach You a Lesson",
+    "imdb_id": "tt34809853",
+    "type": "tv"
+  },
+  {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
     "type": "tv"
@@ -65,23 +70,8 @@
     "type": "tv"
   },
   {
-    "title": "Breaking Bad",
-    "imdb_id": "tt0903747",
-    "type": "tv"
-  },
-  {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
-    "type": "tv"
-  },
-  {
-    "title": "The Mentalist",
-    "imdb_id": "tt1196946",
+    "title": "Running Man",
+    "imdb_id": "tt2185037",
     "type": "tv"
   },
   {
@@ -90,13 +80,23 @@
     "type": "tv"
   },
   {
-    "title": "Tagesschau",
-    "imdb_id": "tt0246393",
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
-    "title": "Yellowstone",
-    "imdb_id": "tt4236770",
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
+    "type": "tv"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
+    "type": "tv"
+  },
+  {
+    "title": "Breaking Bad",
+    "imdb_id": "tt0903747",
     "type": "tv"
   }
 ]
