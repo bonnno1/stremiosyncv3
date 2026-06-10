@@ -5,8 +5,18 @@
     "type": "tv"
   },
   {
+    "title": "El cor de la ciutat",
+    "imdb_id": "tt0338590",
+    "type": "tv"
+  },
+  {
     "title": "Off Campus",
     "imdb_id": "tt33546863",
+    "type": "tv"
+  },
+  {
+    "title": "Pirimi Lamai",
+    "imdb_id": "tt36545064",
     "type": "tv"
   },
   {
@@ -15,18 +25,13 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Spider-Noir",
-    "imdb_id": "tt30460310",
-    "type": "tv"
-  },
-  {
     "title": "Teach You a Lesson",
     "imdb_id": "tt34809853",
+    "type": "tv"
+  },
+  {
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -35,13 +40,13 @@
     "type": "tv"
   },
   {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
+    "title": "Spider-Noir",
+    "imdb_id": "tt30460310",
     "type": "tv"
   },
   {
-    "title": "Euphoria",
-    "imdb_id": "tt8772296",
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
     "type": "tv"
   },
   {
@@ -55,13 +60,23 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "Euphoria",
+    "imdb_id": "tt8772296",
     "type": "tv"
   },
   {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
@@ -80,23 +95,8 @@
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
-    "type": "tv"
-  },
-  {
     "title": "Chronicles of the Sun",
     "imdb_id": "tt8883922",
-    "type": "tv"
-  },
-  {
-    "title": "Yellowstone",
-    "imdb_id": "tt4236770",
     "type": "tv"
   }
 ]
