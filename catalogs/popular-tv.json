@@ -10,13 +10,8 @@
     "type": "tv"
   },
   {
-    "title": "Pirimi Lamai",
-    "imdb_id": "tt36545064",
-    "type": "tv"
-  },
-  {
-    "title": "The Boys",
-    "imdb_id": "tt1190634",
+    "title": "Law & Order: Special Victims Unit",
+    "imdb_id": "tt0203259",
     "type": "tv"
   },
   {
@@ -30,18 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Egoli: Place of Gold",
-    "imdb_id": "tt0128176",
-    "type": "tv"
-  },
-  {
-    "title": "Spider-Noir",
-    "imdb_id": "tt30460310",
+    "title": "The Boys",
+    "imdb_id": "tt1190634",
     "type": "tv"
   },
   {
@@ -55,13 +40,13 @@
     "type": "tv"
   },
   {
-    "title": "Law & Order",
-    "imdb_id": "tt0098844",
+    "title": "Egoli: Place of Gold",
+    "imdb_id": "tt0128176",
     "type": "tv"
   },
   {
-    "title": "Euphoria",
-    "imdb_id": "tt8772296",
+    "title": "Spider-Noir",
+    "imdb_id": "tt30460310",
     "type": "tv"
   },
   {
@@ -70,18 +55,8 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
+    "title": "Law & Order",
+    "imdb_id": "tt0098844",
     "type": "tv"
   },
   {
@@ -90,8 +65,38 @@
     "type": "tv"
   },
   {
+    "title": "Euphoria",
+    "imdb_id": "tt8772296",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "Elif",
+    "imdb_id": "tt4745726",
+    "type": "tv"
+  },
+  {
     "title": "The Mentalist",
     "imdb_id": "tt1196946",
+    "type": "tv"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
+    "type": "tv"
+  },
+  {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "The Simpsons",
+    "imdb_id": "tt0096697",
     "type": "tv"
   }
 ]
