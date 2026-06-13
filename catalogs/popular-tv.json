@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "Spider-Noir",
-    "imdb_id": "tt30460310",
-    "type": "tv"
-  },
-  {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
     "type": "tv"
@@ -67,6 +62,11 @@
   {
     "title": "Euphoria",
     "imdb_id": "tt8772296",
+    "type": "tv"
+  },
+  {
+    "title": "Spider-Noir",
+    "imdb_id": "tt30460310",
     "type": "tv"
   },
   {
