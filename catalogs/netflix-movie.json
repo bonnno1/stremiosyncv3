@@ -1,7 +1,17 @@
 [
   {
-    "title": "Co-star",
-    "imdb_id": "tt42298280",
+    "title": "Kubo\u00e5",
+    "imdb_id": "tt1007998",
+    "type": "movie"
+  },
+  {
+    "title": "Enlig Far",
+    "imdb_id": "tt13034946",
+    "type": "movie"
+  },
+  {
+    "title": "Turroputo the Master",
+    "imdb_id": "tt9716820",
     "type": "movie"
   }
 ]
