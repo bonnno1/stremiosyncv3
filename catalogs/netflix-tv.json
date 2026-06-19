@@ -35,11 +35,6 @@
     "type": "tv"
   },
   {
-    "title": "I Will Find You",
-    "imdb_id": "tt34771210",
-    "type": "tv"
-  },
-  {
     "title": "Love Never Lies: South Africa",
     "imdb_id": "tt34724701",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Chicken Soup for the Soul's Being Dad",
     "imdb_id": "tt8908110",
+    "type": "tv"
+  },
+  {
+    "title": "7 Bears",
+    "imdb_id": "tt20917852",
     "type": "tv"
   }
 ]
