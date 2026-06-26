@@ -50,11 +50,6 @@
     "type": "tv"
   },
   {
-    "title": "O11CE: New Generation",
-    "imdb_id": "tt40526776",
-    "type": "tv"
-  },
-  {
     "title": "Caroline Flack: Search for the Truth",
     "imdb_id": "tt38784236",
     "type": "tv"
@@ -72,6 +67,11 @@
   {
     "title": "Beyond the Clouds",
     "imdb_id": "tt13496456",
+    "type": "tv"
+  },
+  {
+    "title": "O11CE: New Generation",
+    "imdb_id": "tt40526776",
     "type": "tv"
   },
   {
