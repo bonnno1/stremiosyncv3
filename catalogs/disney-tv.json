@@ -20,6 +20,11 @@
     "type": "tv"
   },
   {
+    "title": "The Doomies",
+    "imdb_id": "tt21057046",
+    "type": "tv"
+  },
+  {
     "title": "Haunted House Secrets",
     "imdb_id": "tt39295414",
     "type": "tv"
@@ -87,11 +92,6 @@
   {
     "title": "Team Players",
     "imdb_id": "tt31936698",
-    "type": "tv"
-  },
-  {
-    "title": "Spartans: A True Story",
-    "imdb_id": "tt15664022",
     "type": "tv"
   }
 ]

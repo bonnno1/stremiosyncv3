@@ -35,11 +35,6 @@
     "type": "tv"
   },
   {
-    "title": "Vietnam: The War That Changed America",
-    "imdb_id": "tt35407689",
-    "type": "tv"
-  },
-  {
     "title": "Frog and Toad",
     "imdb_id": "tt2197822",
     "type": "tv"
@@ -52,6 +47,11 @@
   {
     "title": "The Sisters Grimm",
     "imdb_id": "tt14348758",
+    "type": "tv"
+  },
+  {
+    "title": "Vietnam: The War That Changed America",
+    "imdb_id": "tt35407689",
     "type": "tv"
   },
   {
@@ -70,11 +70,6 @@
     "type": "tv"
   },
   {
-    "title": "Widow's Bay",
-    "imdb_id": "tt33332385",
-    "type": "tv"
-  },
-  {
     "title": "Defending Jacob",
     "imdb_id": "tt2304589",
     "type": "tv"
@@ -85,6 +80,16 @@
     "type": "tv"
   },
   {
+    "title": "Widow's Bay",
+    "imdb_id": "tt33332385",
+    "type": "tv"
+  },
+  {
+    "title": "Born to Be Wild",
+    "imdb_id": "tt28445317",
+    "type": "tv"
+  },
+  {
     "title": "Pretzel and the Puppies",
     "imdb_id": "tt17524490",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Silo",
     "imdb_id": "tt14688458",
-    "type": "tv"
-  },
-  {
-    "title": "Born to Be Wild",
-    "imdb_id": "tt28445317",
     "type": "tv"
   }
 ]
