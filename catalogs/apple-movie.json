@@ -1,5 +1,10 @@
 [
   {
+    "title": "Searching For a World That Doesn't Exist",
+    "imdb_id": "tt38884211",
+    "type": "movie"
+  },
+  {
     "title": "Slice",
     "imdb_id": "tt33086093",
     "type": "movie"
@@ -7,6 +12,11 @@
   {
     "title": "Slice 2",
     "imdb_id": "tt37031479",
+    "type": "movie"
+  },
+  {
+    "title": "Devil's Grapes",
+    "imdb_id": "tt43632467",
     "type": "movie"
   }
 ]
