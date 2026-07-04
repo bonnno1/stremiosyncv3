@@ -35,6 +35,16 @@
     "type": "tv"
   },
   {
+    "title": "Dutton Ranch",
+    "imdb_id": "tt34991493",
+    "type": "tv"
+  },
+  {
+    "title": "The Rookie",
+    "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
     "title": "Minnale",
     "imdb_id": "tt12182480",
     "type": "tv"
@@ -45,28 +55,13 @@
     "type": "tv"
   },
   {
-    "title": "The Rookie",
-    "imdb_id": "tt7587890",
-    "type": "tv"
-  },
-  {
-    "title": "Dutton Ranch",
-    "imdb_id": "tt34991493",
-    "type": "tv"
-  },
-  {
-    "title": "Knot",
-    "imdb_id": "tt38916337",
+    "title": "The Prosecutor's Proposal",
+    "imdb_id": "tt43592244",
     "type": "tv"
   },
   {
     "title": "Supernatural",
     "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "The Prosecutor's Proposal",
-    "imdb_id": "tt43592244",
     "type": "tv"
   },
   {
@@ -77,6 +72,11 @@
   {
     "title": "Family Guy",
     "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
     "type": "tv"
   },
   {
