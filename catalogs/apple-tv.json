@@ -80,11 +80,6 @@
     "type": "tv"
   },
   {
-    "title": "Widow's Bay",
-    "imdb_id": "tt33332385",
-    "type": "tv"
-  },
-  {
     "title": "Born to Be Wild",
     "imdb_id": "tt28445317",
     "type": "tv"
@@ -92,6 +87,11 @@
   {
     "title": "Pretzel and the Puppies",
     "imdb_id": "tt17524490",
+    "type": "tv"
+  },
+  {
+    "title": "Widow's Bay",
+    "imdb_id": "tt33332385",
     "type": "tv"
   },
   {
