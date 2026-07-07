@@ -50,11 +50,6 @@
     "type": "movie"
   },
   {
-    "title": "Mortal Kombat II",
-    "imdb_id": "tt17490712",
-    "type": "movie"
-  },
-  {
     "title": "Enola Holmes 3",
     "imdb_id": "tt32278481",
     "type": "movie"
@@ -65,18 +60,8 @@
     "type": "movie"
   },
   {
-    "title": "The Sheep Detectives",
-    "imdb_id": "tt32565993",
-    "type": "movie"
-  },
-  {
     "title": "The Shawshank Redemption",
     "imdb_id": "tt0111161",
-    "type": "movie"
-  },
-  {
-    "title": "Supergirl",
-    "imdb_id": "tt8814476",
     "type": "movie"
   },
   {
@@ -85,18 +70,33 @@
     "type": "movie"
   },
   {
+    "title": "Mortal Kombat II",
+    "imdb_id": "tt17490712",
+    "type": "movie"
+  },
+  {
     "title": "Damage",
     "imdb_id": "tt0104237",
     "type": "movie"
   },
   {
-    "title": "Toy Story 4",
-    "imdb_id": "tt1979376",
+    "title": "The Super Mario Galaxy Movie",
+    "imdb_id": "tt28650488",
     "type": "movie"
   },
   {
-    "title": "Avatar: Fire and Ash",
-    "imdb_id": "tt1757678",
+    "title": "Supergirl",
+    "imdb_id": "tt8814476",
+    "type": "movie"
+  },
+  {
+    "title": "The Sheep Detectives",
+    "imdb_id": "tt32565993",
+    "type": "movie"
+  },
+  {
+    "title": "The Get Out",
+    "imdb_id": "tt32321803",
     "type": "movie"
   }
 ]
