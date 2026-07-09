@@ -15,18 +15,23 @@
     "type": "movie"
   },
   {
-    "title": "Scary Movie",
-    "imdb_id": "tt32093575",
-    "type": "movie"
-  },
-  {
     "title": "Backrooms",
     "imdb_id": "tt26657236",
     "type": "movie"
   },
   {
+    "title": "Scary Movie",
+    "imdb_id": "tt32093575",
+    "type": "movie"
+  },
+  {
     "title": "The Devil Wears Prada 2",
     "imdb_id": "tt33612209",
+    "type": "movie"
+  },
+  {
+    "title": "The Furious",
+    "imdb_id": "tt33311069",
     "type": "movie"
   },
   {
@@ -45,16 +50,6 @@
     "type": "movie"
   },
   {
-    "title": "The Furious",
-    "imdb_id": "tt33311069",
-    "type": "movie"
-  },
-  {
-    "title": "Minions & Monsters",
-    "imdb_id": "tt32890033",
-    "type": "movie"
-  },
-  {
     "title": "Michael",
     "imdb_id": "tt11378946",
     "type": "movie"
@@ -65,8 +60,13 @@
     "type": "movie"
   },
   {
-    "title": "The Shawshank Redemption",
-    "imdb_id": "tt0111161",
+    "title": "Minions & Monsters",
+    "imdb_id": "tt32890033",
+    "type": "movie"
+  },
+  {
+    "title": "Passenger",
+    "imdb_id": "tt33763941",
     "type": "movie"
   },
   {
@@ -75,8 +75,13 @@
     "type": "movie"
   },
   {
-    "title": "Passenger",
-    "imdb_id": "tt33763941",
+    "title": "The Shawshank Redemption",
+    "imdb_id": "tt0111161",
+    "type": "movie"
+  },
+  {
+    "title": "The Get Out",
+    "imdb_id": "tt32321803",
     "type": "movie"
   },
   {
@@ -87,11 +92,6 @@
   {
     "title": "Damage",
     "imdb_id": "tt0104237",
-    "type": "movie"
-  },
-  {
-    "title": "The Get Out",
-    "imdb_id": "tt32321803",
     "type": "movie"
   },
   {
