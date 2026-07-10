@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "The Sisters Grimm",
-    "imdb_id": "tt14348758",
-    "type": "tv"
-  },
-  {
     "title": "Vietnam: The War That Changed America",
     "imdb_id": "tt35407689",
     "type": "tv"
@@ -97,6 +92,11 @@
   {
     "title": "Silo",
     "imdb_id": "tt14688458",
+    "type": "tv"
+  },
+  {
+    "title": "Mr. Scorsese",
+    "imdb_id": "tt36998986",
     "type": "tv"
   }
 ]

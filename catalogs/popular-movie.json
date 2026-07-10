@@ -50,8 +50,18 @@
     "type": "movie"
   },
   {
+    "title": "Passenger",
+    "imdb_id": "tt33763941",
+    "type": "movie"
+  },
+  {
     "title": "Michael",
     "imdb_id": "tt11378946",
+    "type": "movie"
+  },
+  {
+    "title": "Vixen!",
+    "imdb_id": "tt0063787",
     "type": "movie"
   },
   {
@@ -60,13 +70,8 @@
     "type": "movie"
   },
   {
-    "title": "Minions & Monsters",
-    "imdb_id": "tt32890033",
-    "type": "movie"
-  },
-  {
-    "title": "Passenger",
-    "imdb_id": "tt33763941",
+    "title": "The Shawshank Redemption",
+    "imdb_id": "tt0111161",
     "type": "movie"
   },
   {
@@ -75,18 +80,13 @@
     "type": "movie"
   },
   {
-    "title": "The Shawshank Redemption",
-    "imdb_id": "tt0111161",
-    "type": "movie"
-  },
-  {
     "title": "The Get Out",
     "imdb_id": "tt32321803",
     "type": "movie"
   },
   {
-    "title": "Mortal Kombat II",
-    "imdb_id": "tt17490712",
+    "title": "Minions & Monsters",
+    "imdb_id": "tt32890033",
     "type": "movie"
   },
   {
@@ -95,8 +95,8 @@
     "type": "movie"
   },
   {
-    "title": "The Super Mario Galaxy Movie",
-    "imdb_id": "tt28650488",
+    "title": "Mortal Kombat II",
+    "imdb_id": "tt17490712",
     "type": "movie"
   }
 ]
