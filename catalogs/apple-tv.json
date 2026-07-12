@@ -50,6 +50,11 @@
     "type": "tv"
   },
   {
+    "title": "Born to Be Wild",
+    "imdb_id": "tt28445317",
+    "type": "tv"
+  },
+  {
     "title": "Ted Lasso",
     "imdb_id": "tt10986410",
     "type": "tv"
@@ -72,11 +77,6 @@
   {
     "title": "Lessons in Chemistry",
     "imdb_id": "tt13911628",
-    "type": "tv"
-  },
-  {
-    "title": "Born to Be Wild",
-    "imdb_id": "tt28445317",
     "type": "tv"
   },
   {
