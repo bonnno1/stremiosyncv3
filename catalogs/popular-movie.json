@@ -25,18 +25,13 @@
     "type": "movie"
   },
   {
+    "title": "Moana",
+    "imdb_id": "tt27419466",
+    "type": "movie"
+  },
+  {
     "title": "The Devil Wears Prada 2",
     "imdb_id": "tt33612209",
-    "type": "movie"
-  },
-  {
-    "title": "The Furious",
-    "imdb_id": "tt33311069",
-    "type": "movie"
-  },
-  {
-    "title": "Your Heart Will Be Broken",
-    "imdb_id": "tt38190257",
     "type": "movie"
   },
   {
@@ -45,13 +40,18 @@
     "type": "movie"
   },
   {
+    "title": "The Furious",
+    "imdb_id": "tt33311069",
+    "type": "movie"
+  },
+  {
     "title": "Citizen Vigilante",
     "imdb_id": "tt35309713",
     "type": "movie"
   },
   {
-    "title": "Moana",
-    "imdb_id": "tt27419466",
+    "title": "Your Heart Will Be Broken",
+    "imdb_id": "tt38190257",
     "type": "movie"
   },
   {
@@ -65,8 +65,8 @@
     "type": "movie"
   },
   {
-    "title": "Vixen!",
-    "imdb_id": "tt0063787",
+    "title": "The Shawshank Redemption",
+    "imdb_id": "tt0111161",
     "type": "movie"
   },
   {
@@ -75,8 +75,8 @@
     "type": "movie"
   },
   {
-    "title": "The Shawshank Redemption",
-    "imdb_id": "tt0111161",
+    "title": "Mortal Kombat II",
+    "imdb_id": "tt17490712",
     "type": "movie"
   },
   {
@@ -85,18 +85,18 @@
     "type": "movie"
   },
   {
-    "title": "Mortal Kombat II",
-    "imdb_id": "tt17490712",
-    "type": "movie"
-  },
-  {
-    "title": "Minions & Monsters",
-    "imdb_id": "tt32890033",
-    "type": "movie"
-  },
-  {
     "title": "The Super Mario Galaxy Movie",
     "imdb_id": "tt28650488",
+    "type": "movie"
+  },
+  {
+    "title": "Evil Dead Burn",
+    "imdb_id": "tt31170389",
+    "type": "movie"
+  },
+  {
+    "title": "Vixen!",
+    "imdb_id": "tt0063787",
     "type": "movie"
   }
 ]
