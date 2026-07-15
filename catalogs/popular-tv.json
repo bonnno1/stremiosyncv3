@@ -1,12 +1,12 @@
 [
   {
-    "title": "House of the Dragon",
-    "imdb_id": "tt11198330",
+    "title": "Pritam and Pedro",
+    "imdb_id": "tt28077038",
     "type": "tv"
   },
   {
-    "title": "Pritam and Pedro",
-    "imdb_id": "tt28077038",
+    "title": "House of the Dragon",
+    "imdb_id": "tt11198330",
     "type": "tv"
   },
   {
@@ -15,8 +15,8 @@
     "type": "tv"
   },
   {
-    "title": "Rote Rosen",
-    "imdb_id": "tt0853076",
+    "title": "FROM",
+    "imdb_id": "tt9813792",
     "type": "tv"
   },
   {
@@ -25,18 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "FROM",
-    "imdb_id": "tt9813792",
-    "type": "tv"
-  },
-  {
     "title": "Law & Order: Special Victims Unit",
     "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Chainsmoker Cat",
-    "imdb_id": "tt39551330",
     "type": "tv"
   },
   {
@@ -52,6 +42,16 @@
   {
     "title": "Law & Order",
     "imdb_id": "tt0098844",
+    "type": "tv"
+  },
+  {
+    "title": "Chainsmoker Cat",
+    "imdb_id": "tt39551330",
+    "type": "tv"
+  },
+  {
+    "title": "Maddie + Triggs",
+    "imdb_id": "tt38270077",
     "type": "tv"
   },
   {
