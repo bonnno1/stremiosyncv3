@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tagesschau",
+    "imdb_id": "tt0246393",
+    "type": "tv"
+  },
+  {
     "title": "House of the Dragon",
     "imdb_id": "tt11198330",
     "type": "tv"
@@ -10,18 +15,8 @@
     "type": "tv"
   },
   {
-    "title": "Silo",
-    "imdb_id": "tt14688458",
-    "type": "tv"
-  },
-  {
     "title": "FROM",
     "imdb_id": "tt9813792",
-    "type": "tv"
-  },
-  {
-    "title": "Maddie + Triggs",
-    "imdb_id": "tt38270077",
     "type": "tv"
   },
   {
@@ -35,8 +30,43 @@
     "type": "tv"
   },
   {
+    "title": "Binnelanders",
+    "imdb_id": "tt1527854",
+    "type": "tv"
+  },
+  {
+    "title": "C.I.D.",
+    "imdb_id": "tt0401916",
+    "type": "tv"
+  },
+  {
+    "title": "Silo",
+    "imdb_id": "tt14688458",
+    "type": "tv"
+  },
+  {
+    "title": "7de Laan",
+    "imdb_id": "tt0375446",
+    "type": "tv"
+  },
+  {
+    "title": "Jamai Raja",
+    "imdb_id": "tt4455902",
+    "type": "tv"
+  },
+  {
+    "title": "Jeopardy!",
+    "imdb_id": "tt0159881",
+    "type": "tv"
+  },
+  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
+    "type": "tv"
+  },
+  {
+    "title": "Plus belle la vie",
+    "imdb_id": "tt0423713",
     "type": "tv"
   },
   {
@@ -50,53 +80,13 @@
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Overflow",
-    "imdb_id": "tt14962432",
-    "type": "tv"
-  },
-  {
-    "title": "Rick and Morty",
-    "imdb_id": "tt2861424",
-    "type": "tv"
-  },
-  {
-    "title": "Sesame Street",
-    "imdb_id": "tt0063951",
-    "type": "tv"
-  },
-  {
-    "title": "Jamai Raja",
-    "imdb_id": "tt4455902",
-    "type": "tv"
-  },
-  {
-    "title": "Game of Thrones",
-    "imdb_id": "tt0944947",
-    "type": "tv"
-  },
-  {
-    "title": "Majhi Manasa",
-    "imdb_id": "tt29481945",
-    "type": "tv"
-  },
-  {
     "title": "Grey's Anatomy",
     "imdb_id": "tt0413573",
     "type": "tv"
   },
   {
-    "title": "NCIS",
-    "imdb_id": "tt0364845",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   }
 ]
