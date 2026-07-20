@@ -65,6 +65,11 @@
     "type": "tv"
   },
   {
+    "title": "Playback: Together We Are One",
+    "imdb_id": "tt32151286",
+    "type": "tv"
+  },
+  {
     "title": "NCT 127: The Lost Boys",
     "imdb_id": "tt28306746",
     "type": "tv"
@@ -80,18 +85,13 @@
     "type": "tv"
   },
   {
-    "title": "The End of an Era",
-    "imdb_id": "tt38673133",
-    "type": "tv"
-  },
-  {
     "title": "Takopi's Original Sin",
     "imdb_id": "tt36988358",
     "type": "tv"
   },
   {
-    "title": "Team Players",
-    "imdb_id": "tt31936698",
+    "title": "The End of an Era",
+    "imdb_id": "tt38673133",
     "type": "tv"
   }
 ]

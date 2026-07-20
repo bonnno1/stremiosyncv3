@@ -10,11 +10,6 @@
     "type": "tv"
   },
   {
-    "title": "The Loyalty Game",
-    "imdb_id": "tt41793322",
-    "type": "tv"
-  },
-  {
     "title": "Snake Killer",
     "imdb_id": "tt38044662",
     "type": "tv"
@@ -67,6 +62,11 @@
   {
     "title": "Ingebrigtsen: Born to Run",
     "imdb_id": "tt33498743",
+    "type": "tv"
+  },
+  {
+    "title": "Surviving Mann",
+    "imdb_id": "tt15037400",
     "type": "tv"
   }
 ]
