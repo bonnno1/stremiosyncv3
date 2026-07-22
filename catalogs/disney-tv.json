@@ -1,5 +1,10 @@
 [
   {
+    "title": "Casa do Patr\u00e3o",
+    "imdb_id": "tt39050693",
+    "type": "tv"
+  },
+  {
     "title": "Copa Am\u00e9rica 2024: El legado",
     "imdb_id": "tt37591463",
     "type": "tv"
@@ -17,6 +22,11 @@
   {
     "title": "Knock-Off",
     "imdb_id": "tt33269792",
+    "type": "tv"
+  },
+  {
+    "title": "Soy Luna: Let's Roll Again",
+    "imdb_id": "tt41515375",
     "type": "tv"
   },
   {
@@ -82,16 +92,6 @@
   {
     "title": "The Doomies",
     "imdb_id": "tt21057046",
-    "type": "tv"
-  },
-  {
-    "title": "Takopi's Original Sin",
-    "imdb_id": "tt36988358",
-    "type": "tv"
-  },
-  {
-    "title": "The End of an Era",
-    "imdb_id": "tt38673133",
     "type": "tv"
   }
 ]
