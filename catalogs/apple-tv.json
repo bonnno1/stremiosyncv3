@@ -30,6 +30,11 @@
     "type": "tv"
   },
   {
+    "title": "Born to Be Wild",
+    "imdb_id": "tt28445317",
+    "type": "tv"
+  },
+  {
     "title": "Frog and Toad",
     "imdb_id": "tt2197822",
     "type": "tv"
@@ -42,11 +47,6 @@
   {
     "title": "Severance",
     "imdb_id": "tt11280740",
-    "type": "tv"
-  },
-  {
-    "title": "Born to Be Wild",
-    "imdb_id": "tt28445317",
     "type": "tv"
   },
   {
@@ -80,13 +80,13 @@
     "type": "tv"
   },
   {
-    "title": "Pretzel and the Puppies",
-    "imdb_id": "tt17524490",
+    "title": "Widow's Bay",
+    "imdb_id": "tt33332385",
     "type": "tv"
   },
   {
-    "title": "Widow's Bay",
-    "imdb_id": "tt33332385",
+    "title": "Pretzel and the Puppies",
+    "imdb_id": "tt17524490",
     "type": "tv"
   },
   {
