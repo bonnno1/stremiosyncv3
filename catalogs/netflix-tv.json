@@ -20,6 +20,11 @@
     "type": "tv"
   },
   {
+    "title": "Class Crush Crisis",
+    "imdb_id": "tt39444616",
+    "type": "tv"
+  },
+  {
     "title": "Six Kings Slam",
     "imdb_id": "tt38201907",
     "type": "tv"
@@ -52,11 +57,6 @@
   {
     "title": "Love Never Lies: South Africa",
     "imdb_id": "tt34724701",
-    "type": "tv"
-  },
-  {
-    "title": "Bad Dinosaurs",
-    "imdb_id": "tt20917538",
     "type": "tv"
   }
 ]

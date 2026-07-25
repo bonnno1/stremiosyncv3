@@ -40,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "The Prosecutor's Proposal",
-    "imdb_id": "tt43592244",
-    "type": "tv"
-  },
-  {
     "title": "The Rookie",
     "imdb_id": "tt7587890",
     "type": "tv"
@@ -57,11 +52,6 @@
   {
     "title": "Binnelanders",
     "imdb_id": "tt1527854",
-    "type": "tv"
-  },
-  {
-    "title": "The Daily Show",
-    "imdb_id": "tt0115147",
     "type": "tv"
   },
   {
@@ -87,6 +77,16 @@
   {
     "title": "Watch What Happens Live with Andy Cohen",
     "imdb_id": "tt2057880",
+    "type": "tv"
+  },
+  {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "The Prosecutor's Proposal",
+    "imdb_id": "tt43592244",
     "type": "tv"
   }
 ]
