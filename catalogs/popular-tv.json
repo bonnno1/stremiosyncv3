@@ -20,13 +20,13 @@
     "type": "tv"
   },
   {
-    "title": "Paradise Hotel",
-    "imdb_id": "tt0486240",
+    "title": "Lioness",
+    "imdb_id": "tt13111078",
     "type": "tv"
   },
   {
-    "title": "Lioness",
-    "imdb_id": "tt13111078",
+    "title": "Paradise Hotel",
+    "imdb_id": "tt0486240",
     "type": "tv"
   },
   {
@@ -80,6 +80,11 @@
     "type": "tv"
   },
   {
+    "title": "Watch What Happens Live with Andy Cohen",
+    "imdb_id": "tt2057880",
+    "type": "tv"
+  },
+  {
     "title": "Criminal Minds",
     "imdb_id": "tt0452046",
     "type": "tv"
@@ -87,11 +92,6 @@
   {
     "title": "Game of Thrones",
     "imdb_id": "tt0944947",
-    "type": "tv"
-  },
-  {
-    "title": "The Simpsons",
-    "imdb_id": "tt0096697",
     "type": "tv"
   }
 ]
