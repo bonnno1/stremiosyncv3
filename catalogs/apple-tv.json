@@ -70,11 +70,6 @@
     "type": "tv"
   },
   {
-    "title": "Lessons in Chemistry",
-    "imdb_id": "tt13911628",
-    "type": "tv"
-  },
-  {
     "title": "Pretzel and the Puppies",
     "imdb_id": "tt17524490",
     "type": "tv"
@@ -82,6 +77,11 @@
   {
     "title": "Silo",
     "imdb_id": "tt14688458",
+    "type": "tv"
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "imdb_id": "tt13911628",
     "type": "tv"
   },
   {
