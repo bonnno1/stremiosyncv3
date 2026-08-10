@@ -5,6 +5,11 @@
     "type": "movie"
   },
   {
+    "title": "Michael Jackson's Smooth Criminal",
+    "imdb_id": "tt6663828",
+    "type": "movie"
+  },
+  {
     "title": "Sunrise",
     "imdb_id": "tt43741230",
     "type": "movie"
@@ -22,11 +27,6 @@
   {
     "title": "Ecdysis",
     "imdb_id": "tt39366456",
-    "type": "movie"
-  },
-  {
-    "title": "Die Suche nach Zuhause",
-    "imdb_id": "tt39075299",
     "type": "movie"
   }
 ]
