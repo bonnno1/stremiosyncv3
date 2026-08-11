@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "House of the Dragon",
+    "imdb_id": "tt11198330",
+    "type": "tv"
+  },
+  {
     "title": "Paradise Hotel",
     "imdb_id": "tt5489690",
     "type": "tv"
@@ -12,11 +17,6 @@
   {
     "title": "Com si fos ahir",
     "imdb_id": "tt7331764",
-    "type": "tv"
-  },
-  {
-    "title": "House of the Dragon",
-    "imdb_id": "tt11198330",
     "type": "tv"
   },
   {
