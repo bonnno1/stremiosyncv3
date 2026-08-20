@@ -20,11 +20,6 @@
     "type": "tv"
   },
   {
-    "title": "Moria",
-    "imdb_id": "tt41559147",
-    "type": "tv"
-  },
-  {
     "title": "The Trials of Winnie Mandela",
     "imdb_id": "tt42051192",
     "type": "tv"
@@ -57,6 +52,11 @@
   {
     "title": "Pop the Balloon LIVE",
     "imdb_id": "tt36353565",
+    "type": "tv"
+  },
+  {
+    "title": "Love Never Lies: South Africa",
+    "imdb_id": "tt34724701",
     "type": "tv"
   }
 ]
