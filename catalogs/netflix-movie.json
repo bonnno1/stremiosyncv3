@@ -1,5 +1,25 @@
 [
   {
+    "title": "As Seen on TV: Noir",
+    "imdb_id": "tt43479864",
+    "type": "movie"
+  },
+  {
+    "title": "Talented",
+    "imdb_id": "tt38952594",
+    "type": "movie"
+  },
+  {
+    "title": "Curriculum Vitae",
+    "imdb_id": "tt43655179",
+    "type": "movie"
+  },
+  {
+    "title": "The Felix Show",
+    "imdb_id": "tt44323733",
+    "type": "movie"
+  },
+  {
     "title": "Verticals: The Movie",
     "imdb_id": "tt43897735",
     "type": "movie"
@@ -12,26 +32,6 @@
   {
     "title": "IDOL",
     "imdb_id": "tt44362924",
-    "type": "movie"
-  },
-  {
-    "title": "It Sucks to be Young",
-    "imdb_id": "tt38714053",
-    "type": "movie"
-  },
-  {
-    "title": "We Are All a Bit of Marimo",
-    "imdb_id": "tt44332272",
-    "type": "movie"
-  },
-  {
-    "title": "O Corpo Docente",
-    "imdb_id": "tt44536714",
-    "type": "movie"
-  },
-  {
-    "title": "Starlet Go!",
-    "imdb_id": "tt44295524",
     "type": "movie"
   }
 ]
