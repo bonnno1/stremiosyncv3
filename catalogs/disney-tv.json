@@ -70,6 +70,11 @@
     "type": "tv"
   },
   {
+    "title": "My Name Is Gutierrez",
+    "imdb_id": "tt39278978",
+    "type": "tv"
+  },
+  {
     "title": "NCT 127: The Lost Boys",
     "imdb_id": "tt28306746",
     "type": "tv"
@@ -82,11 +87,6 @@
   {
     "title": "Takopi's Original Sin",
     "imdb_id": "tt36988358",
-    "type": "tv"
-  },
-  {
-    "title": "Team Players",
-    "imdb_id": "tt31936698",
     "type": "tv"
   }
 ]
