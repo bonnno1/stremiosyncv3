@@ -1,10 +1,5 @@
 [
   {
-    "title": "Lost: The Finale",
-    "imdb_id": "tt15049668",
-    "type": "movie"
-  },
-  {
     "title": "Lost: Pilot",
     "imdb_id": "tt0636289",
     "type": "movie"
@@ -17,16 +12,6 @@
   {
     "title": "Stolen Babies",
     "imdb_id": "tt44949874",
-    "type": "movie"
-  },
-  {
-    "title": "Paraprosdokian",
-    "imdb_id": "tt44942079",
-    "type": "movie"
-  },
-  {
-    "title": "Sundown",
-    "imdb_id": "tt44147815",
     "type": "movie"
   }
 ]
