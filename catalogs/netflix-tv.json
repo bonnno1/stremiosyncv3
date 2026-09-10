@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "DANG!",
-    "imdb_id": "tt40003445",
-    "type": "tv"
-  },
-  {
     "title": "Six Kings Slam",
     "imdb_id": "tt38201907",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Pop the Balloon LIVE",
     "imdb_id": "tt36353565",
+    "type": "tv"
+  },
+  {
+    "title": "Love Never Lies: South Africa",
+    "imdb_id": "tt34724701",
     "type": "tv"
   }
 ]
