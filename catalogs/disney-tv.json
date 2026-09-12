@@ -55,6 +55,11 @@
     "type": "tv"
   },
   {
+    "title": "NCT 127: The Lost Boys",
+    "imdb_id": "tt28306746",
+    "type": "tv"
+  },
+  {
     "title": "The Low Tone Club",
     "imdb_id": "tt15559540",
     "type": "tv"
@@ -82,11 +87,6 @@
   {
     "title": "Playback: Together We Are One",
     "imdb_id": "tt32151286",
-    "type": "tv"
-  },
-  {
-    "title": "NCT 127: The Lost Boys",
-    "imdb_id": "tt28306746",
     "type": "tv"
   }
 ]
