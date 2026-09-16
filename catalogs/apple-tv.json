@@ -5,13 +5,13 @@
     "type": "tv"
   },
   {
-    "title": "Goldie",
-    "imdb_id": "tt35511175",
+    "title": "Last Seen",
+    "imdb_id": "tt6037988",
     "type": "tv"
   },
   {
-    "title": "Last Seen",
-    "imdb_id": "tt6037988",
+    "title": "Goldie",
+    "imdb_id": "tt35511175",
     "type": "tv"
   },
   {
@@ -60,6 +60,11 @@
     "type": "tv"
   },
   {
+    "title": "The Dynasty: UConn Huskies",
+    "imdb_id": "tt37442772",
+    "type": "tv"
+  },
+  {
     "title": "The Oprah Conversation",
     "imdb_id": "tt10171532",
     "type": "tv"
@@ -92,11 +97,6 @@
   {
     "title": "Earth at Night in Colour",
     "imdb_id": "tt13008036",
-    "type": "tv"
-  },
-  {
-    "title": "The Sisters Grimm",
-    "imdb_id": "tt14348758",
     "type": "tv"
   }
 ]

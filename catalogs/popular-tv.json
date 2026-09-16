@@ -70,6 +70,11 @@
     "type": "tv"
   },
   {
+    "title": "Breaking Bad",
+    "imdb_id": "tt0903747",
+    "type": "tv"
+  },
+  {
     "title": "Tagesschau",
     "imdb_id": "tt0246393",
     "type": "tv"
@@ -87,11 +92,6 @@
   {
     "title": "House Rules",
     "imdb_id": "tt2931524",
-    "type": "tv"
-  },
-  {
-    "title": "Storm of Love",
-    "imdb_id": "tt0479846",
     "type": "tv"
   }
 ]
