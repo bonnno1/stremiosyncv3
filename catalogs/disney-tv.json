@@ -50,11 +50,6 @@
     "type": "tv"
   },
   {
-    "title": "My Name Is Gutierrez",
-    "imdb_id": "tt39278978",
-    "type": "tv"
-  },
-  {
     "title": "Haunted House Secrets",
     "imdb_id": "tt39295414",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Capoeiras",
     "imdb_id": "tt33100986",
+    "type": "tv"
+  },
+  {
+    "title": "My Name Is Gutierrez",
+    "imdb_id": "tt39278978",
     "type": "tv"
   },
   {
