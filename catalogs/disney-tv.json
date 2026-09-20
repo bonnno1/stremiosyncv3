@@ -20,11 +20,6 @@
     "type": "tv"
   },
   {
-    "title": "Minimum Security",
-    "imdb_id": "tt44924447",
-    "type": "tv"
-  },
-  {
     "title": "Vibe Check",
     "imdb_id": "tt37039360",
     "type": "tv"
@@ -45,6 +40,11 @@
     "type": "tv"
   },
   {
+    "title": "My Name Is Gutierrez",
+    "imdb_id": "tt39278978",
+    "type": "tv"
+  },
+  {
     "title": "Haunted House Secrets",
     "imdb_id": "tt39295414",
     "type": "tv"
@@ -52,11 +52,6 @@
   {
     "title": "Capoeiras",
     "imdb_id": "tt33100986",
-    "type": "tv"
-  },
-  {
-    "title": "My Name Is Gutierrez",
-    "imdb_id": "tt39278978",
     "type": "tv"
   },
   {
@@ -92,6 +87,11 @@
   {
     "title": "The Zoo",
     "imdb_id": "tt39378786",
+    "type": "tv"
+  },
+  {
+    "title": "Playback: Together We Are One",
+    "imdb_id": "tt32151286",
     "type": "tv"
   }
 ]
