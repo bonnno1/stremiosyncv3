@@ -45,6 +45,11 @@
     "type": "tv"
   },
   {
+    "title": "Last Seen",
+    "imdb_id": "tt6037988",
+    "type": "tv"
+  },
+  {
     "title": "Severance",
     "imdb_id": "tt11280740",
     "type": "tv"
@@ -72,11 +77,6 @@
   {
     "title": "Prehistoric Planet",
     "imdb_id": "tt10324164",
-    "type": "tv"
-  },
-  {
-    "title": "Last Seen",
-    "imdb_id": "tt6037988",
     "type": "tv"
   },
   {
