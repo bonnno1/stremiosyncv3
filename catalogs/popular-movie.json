@@ -80,6 +80,11 @@
     "type": "movie"
   },
   {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "imdb_id": "tt35298123",
+    "type": "movie"
+  },
+  {
     "title": "Minions & Monsters",
     "imdb_id": "tt32890033",
     "type": "movie"
@@ -92,11 +97,6 @@
   {
     "title": "Project Sacrifice",
     "imdb_id": "tt38497679",
-    "type": "movie"
-  },
-  {
-    "title": "The Novices",
-    "imdb_id": "tt0066164",
     "type": "movie"
   }
 ]
