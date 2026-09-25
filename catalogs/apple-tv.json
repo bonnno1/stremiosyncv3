@@ -1,12 +1,12 @@
 [
   {
-    "title": "Brothers",
-    "imdb_id": "tt6773088",
+    "title": "Puppy Place",
+    "imdb_id": "tt15389998",
     "type": "tv"
   },
   {
-    "title": "Puppy Place",
-    "imdb_id": "tt15389998",
+    "title": "Brothers",
+    "imdb_id": "tt6773088",
     "type": "tv"
   },
   {
@@ -40,6 +40,11 @@
     "type": "tv"
   },
   {
+    "title": "Last Seen",
+    "imdb_id": "tt6037988",
+    "type": "tv"
+  },
+  {
     "title": "My Brother the Minotaur",
     "imdb_id": "tt40822983",
     "type": "tv"
@@ -62,11 +67,6 @@
   {
     "title": "The Dynasty: UConn Huskies",
     "imdb_id": "tt37442772",
-    "type": "tv"
-  },
-  {
-    "title": "Last Seen",
-    "imdb_id": "tt6037988",
     "type": "tv"
   },
   {
