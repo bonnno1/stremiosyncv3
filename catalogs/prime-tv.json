@@ -10,11 +10,6 @@
     "type": "tv"
   },
   {
-    "title": "Snake Killer",
-    "imdb_id": "tt38044662",
-    "type": "tv"
-  },
-  {
     "title": "Power of Love",
     "imdb_id": "tt24060116",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Victoria Avenging Psychologist",
     "imdb_id": "tt15331666",
+    "type": "tv"
+  },
+  {
+    "title": "If We Had Super Powers",
+    "imdb_id": "tt10801384",
     "type": "tv"
   }
 ]

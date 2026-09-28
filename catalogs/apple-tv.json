@@ -35,6 +35,11 @@
     "type": "tv"
   },
   {
+    "title": "Last Seen",
+    "imdb_id": "tt6037988",
+    "type": "tv"
+  },
+  {
     "title": "Frog and Toad",
     "imdb_id": "tt2197822",
     "type": "tv"
@@ -42,11 +47,6 @@
   {
     "title": "My Brother the Minotaur",
     "imdb_id": "tt40822983",
-    "type": "tv"
-  },
-  {
-    "title": "Last Seen",
-    "imdb_id": "tt6037988",
     "type": "tv"
   },
   {
