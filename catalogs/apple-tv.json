@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "Brothers",
-    "imdb_id": "tt6773088",
-    "type": "tv"
-  },
-  {
     "title": "Goldie",
     "imdb_id": "tt35511175",
     "type": "tv"
@@ -17,6 +12,11 @@
   {
     "title": "Earthsounds",
     "imdb_id": "tt13276218",
+    "type": "tv"
+  },
+  {
+    "title": "Brothers",
+    "imdb_id": "tt6773088",
     "type": "tv"
   },
   {
@@ -35,11 +35,6 @@
     "type": "tv"
   },
   {
-    "title": "Last Seen",
-    "imdb_id": "tt6037988",
-    "type": "tv"
-  },
-  {
     "title": "Frog and Toad",
     "imdb_id": "tt2197822",
     "type": "tv"
@@ -52,6 +47,11 @@
   {
     "title": "Severance",
     "imdb_id": "tt11280740",
+    "type": "tv"
+  },
+  {
+    "title": "Last Seen",
+    "imdb_id": "tt6037988",
     "type": "tv"
   },
   {
