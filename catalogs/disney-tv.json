@@ -50,23 +50,18 @@
     "type": "tv"
   },
   {
-    "title": "Haunted House Secrets",
-    "imdb_id": "tt39295414",
-    "type": "tv"
-  },
-  {
     "title": "Capoeiras",
     "imdb_id": "tt33100986",
     "type": "tv"
   },
   {
-    "title": "The Worst Trip Around the World",
-    "imdb_id": "tt38776685",
+    "title": "My Name Is Gutierrez",
+    "imdb_id": "tt39278978",
     "type": "tv"
   },
   {
-    "title": "My Name Is Gutierrez",
-    "imdb_id": "tt39278978",
+    "title": "The Worst Trip Around the World",
+    "imdb_id": "tt38776685",
     "type": "tv"
   },
   {
@@ -87,6 +82,11 @@
   {
     "title": "O11CE: New Generation",
     "imdb_id": "tt40526776",
+    "type": "tv"
+  },
+  {
+    "title": "The Real Rooneys",
+    "imdb_id": "tt37497762",
     "type": "tv"
   }
 ]

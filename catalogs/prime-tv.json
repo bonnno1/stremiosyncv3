@@ -40,6 +40,11 @@
     "type": "tv"
   },
   {
+    "title": "Kill Jackie",
+    "imdb_id": "tt35726020",
+    "type": "tv"
+  },
+  {
     "title": "Saving Grace",
     "imdb_id": "tt32962604",
     "type": "tv"
@@ -55,13 +60,8 @@
     "type": "tv"
   },
   {
-    "title": "Victoria Avenging Psychologist",
-    "imdb_id": "tt15331666",
-    "type": "tv"
-  },
-  {
-    "title": "If We Had Super Powers",
-    "imdb_id": "tt10801384",
+    "title": "The Revolutionaries",
+    "imdb_id": "tt31924802",
     "type": "tv"
   }
 ]
