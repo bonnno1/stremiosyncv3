@@ -70,11 +70,6 @@
     "type": "tv"
   },
   {
-    "title": "Last Seen",
-    "imdb_id": "tt6037988",
-    "type": "tv"
-  },
-  {
     "title": "Defending Jacob",
     "imdb_id": "tt2304589",
     "type": "tv"
@@ -82,6 +77,11 @@
   {
     "title": "Silo",
     "imdb_id": "tt14688458",
+    "type": "tv"
+  },
+  {
+    "title": "Last Seen",
+    "imdb_id": "tt6037988",
     "type": "tv"
   },
   {

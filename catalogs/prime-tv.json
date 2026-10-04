@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "Carrie",
-    "imdb_id": "tt11540908",
-    "type": "tv"
-  },
-  {
     "title": "Taurasi",
     "imdb_id": "tt33290236",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "The Revolutionaries",
     "imdb_id": "tt31924802",
+    "type": "tv"
+  },
+  {
+    "title": "Victoria Avenging Psychologist",
+    "imdb_id": "tt15331666",
     "type": "tv"
   }
 ]
