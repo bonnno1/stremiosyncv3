@@ -40,11 +40,6 @@
     "type": "tv"
   },
   {
-    "title": "VisionQuest",
-    "imdb_id": "tt23112594",
-    "type": "tv"
-  },
-  {
     "title": "Are You Sure?!",
     "imdb_id": "tt32828209",
     "type": "tv"
@@ -77,6 +72,11 @@
   {
     "title": "4Ever",
     "imdb_id": "tt17594276",
+    "type": "tv"
+  },
+  {
+    "title": "VisionQuest",
+    "imdb_id": "tt23112594",
     "type": "tv"
   },
   {
