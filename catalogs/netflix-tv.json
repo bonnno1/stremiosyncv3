@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "Money Trap",
-    "imdb_id": "tt38732131",
-    "type": "tv"
-  },
-  {
     "title": "The Trials of Winnie Mandela",
     "imdb_id": "tt42051192",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Kiss or Die",
     "imdb_id": "tt37150003",
+    "type": "tv"
+  },
+  {
+    "title": "Pop the Balloon LIVE",
+    "imdb_id": "tt36353565",
     "type": "tv"
   }
 ]
