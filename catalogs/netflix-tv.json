@@ -25,11 +25,6 @@
     "type": "tv"
   },
   {
-    "title": "Take a Hike!",
-    "imdb_id": "tt39387594",
-    "type": "tv"
-  },
-  {
     "title": "B\u00e3hubali: The Torchbearer",
     "imdb_id": "tt43620256",
     "type": "tv"
@@ -57,6 +52,11 @@
   {
     "title": "Story Time Book: Read-Along",
     "imdb_id": "tt21971750",
+    "type": "tv"
+  },
+  {
+    "title": "Closet Battle",
+    "imdb_id": "tt37800569",
     "type": "tv"
   }
 ]

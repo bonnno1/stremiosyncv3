@@ -10,13 +10,13 @@
     "type": "tv"
   },
   {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
@@ -25,8 +25,8 @@
     "type": "tv"
   },
   {
-    "title": "The Crown",
-    "imdb_id": "tt4786824",
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
     "type": "tv"
   },
   {
@@ -40,13 +40,28 @@
     "type": "tv"
   },
   {
-    "title": "Medium",
-    "imdb_id": "tt0412175",
+    "title": "The Crown",
+    "imdb_id": "tt4786824",
     "type": "tv"
   },
   {
     "title": "The Summer I Turned Pretty",
     "imdb_id": "tt14016500",
+    "type": "tv"
+  },
+  {
+    "title": "Medium",
+    "imdb_id": "tt0412175",
+    "type": "tv"
+  },
+  {
+    "title": "Malcolm in the Middle",
+    "imdb_id": "tt0212671",
+    "type": "tv"
+  },
+  {
+    "title": "Baywatch",
+    "imdb_id": "tt0096542",
     "type": "tv"
   },
   {
@@ -65,23 +80,13 @@
     "type": "tv"
   },
   {
-    "title": "Malcolm in the Middle",
-    "imdb_id": "tt0212671",
-    "type": "tv"
-  },
-  {
-    "title": "Baywatch",
-    "imdb_id": "tt0096542",
-    "type": "tv"
-  },
-  {
     "title": "MINDHUNTER",
     "imdb_id": "tt5290382",
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
+    "title": "What We Do in the Shadows",
+    "imdb_id": "tt7908628",
     "type": "tv"
   },
   {
@@ -92,11 +97,6 @@
   {
     "title": "Moesha",
     "imdb_id": "tt0115275",
-    "type": "tv"
-  },
-  {
-    "title": "What We Do in the Shadows",
-    "imdb_id": "tt7908628",
     "type": "tv"
   }
 ]
