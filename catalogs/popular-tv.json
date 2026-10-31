@@ -30,6 +30,16 @@
     "type": "tv"
   },
   {
+    "title": "How I Met Your Mother",
+    "imdb_id": "tt0460649",
+    "type": "tv"
+  },
+  {
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
+    "type": "tv"
+  },
+  {
     "title": "Friends",
     "imdb_id": "tt0108778",
     "type": "tv"
@@ -70,11 +80,6 @@
     "type": "tv"
   },
   {
-    "title": "The Mentalist",
-    "imdb_id": "tt1196946",
-    "type": "tv"
-  },
-  {
     "title": "House",
     "imdb_id": "tt0412142",
     "type": "tv"
@@ -87,11 +92,6 @@
   {
     "title": "Medium",
     "imdb_id": "tt0412175",
-    "type": "tv"
-  },
-  {
-    "title": "How I Met Your Mother",
-    "imdb_id": "tt0460649",
     "type": "tv"
   },
   {
