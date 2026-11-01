@@ -5,13 +5,13 @@
     "type": "tv"
   },
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
     "type": "tv"
   },
   {
@@ -25,48 +25,13 @@
     "type": "tv"
   },
   {
-    "title": "Grey's Anatomy",
-    "imdb_id": "tt0413573",
-    "type": "tv"
-  },
-  {
-    "title": "How I Met Your Mother",
-    "imdb_id": "tt0460649",
-    "type": "tv"
-  },
-  {
-    "title": "The Mentalist",
-    "imdb_id": "tt1196946",
-    "type": "tv"
-  },
-  {
-    "title": "Friends",
-    "imdb_id": "tt0108778",
-    "type": "tv"
-  },
-  {
-    "title": "The Summer I Turned Pretty",
-    "imdb_id": "tt14016500",
-    "type": "tv"
-  },
-  {
-    "title": "Baywatch",
-    "imdb_id": "tt0096542",
-    "type": "tv"
-  },
-  {
     "title": "The Office",
     "imdb_id": "tt0386676",
     "type": "tv"
   },
   {
-    "title": "Malcolm in the Middle",
-    "imdb_id": "tt0212671",
-    "type": "tv"
-  },
-  {
-    "title": "Girlfriends",
-    "imdb_id": "tt0247102",
+    "title": "How I Met Your Mother",
+    "imdb_id": "tt0460649",
     "type": "tv"
   },
   {
@@ -80,23 +45,58 @@
     "type": "tv"
   },
   {
-    "title": "House",
-    "imdb_id": "tt0412142",
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
     "type": "tv"
   },
   {
-    "title": "The Crown",
-    "imdb_id": "tt4786824",
-    "type": "tv"
-  },
-  {
-    "title": "Medium",
-    "imdb_id": "tt0412175",
+    "title": "Grey's Anatomy",
+    "imdb_id": "tt0413573",
     "type": "tv"
   },
   {
     "title": "Modern Family",
     "imdb_id": "tt1442437",
+    "type": "tv"
+  },
+  {
+    "title": "House",
+    "imdb_id": "tt0412142",
+    "type": "tv"
+  },
+  {
+    "title": "Vikings",
+    "imdb_id": "tt2306299",
+    "type": "tv"
+  },
+  {
+    "title": "Seinfeld",
+    "imdb_id": "tt0098904",
+    "type": "tv"
+  },
+  {
+    "title": "Friends",
+    "imdb_id": "tt0108778",
+    "type": "tv"
+  },
+  {
+    "title": "The Legend of Korra",
+    "imdb_id": "tt1695360",
+    "type": "tv"
+  },
+  {
+    "title": "True Detective",
+    "imdb_id": "tt2356777",
+    "type": "tv"
+  },
+  {
+    "title": "The Summer I Turned Pretty",
+    "imdb_id": "tt14016500",
+    "type": "tv"
+  },
+  {
+    "title": "The 100",
+    "imdb_id": "tt2661044",
     "type": "tv"
   }
 ]

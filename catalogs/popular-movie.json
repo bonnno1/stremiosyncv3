@@ -30,13 +30,8 @@
     "type": "movie"
   },
   {
-    "title": "Verity",
-    "imdb_id": "tt32261958",
-    "type": "movie"
-  },
-  {
-    "title": "The Odyssey",
-    "imdb_id": "tt33764258",
+    "title": "Apocalypse Z: New World",
+    "imdb_id": "tt37522541",
     "type": "movie"
   },
   {
@@ -45,8 +40,13 @@
     "type": "movie"
   },
   {
-    "title": "Clayface",
-    "imdb_id": "tt34890576",
+    "title": "Verity",
+    "imdb_id": "tt32261958",
+    "type": "movie"
+  },
+  {
+    "title": "The Odyssey",
+    "imdb_id": "tt33764258",
     "type": "movie"
   },
   {
@@ -60,6 +60,11 @@
     "type": "movie"
   },
   {
+    "title": "Clayface",
+    "imdb_id": "tt34890576",
+    "type": "movie"
+  },
+  {
     "title": "Pinocchio: Unstrung",
     "imdb_id": "tt30887701",
     "type": "movie"
@@ -70,8 +75,18 @@
     "type": "movie"
   },
   {
+    "title": "Coco",
+    "imdb_id": "tt2380307",
+    "type": "movie"
+  },
+  {
     "title": "The Mongoose",
     "imdb_id": "tt13611778",
+    "type": "movie"
+  },
+  {
+    "title": "War of the Worlds",
+    "imdb_id": "tt13186306",
     "type": "movie"
   },
   {
@@ -80,23 +95,8 @@
     "type": "movie"
   },
   {
-    "title": "Apocalypse Z: New World",
-    "imdb_id": "tt37522541",
-    "type": "movie"
-  },
-  {
-    "title": "The Fix",
-    "imdb_id": "tt9601292",
-    "type": "movie"
-  },
-  {
-    "title": "Masterplan",
-    "imdb_id": "tt38672588",
-    "type": "movie"
-  },
-  {
-    "title": "Forgotten Island",
-    "imdb_id": "tt36583977",
+    "title": "Collision Course",
+    "imdb_id": "tt38793125",
     "type": "movie"
   }
 ]
