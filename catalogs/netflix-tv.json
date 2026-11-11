@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "Oxytoxin",
-    "imdb_id": "tt39044730",
-    "type": "tv"
-  },
-  {
     "title": "Six Kings Slam",
     "imdb_id": "tt38201907",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Story Time Book: Read-Along",
     "imdb_id": "tt21971750",
+    "type": "tv"
+  },
+  {
+    "title": "Closet Battle",
+    "imdb_id": "tt37800569",
     "type": "tv"
   }
 ]
