@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Perks of Love",
+    "imdb_id": "tt37197004",
+    "type": "movie"
+  },
+  {
+    "title": "Hex Him!",
+    "imdb_id": "tt49507713",
+    "type": "movie"
+  },
+  {
     "title": "A Dot in the Ocean",
     "imdb_id": "tt43607699",
     "type": "movie"
@@ -7,6 +17,11 @@
   {
     "title": "Michael Jackson's Black or White",
     "imdb_id": "tt0255006",
+    "type": "movie"
+  },
+  {
+    "title": "Cobra Mist: CIA, Seals & Orford",
+    "imdb_id": "tt49889377",
     "type": "movie"
   },
   {
