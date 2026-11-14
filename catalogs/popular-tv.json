@@ -5,6 +5,11 @@
     "type": "tv"
   },
   {
+    "title": "Doctor Who",
+    "imdb_id": "tt0436992",
+    "type": "tv"
+  },
+  {
     "title": "The Office",
     "imdb_id": "tt0386676",
     "type": "tv"
@@ -15,23 +20,8 @@
     "type": "tv"
   },
   {
-    "title": "Criminal Minds",
-    "imdb_id": "tt0452046",
-    "type": "tv"
-  },
-  {
-    "title": "Doctor Who",
-    "imdb_id": "tt0436992",
-    "type": "tv"
-  },
-  {
     "title": "House",
     "imdb_id": "tt0412142",
-    "type": "tv"
-  },
-  {
-    "title": "The Mentalist",
-    "imdb_id": "tt1196946",
     "type": "tv"
   },
   {
@@ -50,13 +40,23 @@
     "type": "tv"
   },
   {
-    "title": "The Flash",
-    "imdb_id": "tt3107288",
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
     "type": "tv"
   },
   {
     "title": "Seinfeld",
     "imdb_id": "tt0098904",
+    "type": "tv"
+  },
+  {
+    "title": "The Flash",
+    "imdb_id": "tt3107288",
+    "type": "tv"
+  },
+  {
+    "title": "Criminal Minds",
+    "imdb_id": "tt0452046",
     "type": "tv"
   },
   {
@@ -70,8 +70,18 @@
     "type": "tv"
   },
   {
+    "title": "Beverly Hills, 90210",
+    "imdb_id": "tt0098749",
+    "type": "tv"
+  },
+  {
     "title": "Star vs. the Forces of Evil",
     "imdb_id": "tt2758770",
+    "type": "tv"
+  },
+  {
+    "title": "The Girlfriend",
+    "imdb_id": "tt32267726",
     "type": "tv"
   },
   {
@@ -85,18 +95,8 @@
     "type": "tv"
   },
   {
-    "title": "The Last Kingdom",
-    "imdb_id": "tt4179452",
-    "type": "tv"
-  },
-  {
-    "title": "The Girlfriend",
-    "imdb_id": "tt32267726",
-    "type": "tv"
-  },
-  {
-    "title": "Beverly Hills, 90210",
-    "imdb_id": "tt0098749",
+    "title": "The Kelly Clarkson Show",
+    "imdb_id": "tt9022950",
     "type": "tv"
   }
 ]
