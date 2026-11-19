@@ -5,11 +5,6 @@
     "type": "tv"
   },
   {
-    "title": "About Us",
-    "imdb_id": "tt43724785",
-    "type": "tv"
-  },
-  {
     "title": "Unexpected Loves",
     "imdb_id": "tt27760834",
     "type": "tv"
@@ -82,6 +77,11 @@
   {
     "title": "O11CE: New Generation",
     "imdb_id": "tt40526776",
+    "type": "tv"
+  },
+  {
+    "title": "Playback: Together We Are One",
+    "imdb_id": "tt32151286",
     "type": "tv"
   }
 ]
