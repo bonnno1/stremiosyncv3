@@ -45,11 +45,6 @@
     "type": "tv"
   },
   {
-    "title": "The Blue Road",
-    "imdb_id": "tt38336631",
-    "type": "tv"
-  },
-  {
     "title": "1 in 7641",
     "imdb_id": "tt37749208",
     "type": "tv"
@@ -62,6 +57,11 @@
   {
     "title": "Closet Battle",
     "imdb_id": "tt37800569",
+    "type": "tv"
+  },
+  {
+    "title": "Kiss or Die",
+    "imdb_id": "tt37150003",
     "type": "tv"
   }
 ]
