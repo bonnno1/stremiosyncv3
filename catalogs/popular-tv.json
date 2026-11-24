@@ -1,52 +1,7 @@
 [
   {
-    "title": "Family Guy",
-    "imdb_id": "tt0182576",
-    "type": "tv"
-  },
-  {
-    "title": "Supernatural",
-    "imdb_id": "tt0460681",
-    "type": "tv"
-  },
-  {
-    "title": "Strike Back",
-    "imdb_id": "tt1492179",
-    "type": "tv"
-  },
-  {
-    "title": "American Horror Story",
-    "imdb_id": "tt1844624",
-    "type": "tv"
-  },
-  {
     "title": "Black Mirror",
     "imdb_id": "tt2085059",
-    "type": "tv"
-  },
-  {
-    "title": "The Mentalist",
-    "imdb_id": "tt1196946",
-    "type": "tv"
-  },
-  {
-    "title": "Eureka",
-    "imdb_id": "tt0796264",
-    "type": "tv"
-  },
-  {
-    "title": "Succession",
-    "imdb_id": "tt7660850",
-    "type": "tv"
-  },
-  {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "imdb_id": "tt7631058",
-    "type": "tv"
-  },
-  {
-    "title": "Community",
-    "imdb_id": "tt1439629",
     "type": "tv"
   },
   {
@@ -60,13 +15,73 @@
     "type": "tv"
   },
   {
+    "title": "Family Guy",
+    "imdb_id": "tt0182576",
+    "type": "tv"
+  },
+  {
+    "title": "Strike Back",
+    "imdb_id": "tt1492179",
+    "type": "tv"
+  },
+  {
+    "title": "Supernatural",
+    "imdb_id": "tt0460681",
+    "type": "tv"
+  },
+  {
+    "title": "Slow Horses",
+    "imdb_id": "tt5875444",
+    "type": "tv"
+  },
+  {
+    "title": "New Girl",
+    "imdb_id": "tt1826940",
+    "type": "tv"
+  },
+  {
+    "title": "Eureka",
+    "imdb_id": "tt0796264",
+    "type": "tv"
+  },
+  {
+    "title": "The Wire",
+    "imdb_id": "tt0306414",
+    "type": "tv"
+  },
+  {
+    "title": "American Horror Story",
+    "imdb_id": "tt1844624",
+    "type": "tv"
+  },
+  {
+    "title": "The Mentalist",
+    "imdb_id": "tt1196946",
+    "type": "tv"
+  },
+  {
+    "title": "Succession",
+    "imdb_id": "tt7660850",
+    "type": "tv"
+  },
+  {
+    "title": "Community",
+    "imdb_id": "tt1439629",
+    "type": "tv"
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "imdb_id": "tt7631058",
+    "type": "tv"
+  },
+  {
     "title": "The Flash",
     "imdb_id": "tt3107288",
     "type": "tv"
   },
   {
-    "title": "The Voice",
-    "imdb_id": "tt1839337",
+    "title": "Tacoma FD",
+    "imdb_id": "tt8026448",
     "type": "tv"
   },
   {
@@ -75,28 +90,13 @@
     "type": "tv"
   },
   {
-    "title": "How I Met Your Mother",
-    "imdb_id": "tt0460649",
-    "type": "tv"
-  },
-  {
     "title": "Phineas and Ferb",
     "imdb_id": "tt0852863",
     "type": "tv"
   },
   {
-    "title": "Boundless Love",
-    "imdb_id": "tt29258720",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
-    "type": "tv"
-  },
-  {
-    "title": "Seinfeld",
-    "imdb_id": "tt0098904",
+    "title": "The Voice",
+    "imdb_id": "tt1839337",
     "type": "tv"
   }
 ]
