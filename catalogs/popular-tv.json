@@ -25,11 +25,6 @@
     "type": "tv"
   },
   {
-    "title": "Succession",
-    "imdb_id": "tt7660850",
-    "type": "tv"
-  },
-  {
     "title": "The Wire",
     "imdb_id": "tt0306414",
     "type": "tv"
@@ -37,6 +32,21 @@
   {
     "title": "Slow Horses",
     "imdb_id": "tt5875444",
+    "type": "tv"
+  },
+  {
+    "title": "Succession",
+    "imdb_id": "tt7660850",
+    "type": "tv"
+  },
+  {
+    "title": "Two and a Half Men",
+    "imdb_id": "tt0369179",
+    "type": "tv"
+  },
+  {
+    "title": "MobLand",
+    "imdb_id": "tt31510819",
     "type": "tv"
   },
   {
@@ -50,18 +60,8 @@
     "type": "tv"
   },
   {
-    "title": "Two and a Half Men",
-    "imdb_id": "tt0369179",
-    "type": "tv"
-  },
-  {
     "title": "The Mentalist",
     "imdb_id": "tt1196946",
-    "type": "tv"
-  },
-  {
-    "title": "Banshee",
-    "imdb_id": "tt2017109",
     "type": "tv"
   },
   {
@@ -70,23 +70,13 @@
     "type": "tv"
   },
   {
-    "title": "Community",
-    "imdb_id": "tt1439629",
+    "title": "The Queen of Flow",
+    "imdb_id": "tt8560918",
     "type": "tv"
   },
   {
-    "title": "The Lord of the Rings: The Rings of Power",
-    "imdb_id": "tt7631058",
-    "type": "tv"
-  },
-  {
-    "title": "Phineas and Ferb",
-    "imdb_id": "tt0852863",
-    "type": "tv"
-  },
-  {
-    "title": "Law & Order: Special Victims Unit",
-    "imdb_id": "tt0203259",
+    "title": "Doctor Who",
+    "imdb_id": "tt0436992",
     "type": "tv"
   },
   {
@@ -95,8 +85,18 @@
     "type": "tv"
   },
   {
-    "title": "MobLand",
-    "imdb_id": "tt31510819",
+    "title": "Phineas and Ferb",
+    "imdb_id": "tt0852863",
+    "type": "tv"
+  },
+  {
+    "title": "The Lord of the Rings: The Rings of Power",
+    "imdb_id": "tt7631058",
+    "type": "tv"
+  },
+  {
+    "title": "The Gilded Age",
+    "imdb_id": "tt4406178",
     "type": "tv"
   }
 ]

@@ -30,11 +30,6 @@
     "type": "tv"
   },
   {
-    "title": "Taurasi",
-    "imdb_id": "tt33290236",
-    "type": "tv"
-  },
-  {
     "title": "Casa Del Mundo with the Bankzitters",
     "imdb_id": "tt36933297",
     "type": "tv"
@@ -57,6 +52,11 @@
   {
     "title": "Victoria Avenging Psychologist",
     "imdb_id": "tt15331666",
+    "type": "tv"
+  },
+  {
+    "title": "If We Had Super Powers",
+    "imdb_id": "tt10801384",
     "type": "tv"
   }
 ]
